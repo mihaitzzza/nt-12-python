@@ -174,3 +174,140 @@ def my_function(param_1, param_2, *args, optional_param_1='abc', optional_param_
 #     print('FINALLY BRANCH!')
 
 
+# my_list = [1, 32, 3242]
+# list_length = len(my_list)
+#
+# print(len(my_list))  # print(list_length)
+# for index in range(0, len(my_list), 2):  # for index in range(0, list_length,2):
+#     print('index', index)
+#
+# # len(my_list)  # list_length
+# # len(my_list)  # list_length
+# # len(my_list)  # list_length
+# # len(my_list)  # list_length
+
+# def f():
+#     print('this is a function!')
+#
+# f()
+
+# (lambda *args, **kwargs: print('this is a lambda function!'))()
+# f()
+
+# my_students = [{
+#     'name': 'Popescu Ion',
+#     'grade': 7.00
+# }, {
+#     'name': 'Ionut George',
+#     'grade': 4.50
+# }, {
+#     'name': 'Dan Ionel',
+#     'grade': 10.00
+# }]
+#
+# # def sort_by_function(student):
+# #     return student["grade"]
+#
+#
+# my_students.sort(key=lambda student: student["grade"], reverse=True)
+#
+# print('my_students', my_students)
+
+# x = int(input('>'))
+# print('x', x)
+#
+# # if x % 2 == 0:
+# #     my_string = 'even'
+# # else:
+# #     my_string = 'odd'
+# my_string = 'even' if x % 2 == 0 else 'odd'
+#
+# print('my_string', my_string)
+
+# def f(n):
+#     # if n % 2 == 0:
+#     #     return 'even'
+#     # else:
+#     #     return 'odd'
+#     if n % 2 == 0:
+#         return 'even'
+#
+#     return 'odd'
+
+# my_list = [2, 7]
+#
+#
+# def f():
+#     a = 2
+#     b = 7
+#     my_list = "something else"
+#     print(a + b, my_list)
+#
+#
+# f()
+# print(my_list)
+
+# my_list = [1, 2, 3]
+#
+#
+# def f(my_list):
+#     print('my_list', my_list)
+#
+#
+# f(['a', 'b'])
+
+
+# my_list = [1, 2, 3, ['a', 'b', 'c']]
+#
+#
+# def f(a):
+#     # a = a[:]
+#     a = a.copy()
+#     a.append(4)
+#     a[3].append('d')
+#     print('a', a)
+#
+#
+# f(my_list)
+# print('my_list', my_list)
+
+# def f1():
+#     def f2():
+#         # a = 20
+#         print('this is f2', a)
+#         # print('---', dir(f1))
+#
+#     # a = 10
+#
+#     f2()
+#     print('this is f1', a)
+#
+#
+# a = 30
+#
+# f1()
+# print('this is main.py', a)
+
+
+# from .my_functions import f
+# from basics.my_functions import f, my_list
+# from basics.my_functions import *
+# import basics.my_functions
+# from basics.my_functions import *
+# from basics.my_variables import *
+# from basics.my_package.my_functions import f, my_list as f_my_list, my_string as f_my_string
+# from basics.my_package.my_variables import my_list, my_string as v_my_string
+from basics.my_package import f, f_my_list, v_my_list, f_my_string, v_my_string
+# import basics.my_functions as x
+# import random
+# import math
+
+# my_string = 'GLOBAL OVERWRITE!'
+
+if __name__ == '__main__':
+    # print('inside my_script.py', __name__, basics.my_functions.f(2, 5))
+    # print('inside my_script.py', __name__, basics.my_functions.my_list)
+    # print('inside my_script.py', __name__, basics.my_functions.my_string)
+    print('inside my_script.py', __name__, f(2, 5))
+    print('inside my_script.py', __name__, f_my_list, v_my_list)
+    print('inside my_script.py', __name__, f_my_string, v_my_string)
