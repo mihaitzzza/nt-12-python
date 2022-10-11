@@ -1,9 +1,14 @@
 import random
-from constants import words, max_lives
-from helpers import get_user_input, get_hashed_word
+from homeworks.hw4.constants import words, max_lives
+from homeworks.hw4.helpers import get_user_input, get_hashed_word
+
+
+def get_random_word():
+    return random.choice(words)
+
 
 if __name__ == '__main__':
-    random_word = random.choice(words)
+    random_word = get_random_word()
     lives = max_lives
 
     print('random_word', random_word)

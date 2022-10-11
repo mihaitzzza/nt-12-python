@@ -4,6 +4,7 @@ import string
 def get_user_input(used_chars):
     while True:
         user_input = input('your character: ')
+        print('---- inside function - user_input:', user_input)
 
         if user_input in string.ascii_letters and len(user_input) == 1 and user_input not in used_chars:
             return user_input.lower()
