@@ -1,0 +1,16 @@
+[
+  {
+    "id": "2300881d-8dea-4a09-b2c4-3797e78354ce",
+    "brand": "opel",
+    "model": "astra",
+    "hp": "75",
+    "price": "12000"
+  },
+  {
+    "id": "af2241e0-d7ba-425f-ba80-476335fe2f67",
+    "brand": "opel",
+    "model": "corsa",
+    "hp": "101",
+    "price": "20000"
+  }
+]

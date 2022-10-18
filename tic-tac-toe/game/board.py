@@ -41,7 +41,7 @@ class Board:
         # 2 1 => 8 | 2 * 3 + 1 + 1 => 8
         # 2 2 => 9 | 2 * 3 + 2 + 1 => 9
         if self.configuration[row][col].value is None:
-            return str(row * 3 + col)
+            return str(row * 3 + col + 1)
 
         return self.configuration[row][col].value
 

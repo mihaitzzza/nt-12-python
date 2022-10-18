@@ -12,20 +12,23 @@ class Game:
     def _get_user_input(self):
         available_moves = self.board.get_available_moves()
 
-        while True:
-            user_input = input(f'Available moves: {available_moves}. Player {self.player} choose your move: ')
+        if self.player == 'x':
+            while True:
+                user_input = input(f'Available moves: {available_moves}. Player {self.player} choose your move: ')
 
-            try:
-                user_input = int(user_input)
-            except ValueError:
-                print('Option not available.')
-                continue
+                try:
+                    user_input = int(user_input)
+                except ValueError:
+                    print('Option not available.')
+                    continue
 
-            if user_input not in available_moves:  # [1, 2, 3, 4, 5, 6, 7, 8, 9]
-                print('Option not available.')
-                continue
+                if user_input not in available_moves:  # [1, 2, 3, 4, 5, 6, 7, 8, 9]
+                    print('Option not available.')
+                    continue
 
-            return user_input
+                return user_input
+
+        return random.choice(available_moves)
 
     def run(self):
         print('Play the game...')
@@ -35,6 +38,7 @@ class Game:
             self.board.display()
 
             user_input = self._get_user_input()
+            print('user_input', user_input)
 
             self.winner = self.board.mark(self.player, user_input)
             if self.winner is not None:

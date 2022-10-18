@@ -1,0 +1,30 @@
+[
+  {
+    "id": "2300881d-8dea-4a09-b2c4-3797e78354ce",
+    "brand": "opel",
+    "model": "astra",
+    "hp": "75",
+    "price": "12000"
+  },
+  {
+    "id": "af2241e0-d7ba-425f-ba80-476335fe2f67",
+    "brand": "opel",
+    "model": "corsa",
+    "hp": "101",
+    "price": "20000"
+  },
+  {
+    "id": "c9435288-d5e8-45e8-90b8-0f11c1261ec5",
+    "brand": "mercedes",
+    "model": "a1",
+    "hp": "150",
+    "price": "20000"
+  },
+  {
+    "id": "02f71258-7c60-4d51-8481-9f66a51c1fd2",
+    "brand": "bmw",
+    "model": "x6",
+    "hp": "250",
+    "price": "50000"
+  }
+]
