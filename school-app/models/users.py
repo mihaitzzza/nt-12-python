@@ -9,12 +9,6 @@ class Role(DeclarativeBase, BaseModel):
     __tablename__ = 'roles'
     name = Column(Enum(RoleTypes), default=RoleTypes.student, unique=True)
 
-    def __str__(self):
-        return f'Role ID = {self.id} and name = {self.name}'
-
-    def __repr__(self):
-        return self.__str__()
-
 
 class User(DeclarativeBase, BaseModel):
     __tablename__ = 'users'
