@@ -1,0 +1,63 @@
+{
+  "PROCESOR": {
+    "Producator procesor": "Intel\u00ae",
+    "Tip procesor": "i3",
+    "Model procesor": "1115G4",
+    "Arhitectura": "Tiger Lake",
+    "Numar nuclee": "2",
+    "Frecventa nominala": "3 GHz",
+    "Frecventa Turbo Boost": "4.1 GHz",
+    "Cache": "6144 KB",
+    "Tehnologie procesor": "10 nm",
+    "Procesor grafic integrat": "Intel\u00ae UHD Graphics"
+  },
+  "AFISARE": {
+    "Diagonala display": "15.6 inch",
+    "Format display": "Full HD",
+    "Tehnologie display": "IPS",
+    "Luminozitate": "250 niti",
+    "Finisaj display": "Anti-Glare",
+    "Touchscreen": "Nu",
+    "Rezolutie": "1920 x 1080"
+  },
+  "MEMORIE": {
+    "Capacitate memorie": "8 GB",
+    "Tip memorie": "DDR4",
+    "Numar sloturi": "1",
+    "Sloturi ocupate": "1",
+    "Memorie integrata": "4096 MB"
+  },
+  "HARD DISK": {
+    "Tip stocare": "SSD",
+    "Capacitate SSD": "256 GB",
+    "Interfata SSD": "PCI Express\nM.2"
+  },
+  "PLACA VIDEO": {
+    "Tip placa video": "Integrata",
+    "Chipset video": "Intel UHD"
+  },
+  "MULTIMEDIA": {
+    "Unitate optica": "Nu",
+    "Camera WEB": "VGA",
+    "Audio": "Difuzoare stereo\nMicrofon"
+  },
+  "CONECTIVITATE & PORTURI": {
+    "Porturi": "2 x USB 2.0\n1 x HDMI\n1 x Audio Out/Microfon\n1 x USB 3.2 Type C Gen 1\n1 x USB 3.2 Type A Gen 1",
+    "Wireless": "802.11 ac",
+    "Versiune Bluetooth": "4.1"
+  },
+  "SOFTWARE": {
+    "Sistem de operare": "NO OS"
+  },
+  "CARACTERISTICI GENERALE": {
+    "Tastatura numerica": "Da",
+    "Greutate": "1.8 Kg",
+    "Dimensiuni (W x H x D)": "360 x 235 x 19.9 mm",
+    "Limba tastatura": "Tastatura internationala",
+    "Securitate": "Security lock\nSuport TPM",
+    "Material": "Plastic",
+    "Accesorii incluse": "Adaptor 45W",
+    "Caracteristici cheie": "TouchPad cu suport pentru gesturi multi atingere\nCamera web\nTastatura iluminata\nTastatura Chiclet\nBaterie 2 celule - 37Wh",
+    "Culoare": "Argintiu transparent"
+  }
+}

@@ -10,3 +10,7 @@ class BaseElement(ABC):
     @abstractmethod
     def extract_data(self):
         pass
+
+    @abstractmethod
+    def to_dict(self):
+        pass

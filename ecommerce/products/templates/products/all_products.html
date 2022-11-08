@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>My Products Page</title>
+    </head>
+    <body>
+        <div>
+            <a href="/">Homepage</a>
+            <a href="/products">Products</a>
+        </div>
+        <h1>Available products</h1>
+        {#<h1>{{ title }}</h1>#}
+        <ul>
+            {% for product in products %}
+                <li>
+                    {{ product.name }} ({{ product.price }} RON) - <a href="/products/{{ product.id }}">View details</a>
+                </li>
+            {% endfor %}
+        </ul>
+    </body>
+</html>

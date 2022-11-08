@@ -1,0 +1,2662 @@
+[
+  {
+    "title": "Laptop, Tablete & Telefoane",
+    "categories": [
+      {
+        "title": "Laptopuri si accesorii",
+        "subcategories": [
+          {
+            "title": "Laptopuri",
+            "products": [
+              {
+                "id": "a789bfc2-b9cb-48b3-973b-9a39f688d181",
+                "price": 1662.88,
+                "image_path": "./images/a789bfc2-b9cb-48b3-973b-9a39f688d181.jpg",
+                "specifications": {
+                  "PROCESOR": {
+                    "Producator procesor": "AMD",
+                    "Tip procesor": "Ryzen 3",
+                    "Model procesor": "3250U",
+                    "Arhitectura": "Zen",
+                    "Numar nuclee": "2",
+                    "Frecventa nominala": "2.6 GHz",
+                    "Frecventa Turbo Boost": "3.5 GHz",
+                    "Cache": "4096 KB",
+                    "Tehnologie procesor": "14 nm",
+                    "Procesor grafic integrat": "AMD Radeon\u2122 Graphics"
+                  },
+                  "AFISARE": {
+                    "Diagonala display": "14 inch",
+                    "Format display": "Full HD",
+                    "Tehnologie display": "LED",
+                    "Luminozitate": "220 niti",
+                    "Finisaj display": "Anti-Glare",
+                    "Touchscreen": "Nu",
+                    "Rezolutie": "1920 x 1080"
+                  },
+                  "MEMORIE": {
+                    "Capacitate memorie": "8 GB",
+                    "Tip memorie": "DDR4",
+                    "Numar sloturi": "2",
+                    "Frecventa": "2400 MHz"
+                  },
+                  "HARD DISK": {
+                    "Tip stocare": "SSD",
+                    "Capacitate SSD": "256 GB",
+                    "Interfata SSD": "PCI Express"
+                  },
+                  "PLACA VIDEO": {
+                    "Tip placa video": "Integrata",
+                    "Chipset video": "AMD Radeon",
+                    "Tehnologii placa video": "DirectX\u00ae 12"
+                  },
+                  "MULTIMEDIA": {
+                    "Unitate optica": "Nu",
+                    "Camera WEB": "VGA",
+                    "Audio": "Difuzoare stereo"
+                  },
+                  "CONECTIVITATE & PORTURI": {
+                    "Porturi": "1 x HDMI\n1 x RJ-45\n1 x USB type C\n1 x Audio Out/Microfon\n2 x USB 3.1 Gen 1",
+                    "Cititor de carduri": "SD\nSDHC\nSDXC",
+                    "Wireless": "802.11 ac 2x2",
+                    "Versiune Bluetooth": "4.2",
+                    "3G": "Nu",
+                    "4G": "Nu"
+                  },
+                  "SOFTWARE": {
+                    "Sistem de operare": "Windows 10 Home"
+                  },
+                  "CARACTERISTICI GENERALE": {
+                    "Tastatura numerica": "Nu",
+                    "Greutate": "1.52 Kg",
+                    "Dimensiuni (W x H x D)": "335 x 234 x 19.9 mm",
+                    "Limba tastatura": "Tastatura internationala",
+                    "Securitate": "Security lock\nTPM 2.0",
+                    "Accesorii incluse": "Adaptor 65W",
+                    "Caracteristici cheie": "Camera web\nTouchpad care accepta gesturi de atingeri multiple\nTastatura Chiclet",
+                    "Culoare": "Negru"
+                  }
+                }
+              },
+              {
+                "id": "623c23c0-e2e6-42c5-b342-f9e359c9a3e0",
+                "price": 2249.99,
+                "image_path": "./images/623c23c0-e2e6-42c5-b342-f9e359c9a3e0.jpg",
+                "specifications": {
+                  "PROCESOR": {
+                    "Producator procesor": "Intel\u00ae",
+                    "Tip procesor": "i5",
+                    "Model procesor": "1135G7",
+                    "Arhitectura": "Tiger Lake",
+                    "Numar nuclee": "4",
+                    "Frecventa nominala": "2.4 GHz",
+                    "Frecventa Turbo Boost": "4.2 GHz",
+                    "Cache": "8192 KB",
+                    "Tehnologie procesor": "10 nm",
+                    "Procesor grafic integrat": "Intel\u00ae Iris\u2122 Xe Graphics"
+                  },
+                  "AFISARE": {
+                    "Diagonala display": "15.6 inch",
+                    "Format display": "Full HD",
+                    "Tehnologie display": "LED",
+                    "Luminozitate": "250 niti",
+                    "Finisaj display": "Anti-Glare",
+                    "Touchscreen": "Nu",
+                    "Rezolutie": "1920 x 1080"
+                  },
+                  "MEMORIE": {
+                    "Capacitate memorie": "8 GB",
+                    "Tip memorie": "DDR4",
+                    "Numar sloturi": "2",
+                    "Sloturi ocupate": "2",
+                    "Frecventa": "2666 MHz"
+                  },
+                  "HARD DISK": {
+                    "Tip stocare": "SSD",
+                    "Capacitate SSD": "512 GB",
+                    "Interfata SSD": "PCI Express\nM.2"
+                  },
+                  "PLACA VIDEO": {
+                    "Tip placa video": "Integrata",
+                    "Chipset video": "Intel Iris Xe",
+                    "Tehnologii placa video": "Direct X12"
+                  },
+                  "MULTIMEDIA": {
+                    "Unitate optica": "Nu",
+                    "Camera WEB": "HD",
+                    "Audio": "Difuzoare stereo\nMicrofoane duale"
+                  },
+                  "CONECTIVITATE & PORTURI": {
+                    "Porturi": "2 x USB 3.1\n1 x HDMI\n1 x RJ-45\n1 x USB type C\n1 x Audio Out/Microfon",
+                    "Cititor de carduri": "SD\nSDHC\nSDXC",
+                    "Retea": "10/100/1000",
+                    "Wireless": "802.11 a/b/g/n/ac 2x2",
+                    "Versiune Bluetooth": "5.0"
+                  },
+                  "SOFTWARE": {
+                    "Sistem de operare": "Free DOS"
+                  },
+                  "CARACTERISTICI GENERALE": {
+                    "Platforma producator": "HP 15 Series",
+                    "Tastatura numerica": "Da",
+                    "Greutate": "1.75 Kg",
+                    "Dimensiuni (W x H x D)": "358.5 x 242 x 19.9 mm",
+                    "Limba tastatura": "Tastatura internationala",
+                    "Securitate": "TPM",
+                    "Accesorii incluse": "Adaptor 45W",
+                    "Autonomie baterie": "7.15 h",
+                    "Caracteristici cheie": "Camera web\nTouchpad care accepta gesturi de atingeri multiple\nTastatura Chiclet\nBaterie 3 celule - 41Wh",
+                    "Culoare": "Negru"
+                  }
+                }
+              },
+              {
+                "id": "76438b52-5d7f-4fb4-a9aa-58e4c1766f8d",
+                "price": 1349.99,
+                "image_path": "./images/76438b52-5d7f-4fb4-a9aa-58e4c1766f8d.jpg",
+                "specifications": {
+                  "PROCESOR": {
+                    "Producator procesor": "Intel\u00ae",
+                    "Tip procesor": "i3",
+                    "Model procesor": "1115G4",
+                    "Arhitectura": "Tiger Lake",
+                    "Numar nuclee": "2",
+                    "Frecventa nominala": "3 GHz",
+                    "Frecventa Turbo Boost": "4.1 GHz",
+                    "Cache": "6144 KB",
+                    "Tehnologie procesor": "10 nm",
+                    "Procesor grafic integrat": "Intel\u00ae UHD Graphics"
+                  },
+                  "AFISARE": {
+                    "Diagonala display": "15.6 inch",
+                    "Format display": "Full HD",
+                    "Tehnologie display": "TN",
+                    "Luminozitate": "250 niti",
+                    "Finisaj display": "Anti-Glare",
+                    "Touchscreen": "Nu",
+                    "Rezolutie": "1920 x 1080"
+                  },
+                  "MEMORIE": {
+                    "Capacitate memorie": "4 GB",
+                    "Tip memorie": "DDR4",
+                    "Numar sloturi": "1",
+                    "Frecventa": "3200 MHz",
+                    "Memorie integrata": "4096 MB",
+                    "Capacitate memorie maxima suportata": "12 GB"
+                  },
+                  "HARD DISK": {
+                    "Tip stocare": "SSD",
+                    "Capacitate SSD": "256 GB",
+                    "Interfata SSD": "PCI Express\nM.2"
+                  },
+                  "PLACA VIDEO": {
+                    "Tip placa video": "Integrata",
+                    "Chipset video": "Intel UHD"
+                  },
+                  "MULTIMEDIA": {
+                    "Unitate optica": "Nu",
+                    "Camera WEB": "HD",
+                    "Audio": "Difuzoare stereo\nMicrofoane duale",
+                    "Tehnologii audio": "HD Audio\nDolby Audio",
+                    "Putere difuzoare": "3 W"
+                  },
+                  "CONECTIVITATE & PORTURI": {
+                    "Porturi": "1 x USB 2.0\n1 x HDMI\n1 x Audio Out/Microfon\n1 x USB 3.2 Type C Gen 1\n1 x USB 3.2 Type A Gen 1",
+                    "Cititor de carduri": "SD\nSDHC\nSDXC",
+                    "Wireless": "802.11 ac 2x2",
+                    "Versiune Bluetooth": "5.0"
+                  },
+                  "SOFTWARE": {
+                    "Sistem de operare": "NO OS"
+                  },
+                  "CARACTERISTICI GENERALE": {
+                    "Platforma producator": "IdeaPad 3",
+                    "Tastatura numerica": "Da",
+                    "Greutate": "1.65 Kg",
+                    "Dimensiuni (W x H x D)": "359.2 x 236.5 x 19.9 mm",
+                    "Limba tastatura": "Tastatura internationala",
+                    "Securitate": "TPM 2.0 (Trusted Platform Module)\nCamera Shutter",
+                    "Accesorii incluse": "Adaptor 65W",
+                    "Autonomie baterie": "5.5 h\n8.5 h",
+                    "Caracteristici cheie": "Camera web\nTouchpad care accepta gesturi de atingeri multiple\nTastatura Chiclet\nBaterie 38Wh",
+                    "Culoare": "Sand"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Genti laptop",
+            "products": [
+              {
+                "id": "bd367fa5-f680-4d36-802c-0df926e963a1",
+                "price": 132.0,
+                "image_path": "./images/bd367fa5-f680-4d36-802c-0df926e963a1.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Rucsac",
+                    "Culoare": "Negru",
+                    "Compatibilitate maxima laptop": "17 inch",
+                    "Compatibilitate minima laptop": "15 inch",
+                    "Functii": "Rezistent la apa\nRezistent la zgarieturi\nBretele ajustabile\nAtasabil la bagaje",
+                    "Numar compartimente interioare": "1",
+                    "Tip inchidere": "Fermoar",
+                    "Material": "Poliester",
+                    "Continut pachet": "1 x Rucsac"
+                  }
+                }
+              },
+              {
+                "id": "e64fd816-8932-48ba-9700-1ceb0a9da33d",
+                "price": 198.99,
+                "image_path": "./images/e64fd816-8932-48ba-9700-1ceb0a9da33d.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Rucsac",
+                    "Culoare": "Gri",
+                    "Compatibilitate maxima laptop": "15.6 inch",
+                    "Functii": "Fermoare durabile\nRezistent la apa\nPort USB\nBretele ajustabile\nCompartiment pixuri\nCompartiment documente\nSuport chei\nBuzunar pentru tableta\nCompartiment pentru laptop\nSuport pentru lacat\n2 buzunare laterale\nCompartimente speciale\nAtasabil la troler\n1 Buzunar antifurt cu fermoar in partea din spate\n3x Buzunare frontale cu fermoar",
+                    "Numar compartimente exterioare": "8",
+                    "Numar compartimente interioare": "17",
+                    "Tip inchidere": "Fermoar",
+                    "Material": "Poliester",
+                    "Continut pachet": "1 x Geanta laptop"
+                  },
+                  "DIMENSIUNI": {
+                    "Lungime": "305 mm",
+                    "Inaltime": "460 mm",
+                    "Adancime": "200 mm",
+                    "Greutate": "900 g",
+                    "Volum": "32 l"
+                  }
+                }
+              },
+              {
+                "id": "d5ad1acc-2441-4148-9bde-d4b353ed6495",
+                "price": 55.0,
+                "image_path": "./images/d5ad1acc-2441-4148-9bde-d4b353ed6495.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Geanta postas",
+                    "Culoare": "Negru",
+                    "Compatibilitate maxima laptop": "15.6 inch",
+                    "Functii": "Rezistent la apa\nCompartiment accesorii\nCompartiment laptop captusit",
+                    "Tip inchidere": "Fermoar",
+                    "Material": "Textil"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Docking stations",
+            "products": [
+              {
+                "id": "cf2e8d55-f469-4645-8656-5ea1432d7cb6",
+                "price": 184.31,
+                "image_path": "./images/cf2e8d55-f469-4645-8656-5ea1432d7cb6.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Brand compatibil": "Universal",
+                    "Model compatibil": "Universal",
+                    "Tip conectivitate": "USB-C",
+                    "Tip alimentare": "USB",
+                    "Interfata": "3 x USB 3.0\n1 x RJ-45\n1 x HDMI\n1 x USB-C\n1 x Card reader MicroSD/SD",
+                    "Sistem de operare compatibil": "Universal",
+                    "Retea suportata": "10/100/1000",
+                    "Rezolutie suportata": "4K",
+                    "Putere alimentare": "100 W",
+                    "Continut pachet": "1 x Docking station",
+                    "Culoare": "Gri"
+                  }
+                }
+              },
+              {
+                "id": "689beee0-fe89-4116-a370-0999c8b9987d",
+                "price": 69.95,
+                "image_path": "./images/689beee0-fe89-4116-a370-0999c8b9987d.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Brand compatibil": "Universal",
+                    "Model compatibil": "Universal",
+                    "Tip conectivitate": "USB-C",
+                    "Tip alimentare": "USB",
+                    "Interfata": "1 x USB 3.0\n3 x USB 2.0",
+                    "Sistem de operare compatibil": "Universal",
+                    "Culoare": "Space Gray"
+                  }
+                }
+              },
+              {
+                "id": "78f2fc79-6ca8-4965-8784-40a82258fbeb",
+                "price": 339.15,
+                "image_path": "./images/78f2fc79-6ca8-4965-8784-40a82258fbeb.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Brand compatibil": "Universal\nAsus\nApple\nSony\nLenovo\nAcer\nMicrosoft\nToshiba\nDell\nHP\nMSI\nFujitsu",
+                    "Model compatibil": "Apple MacBook Pro 13-inch 2016\nApple MacBook Pro 15-inch 2016\nApple MacBook Pro 15-inch 2017\n2018 MacBook Air\nMacBook Pro13,3 (15-inch Touch Late 2016)\n2019/2018 MacBook Pro\n2016/2017/2018/2019 MacBook Pro\nApple MacBook Pro 13-inch 2018\nApple MacBook Pro 16-inch 2019\nApple MacBook Pro 16-inch 2020\n2021 MacBook Pro 14 inchi, 16 inchi (M1 Pro \u0219i Max), 2020/2019/2018/2017 MacBook Pro, 2021 MacBook Air M1, 2020/2018 MacBook Air, 2020 M1 MacBook Pro",
+                    "Tip conectivitate": "USB-C",
+                    "Tip alimentare": "USB",
+                    "Interfata": "1 x USB 2.0\n1 x USB Tip-C\n3 x USB 3.0\n1 x VGA\n1 x Gigabit Ethernet\n1 x Audio Jack 3,5mm\n1 x SD card slot\n1 x TF card reader\n1 x PD\n2 x HDMI 4K 30HZ",
+                    "Sistem de operare compatibil": "Universal",
+                    "Retea suportata": "10/100/1000",
+                    "Rezolutie suportata": "4K",
+                    "Continut pachet": "Docking Station",
+                    "Culoare": "Gri inchis"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Telefoane mobile & accesorii",
+        "subcategories": [
+          {
+            "title": "Telefoane Mobile",
+            "products": [
+              {
+                "id": "c1b04671-68c1-45c0-bf38-21d8e8e54445",
+                "price": 1235.82,
+                "image_path": "./images/c1b04671-68c1-45c0-bf38-21d8e8e54445.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip telefon": "Smartphone",
+                    "Sloturi SIM": "Hybrid SIM",
+                    "Tip SIM": "Nano SIM",
+                    "Sistem de operare": "Android",
+                    "Versiune sistem operare": "Android 12",
+                    "Numar nuclee": "8",
+                    "Model procesor": "Exynos 1280",
+                    "Frecventa procesor": "2 GHz\n2.4 GHz",
+                    "Tehnologii": "2G\n3G\n4G\n5G",
+                    "Conectivitate": "Wi-Fi\nBluetooth\nNFC",
+                    "Senzori": "Accelerometru\nGiroscop\nAmprenta\nSenzor de proximitate\nSenzor de lumina",
+                    "Continut pachet": "Telefon",
+                    "Culoare": "Albastru",
+                    "Dimensiuni": "74 x 8.1 x 159.7 mm",
+                    "Greutate": "186 g",
+                    "SAR (W/kg)": "Cap 0.574\nCorp 1.59",
+                    "An aparitie": "2022",
+                    "Protectie": "Waterproof",
+                    "RO-ALERT": "Da"
+                  },
+                  "AFISARE": {
+                    "Dimensiune ecran": "6.2 inch",
+                    "Tip display": "Super AMOLED",
+                    "Rezolutie (pixeli)": "1080 x 2400"
+                  },
+                  "MEMORIE": {
+                    "Memorie interna": "128 GB",
+                    "Memorie RAM": "6 GB",
+                    "Slot card memorie": "MicroSD"
+                  },
+                  "CONECTIVITATE": {
+                    "Versiune Bluetooth": "5.1",
+                    "Standard Wi-Fi": "802.11 a/b/g/n/ac",
+                    "Porturi": "USB Type C"
+                  },
+                  "FOTO VIDEO": {
+                    "Numar camere": "5",
+                    "Rezolutie camera principala": "48 MP Wide\n8 MP Ultrawide\n5 MP Macro",
+                    "Rezolutie camera frontala": "13 Mpx",
+                    "Rezolutie video": "UHD",
+                    "Caracteristici foto/video": "Auto focus",
+                    "Blit": "Da"
+                  },
+                  "ALIMENTARE": {
+                    "Tip baterie": "Li-Po",
+                    "Capacitate baterie": "5000 mAh"
+                  }
+                }
+              },
+              {
+                "id": "f1051e8f-97b6-48af-8f35-f6ff1a70f122",
+                "price": 3999.99,
+                "image_path": "./images/f1051e8f-97b6-48af-8f35-f6ff1a70f122.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip telefon": "Smartphone",
+                    "Sloturi SIM": "Dual SIM",
+                    "Tip SIM": "Nano SIM",
+                    "Sistem de operare": "Android",
+                    "Versiune sistem operare": "Android 12",
+                    "Numar nuclee": "8",
+                    "Model procesor": "Qualcomm Snapdragon 8 Plus Gen 1",
+                    "Frecventa procesor": "3.2 GHz",
+                    "Tehnologii": "2G\n3G\n4G\n5G",
+                    "Conectivitate": "Wi-Fi\nBluetooth\nNFC\nGPS\nIncarcare wireless",
+                    "Senzori": "Accelerometru\nGiroscop\nAmprenta\nBusola\nSenzor de proximitate\nSenzor de lumina",
+                    "Continut pachet": "Telefon\nCablu de date USB Type-C",
+                    "Culoare": "Interstellar Black",
+                    "Dimensiuni": "73.5 x 8.3 x 161.7 mm",
+                    "Greutate": "198.5 g",
+                    "SAR (W/kg)": "Cap: 0.89 W/kg\nCorp: 1.26 W/kg",
+                    "An aparitie": "2022",
+                    "Altele": "Incarcare rapida 125W\nIP52\nSenzor amprenta in ecran",
+                    "RO-ALERT": "Da"
+                  },
+                  "AFISARE": {
+                    "Dimensiune ecran": "6.7 inch",
+                    "Tip display": "P-OLED",
+                    "Rezolutie (pixeli)": "1080 x 2400",
+                    "Functii display": "HDR10+\nFHD+\n394 PPI\n1.07 miliarde de culori (10 biti)\nRata de reimprospatare de 144 Hz\nCurbat (53 grade)"
+                  },
+                  "MEMORIE": {
+                    "Memorie interna": "256 GB",
+                    "Memorie RAM": "12 GB"
+                  },
+                  "CONECTIVITATE": {
+                    "Versiune Bluetooth": "5.2",
+                    "Standard Wi-Fi": "Dual Band\nWi-fi direct\nWi-fi hotspot\n802.11 a/b/g/n/ac/ax",
+                    "Porturi": "USB Type C"
+                  },
+                  "FOTO VIDEO": {
+                    "Numar camere": "3",
+                    "Rezolutie camera principala": "50 MP Wide\n12 MP Depth\n200 MP Wide",
+                    "Rezolutie camera frontala": "60 Mpx",
+                    "Rezolutie video": "Full HD\n4K\n8K",
+                    "Caracteristici foto/video": "Panorama\nHDR\nStabilizare optica a imaginii\nMod portret\nNight mode\nInregistrare duala",
+                    "Blit": "Da"
+                  },
+                  "ALIMENTARE": {
+                    "Tip baterie": "Li-Po",
+                    "Capacitate baterie": "4610 mAh"
+                  }
+                }
+              },
+              {
+                "id": "65e0b3dd-3007-4134-bace-05248cb730b2",
+                "price": 2229.99,
+                "image_path": "./images/65e0b3dd-3007-4134-bace-05248cb730b2.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip telefon": "Smartphone",
+                    "Sloturi SIM": "Dual SIM",
+                    "Tip SIM": "Nano SIM\neSIM",
+                    "Sistem de operare": "iOS",
+                    "Versiune sistem operare": "iOS 13",
+                    "Numar nuclee": "6",
+                    "Model procesor": "Apple A13 Bionic",
+                    "Frecventa procesor": "2.65 GHz\n1.8 GHz",
+                    "Tehnologii": "2G\n3G\n4G",
+                    "Conectivitate": "Wi-Fi\nBluetooth\nNFC\nGPS",
+                    "Senzori": "Accelerometru\nBarometru\nGiroscop\nRecunoastere faciala\nSenzor de proximitate\nSenzor de lumina",
+                    "Continut pachet": "Telefon\nCablu USB-C - Lightning",
+                    "Culoare": "Alb",
+                    "Dimensiuni": "75.7 x 8.3 x 150.9 mm",
+                    "Greutate": "194 g",
+                    "SAR (W/kg)": "0.99",
+                    "An aparitie": "2019",
+                    "Protectie": "Waterproof\nDustproof",
+                    "RO-ALERT": "Da"
+                  },
+                  "AFISARE": {
+                    "Dimensiune ecran": "6.1 inch",
+                    "Tip display": "IPS",
+                    "Rezolutie (pixeli)": "828 x 1792",
+                    "Functii display": "True tone\nHaptic touch"
+                  },
+                  "MEMORIE": {
+                    "Memorie interna": "64 GB",
+                    "Memorie RAM": "4 GB"
+                  },
+                  "CONECTIVITATE": {
+                    "Versiune Bluetooth": "5.0\nA2DP\nLE",
+                    "Standard Wi-Fi": "Dual Band\nWi-fi hotspot\n802.11ax 2x2",
+                    "Porturi": "Lightning"
+                  },
+                  "FOTO VIDEO": {
+                    "Numar camere": "2",
+                    "Rezolutie camera principala": "12 MP Wide\n12 MP Ultrawide",
+                    "Rezolutie camera frontala": "12 Mpx",
+                    "Rezolutie video": "Full HD\n4K",
+                    "Caracteristici foto/video": "Geotagging\nPanorama\nHDR\nSlow motion\nTime-lapse",
+                    "Blit": "Da"
+                  },
+                  "ALIMENTARE": {
+                    "Tip baterie": "Li-Ion",
+                    "Capacitate baterie": "3110 mAh"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Huse telefoane",
+            "products": [
+              {
+                "id": "d3163346-b408-495d-a4be-49116924d86b",
+                "price": 19.0,
+                "image_path": "./images/d3163346-b408-495d-a4be-49116924d86b.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Carcasa\nEtui",
+                    "Brand compatibil": "Samsung",
+                    "Model compatibil": "Galaxy S21 FE",
+                    "Functii": "Rezistent la apa\nRezistent la socuri\nRezistent la praf\nAnti alunecare",
+                    "Material": "Silicon",
+                    "Culoare": "Transparent",
+                    "Continut pachet": "1 x Carcasa de protectie"
+                  }
+                }
+              },
+              {
+                "id": "c3e034e9-9ccf-4149-b589-1ff01b58037d",
+                "price": 54.99,
+                "image_path": "./images/c3e034e9-9ccf-4149-b589-1ff01b58037d.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Etui",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPhone 11 Pro Max",
+                    "Functii": "Rezistent la praf\nWireless charging\nAnti alunecare\nAntimicrobian",
+                    "Material": "Silicon",
+                    "Culoare": "Army Green",
+                    "Continut pachet": "1 x husa silicon"
+                  }
+                }
+              },
+              {
+                "id": "853cebcb-9cbd-4b86-9b8e-4c1d0bab7789",
+                "price": 19.99,
+                "image_path": "./images/853cebcb-9cbd-4b86-9b8e-4c1d0bab7789.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Carcasa",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPhone 11",
+                    "Functii": "Anti gravity",
+                    "Material": "Plastic",
+                    "Culoare": "Transparent"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Folii protectie telefoane",
+            "products": [
+              {
+                "id": "3c474e5c-8a48-450e-b7e1-b8c0a77f67ad",
+                "price": 8.93,
+                "image_path": "./images/3c474e5c-8a48-450e-b7e1-b8c0a77f67ad.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Transparenta",
+                    "Tip aplicare": "Full screen",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPhone XS Max\niPhone 11 Pro Max",
+                    "Grosime": "0.3 mm",
+                    "Duritate sticla": "9H",
+                    "Material": "Sticla securizata",
+                    "Culoare": "Negru",
+                    "Tehnologii": "5D"
+                  }
+                }
+              },
+              {
+                "id": "666e72d9-39fd-46f9-b352-73b03ad8fc1d",
+                "price": 39.98,
+                "image_path": "./images/666e72d9-39fd-46f9-b352-73b03ad8fc1d.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Anti reflexie\nAntiShock",
+                    "Tip aplicare": "Fata",
+                    "Cantitate pachet": "1",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPhone 11",
+                    "Grosime": "0.3 mm",
+                    "Duritate sticla": "9H+",
+                    "Material": "Sticla\nSticla securizata",
+                    "Tehnologii": "Sticla Asahi Japonia\nFull Cover (acopera intreg ecranul)\n3D\nRezistent la apa\nStrat Oleofobic\nRezistenta la soc\nRezistenta la zgarierturi"
+                  }
+                }
+              },
+              {
+                "id": "f1d92e22-102b-44df-a5f9-31d227fcad26",
+                "price": 9.52,
+                "image_path": "./images/f1d92e22-102b-44df-a5f9-31d227fcad26.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Transparenta",
+                    "Tip aplicare": "Full screen",
+                    "Cantitate pachet": "1",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPhone XR\niPhone 11",
+                    "Grosime": "0.3 mm",
+                    "Duritate sticla": "9H",
+                    "Material": "Sticla securizata",
+                    "Culoare": "Negru",
+                    "Tehnologii": "5D"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tablete & accesorii",
+        "subcategories": [
+          {
+            "title": "Tablete",
+            "products": [
+              {
+                "id": "9ea89be4-3f62-431a-a071-37888b257691",
+                "price": 649.99,
+                "image_path": "./images/9ea89be4-3f62-431a-a071-37888b257691.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Conectivitate": "Fara SIM",
+                    "Sistem de operare": "Android",
+                    "Versiune sistem operare": "Android 11",
+                    "Tehnologii": "Bluetooth\nGPS\nGLONASS\nWi-Fi",
+                    "Senzori": "Accelerometer\nProximitate\nLumina ambientala",
+                    "Functii": "Dual Speakers\nDolby atmos",
+                    "Continut pachet": "1 x Tableta\n1 x Statie Incarcare",
+                    "Culoare": "Iron Grey",
+                    "Inaltime": "199.1 mm",
+                    "Latime": "121.8 mm",
+                    "Grosime": "8.15 mm",
+                    "Greutate": "305 g",
+                    "Material": "Metal\nABS\nPC"
+                  },
+                  "PROCESOR": {
+                    "Producator procesor": "MediaTek",
+                    "Model procesor": "MediaTek Helio P22T",
+                    "Numar nuclee": "8",
+                    "Frecventa": "2.3 GHz\n1.8 GHz",
+                    "Producator chipset video": "Mediatek"
+                  },
+                  "AFISARE": {
+                    "Tehnologie display": "IPS",
+                    "Diagonala display": "8 inch",
+                    "Rezolutie": "1280 x 800"
+                  },
+                  "MEMORIE": {
+                    "Tip memorie": "LPDDR4X",
+                    "Capacitate memorie": "4 GB"
+                  },
+                  "STOCARE": {
+                    "Capacitate stocare": "64 GB"
+                  },
+                  "CONECTIVITATE": {
+                    "Versiune Bluetooth": "5.0",
+                    "Wireless": "802.11a/b/g/n/ac",
+                    "Porturi": "1 x Jack 3.5 mm\n1 x USB-C\n1 x Pogo pin"
+                  },
+                  "ACUMULATOR": {
+                    "Baterie detasabila": "Nu",
+                    "Tip acumulator": "Li-Polymer",
+                    "Capacitate acumulator": "5000 mAh",
+                    "Autonomie baterie": "2 s\n18 h\n12 h"
+                  },
+                  "MULTIMEDIA": {
+                    "Rezolutie camera principala": "5 Mpx",
+                    "Rezolutie camera frontala": "2 Mpx"
+                  }
+                }
+              },
+              {
+                "id": "45938376-e18f-49de-89ca-b794dbe99cb6",
+                "price": 1759.98,
+                "image_path": "./images/45938376-e18f-49de-89ca-b794dbe99cb6.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Conectivitate": "Fara SIM",
+                    "Sistem de operare": "iPadOS",
+                    "Versiune sistem operare": "iPadOS 15",
+                    "Tehnologii": "Bluetooth\nWi-Fi",
+                    "Senzori": "Busola digitala\nGyroscope\nSenzor de lumina\nBarometer\nAcceleratie\nTouch ID",
+                    "Continut pachet": "1 x Incarcator retea\n1 x iPad",
+                    "Culoare": "Space Grey",
+                    "Inaltime": "250.6 mm",
+                    "Latime": "174.1 mm",
+                    "Grosime": "7.5 mm",
+                    "Greutate": "487 g",
+                    "Material": "Aluminiu"
+                  },
+                  "PROCESOR": {
+                    "Producator procesor": "Apple",
+                    "Model procesor": "A13 Bionic"
+                  },
+                  "AFISARE": {
+                    "Tehnologie display": "IPS",
+                    "Diagonala display": "10.2 inch",
+                    "Rezolutie": "1620 x 2160"
+                  },
+                  "STOCARE": {
+                    "Capacitate stocare": "64 GB"
+                  },
+                  "CONECTIVITATE": {
+                    "Versiune Bluetooth": "4.2",
+                    "Wireless": "802.11 a/b/g/n/ac",
+                    "Porturi": "1 x Jack 3.5 mm\n1 x Lightning"
+                  },
+                  "ACUMULATOR": {
+                    "Baterie detasabila": "Nu",
+                    "Tip acumulator": "Li-Polymer",
+                    "Autonomie baterie": "10 h"
+                  },
+                  "MULTIMEDIA": {
+                    "Rezolutie camera principala": "8 Mpx",
+                    "Rezolutie camera frontala": "12 Mpx"
+                  }
+                }
+              },
+              {
+                "id": "9783bb6f-4e6a-4a6d-a89e-75711b037239",
+                "price": 699.99,
+                "image_path": "./images/9783bb6f-4e6a-4a6d-a89e-75711b037239.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Conectivitate": "Fara SIM",
+                    "Sistem de operare": "Android",
+                    "Versiune sistem operare": "Android 11",
+                    "Tehnologii": "Bluetooth\nGPS\nGLONASS\nWi-Fi",
+                    "Senzori": "Compas\nAccelerometer\nLumina\nGeo-magnetic",
+                    "Continut pachet": "Tableta",
+                    "Culoare": "Argintiu",
+                    "Inaltime": "212.5 mm",
+                    "Latime": "124.7 mm",
+                    "Grosime": "8 mm",
+                    "Greutate": "366 g",
+                    "Dual Sim": "Nu"
+                  },
+                  "PROCESOR": {
+                    "Producator procesor": "MediaTek",
+                    "Model procesor": "MT8768T Helio P22T",
+                    "Numar nuclee": "8",
+                    "Frecventa": "1.8 GHz\n2.3 GHz",
+                    "Tehnologie procesor": "12 nm",
+                    "Producator chipset video": "PowerVR GE8320"
+                  },
+                  "AFISARE": {
+                    "Tehnologie display": "TFT",
+                    "Diagonala display": "8.7 inch",
+                    "Rezolutie": "1340 x 800",
+                    "Numar culori": "16M"
+                  },
+                  "MEMORIE": {
+                    "Capacitate memorie": "3 GB"
+                  },
+                  "STOCARE": {
+                    "Capacitate stocare": "32 GB",
+                    "Tip slot memorie": "Micro SD",
+                    "Capacitate maxima card de memorie": "1 TB"
+                  },
+                  "CONECTIVITATE": {
+                    "Versiune Bluetooth": "5.0",
+                    "Wireless": "802.11 a/b/g/n/ac",
+                    "Porturi": "1 x Jack 3.5 mm\n1 x USB 2.0 type C"
+                  },
+                  "ACUMULATOR": {
+                    "Baterie detasabila": "Nu",
+                    "Tip acumulator": "Li-Polymer",
+                    "Capacitate acumulator": "5100 mAh"
+                  },
+                  "MULTIMEDIA": {
+                    "Rezolutie camera principala": "8 Mpx",
+                    "Rezolutie camera frontala": "2 Mpx",
+                    "Redare video": "Full HD\nMP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM",
+                    "Redare audio": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA\nDolby Atmos",
+                    "Redare imagine": "Da"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Huse tablete",
+            "products": [
+              {
+                "id": "ac86c5d7-7693-4332-90c7-d60af27fcd76",
+                "price": 82.98,
+                "image_path": "./images/ac86c5d7-7693-4332-90c7-d60af27fcd76.jpg",
+                "specifications": {
+                  "CARACTERISTICI": {
+                    "Tip accesoriu": "Husa",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPad Pro 10.5\"\niPad Air 3\niPad 8 10.2\" (2020)\niPad 7 10.2\" (2019)\niPad 9 10.2\" (2021)",
+                    "Culoare": "Negru"
+                  },
+                  "DIMENSIUNI": {
+                    "Diagonala Tableta (inch)": "10.2"
+                  }
+                }
+              },
+              {
+                "id": "94c26dd3-9b93-4e2c-b6d0-b37590c29352",
+                "price": 73.83,
+                "image_path": "./images/94c26dd3-9b93-4e2c-b6d0-b37590c29352.jpg",
+                "specifications": {
+                  "CARACTERISTICI": {
+                    "Tip accesoriu": "Flip cover",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPad 8 10.2\" (2020)\niPad 7 10.2\" (2019)\niPad 9 10.2\" (2021)",
+                    "Culoare": "Bleumarin"
+                  },
+                  "DIMENSIUNI": {
+                    "Diagonala Tableta (inch)": "10.2\""
+                  }
+                }
+              },
+              {
+                "id": "dd7e5eca-a2cb-49e7-a6be-31e12ed7e629",
+                "price": 73.05,
+                "image_path": "./images/dd7e5eca-a2cb-49e7-a6be-31e12ed7e629.jpg",
+                "specifications": {
+                  "CARACTERISTICI": {
+                    "Tip accesoriu": "Book cover\nSmart cover\nHuse tablete",
+                    "Brand compatibil": "Apple",
+                    "Model compatibil": "iPad 9 10.2\" (2021)",
+                    "Compatibilitate minima": "A2603\nA2604",
+                    "Caracteristici speciale": "Acces usor la toate butoanele si sloturile tabletei",
+                    "Invelis": "Piele ecologica, captuseala din Catifea si inchidere magnetica.",
+                    "Altele": "Aceasta Husa nu este Universala, se potriveste doar la modelul prezentat in titlu, indiferent de cati inch are tableta dumneavoastra.\nTableta nu este inclusa",
+                    "Culoare": "Negru"
+                  },
+                  "COMPOZITIE": {
+                    "Exterior": "Piele ecologica"
+                  },
+                  "DIMENSIUNI": {
+                    "Diagonala Tableta (inch)": "10.2",
+                    "Greutate": "0.02"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Folii protectie tablete",
+            "products": [
+              {
+                "id": "1a36eac5-8382-4cd6-a811-93a59971d0aa",
+                "price": 29.99,
+                "image_path": "./images/1a36eac5-8382-4cd6-a811-93a59971d0aa.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip accesoriu": "Folie protectie din sticla securizata",
+                    "Compatibilitate": "iPad 10.2",
+                    "Caracteristici speciale": "1 x folie de protectie clear",
+                    "Invelis": "Sticla securizata",
+                    "Diagonala Tableta (inch)": "10.2",
+                    "Culoare": "Clear"
+                  }
+                }
+              },
+              {
+                "id": "15f3d4e8-7794-425a-999e-a001dfedcae0",
+                "price": 99.98,
+                "image_path": "./images/15f3d4e8-7794-425a-999e-a001dfedcae0.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip accesoriu": "Folie de protectie",
+                    "Compatibilitate": "Samsung Galaxy Tab A8",
+                    "Caracteristici speciale": "Invisible\nAplicare fara bule de aer\nRegenerabila\nRezistenta la zgarieturi\nAnti alunecare\nRezistent la praf\nAnti amprenta\nRezistent la apa",
+                    "Invelis": "Sticla securitzata",
+                    "Altele": "2 bucati",
+                    "Diagonala Tableta (inch)": "10.5\"",
+                    "Culoare": "Transparent"
+                  }
+                }
+              },
+              {
+                "id": "0931e771-fe01-4fa9-ad42-f5b0be3e89c0",
+                "price": 29.99,
+                "image_path": "./images/0931e771-fe01-4fa9-ad42-f5b0be3e89c0.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip accesoriu": "Folie protectie din sticla securizata",
+                    "Compatibilitate": "Samsung",
+                    "Caracteristici speciale": "1 x folie de protectie clear",
+                    "Invelis": "Sticla securizata",
+                    "Altele": "Aceasta folie nu este Universala, se potriveste doar la modelul prezentat in titlu, indiferent de cati inch are tableta dumneavoastra.",
+                    "Diagonala Tableta (inch)": "10,5",
+                    "Culoare": "Clear"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "PC, Periferice & Software",
+    "categories": [
+      {
+        "title": "Desktop PC & Monitoare",
+        "subcategories": [
+          {
+            "title": "Desktop PC",
+            "products": [
+              {
+                "id": "baba640d-081d-4893-b2e6-d4cd1d2fff5b",
+                "price": 1299.99,
+                "image_path": "./images/baba640d-081d-4893-b2e6-d4cd1d2fff5b.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip sistem": "Desktop PC",
+                    "Destinat pentru": "Home office",
+                    "Sistem de operare": "Fara sistem de operare",
+                    "VR ready": "Nu",
+                    "Continut pachet": "1 x Sistem PC",
+                    "Lungime": "175 mm",
+                    "Adancime": "380 mm",
+                    "Inaltime": "405 mm",
+                    "Culoare": "Negru"
+                  },
+                  "PROCESOR": {
+                    "Producator procesor": "AMD",
+                    "Tip procesor": "Athlon",
+                    "Model procesor": "3000G",
+                    "Numar nuclee": "2",
+                    "Numar thread-uri": "4",
+                    "Arhitectura": "Zen",
+                    "Frecventa nominala": "3.5 GHz",
+                    "Cache": "5 MB",
+                    "Tehnologie procesor": "14 nm"
+                  },
+                  "PLACA DE BAZA": {
+                    "Producator placa de baza": "Asus",
+                    "Model placa de baza": "ASUS PRIME A320M-K",
+                    "Socket procesor": "AM4",
+                    "Chipset": "AMD A320",
+                    "Sloturi onboard": "1 x PCI-E x16\n2 x PCI-E x1\n1 x M.2\n4 x SATA III",
+                    "Porturi Back panel": "1 x RJ-45\n2 x PS/2\n1 x D-Sub\n3 x Audio Jack\n1 x HDMI\n2 x USB 2.0\n4 x USB 3.2 Gen 1",
+                    "Numar total sloturi memorie": "2",
+                    "Retea": "10/100/1000"
+                  },
+                  "MEMORIE RAM": {
+                    "Producator & model memorie": "Kingston FURY Beast",
+                    "Tip memorie": "DDR4",
+                    "Capacitate memorie": "8 GB",
+                    "Frecventa memorie": "2666 MHz",
+                    "Memorie maxima": "64 GB",
+                    "Sloturi ocupate": "2"
+                  },
+                  "CAPACITATE STOCARE": {
+                    "Tip stocare": "SSD",
+                    "Producator & model SSD": "ADATA Ultimate SU800",
+                    "Capacitate SSD": "256 GB",
+                    "Interfata SSD": "SATA 3",
+                    "Numar Solid-State Drive": "1"
+                  },
+                  "PLACA VIDEO": {
+                    "Tip placa video": "Integrata",
+                    "Model placa video": "AMD Radeon\u2122 Vega 3 Graphics"
+                  },
+                  "CARCASA & SURSA": {
+                    "Producator & model carcasa": "Serioux Mustang",
+                    "Tip carcasa": "Middle Tower",
+                    "Compatibilitate format placa de baza": "ATX\nMicro ATX\nITX",
+                    "Putere sursa": "450 W",
+                    "Unitate optica": "Fara unitate optica"
+                  },
+                  "AFISARE": {
+                    "Tip display": "Fara",
+                    "Diagonala display": "0 inch"
+                  }
+                }
+              },
+              {
+                "id": "146e5f92-b11a-4f33-8c34-2098dd4d518f",
+                "price": 8599.99,
+                "image_path": "./images/146e5f92-b11a-4f33-8c34-2098dd4d518f.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip sistem": "All in one PC",
+                    "Destinat pentru": "Statie business",
+                    "Sistem de operare": "Windows 11 Home",
+                    "VR ready": "Da",
+                    "Continut pachet": "1 x Mouse\n1 x Tastatura\n1 x Sistem PC",
+                    "Lungime": "614.6 mm",
+                    "Adancime": "242 mm",
+                    "Inaltime": "513.35 mm",
+                    "Greutate": "12.38 Kg",
+                    "Culoare": "Argintiu"
+                  },
+                  "PROCESOR": {
+                    "Producator procesor": "AMD",
+                    "Tip procesor": "Ryzen 7",
+                    "Model procesor": "6800H",
+                    "Numar nuclee": "8",
+                    "Numar thread-uri": "16",
+                    "Arhitectura": "Zen 3+",
+                    "Frecventa nominala": "3.2 GHz",
+                    "Frecventa Turbo Boost": "4.7 GHz",
+                    "Cache": "20 MB",
+                    "Tehnologie procesor": "6 nm",
+                    "Procesor grafic integrat": "AMD Radeon\u2122 680M"
+                  },
+                  "PLACA DE BAZA": {
+                    "Chipset": "AMD SoC Platform",
+                    "Sloturi onboard": "3 x M.2 (unul pentru WLAN si 2 pentru stocare)",
+                    "Porturi Back panel": "1 x Display Port\n1 x RJ-45\n1 x Audio Combo\n2 x USB 2.0\n2 x USB 3.2 Gen 2\n2 x USB 3.2 Gen 2 Type-C",
+                    "Retea": "10/100/1000",
+                    "Versiune Bluetooth": "5.2",
+                    "Wireless": "802.11 ax 2x2"
+                  },
+                  "MEMORIE RAM": {
+                    "Tip memorie": "LPDDR5",
+                    "Capacitate memorie": "32 GB",
+                    "Frecventa memorie": "6400 MHz",
+                    "Memorie maxima": "32 GB"
+                  },
+                  "CAPACITATE STOCARE": {
+                    "Tip stocare": "SSD",
+                    "Capacitate SSD": "1 TB",
+                    "Interfata SSD": "PCI Express\nM.2",
+                    "Numar Solid-State Drive": "1"
+                  },
+                  "PLACA VIDEO": {
+                    "Tip placa video": "Integrata",
+                    "Chipset video": "AMD Radeon",
+                    "Model placa video": "AMD Radeon 680M",
+                    "Tehnologii placa video": "DirectX 12"
+                  },
+                  "CARCASA & SURSA": {
+                    "Tip carcasa": "All In One",
+                    "Putere sursa": "170 W",
+                    "Unitate optica": "Fara unitate optica"
+                  },
+                  "AFISARE": {
+                    "Tip display": "LCD LED",
+                    "Tehnologie display": "IPS\n400 niti\nDCI-P3 95%",
+                    "Diagonala display": "27 inch",
+                    "Rezolutie": "3840 x 2160",
+                    "Camera WEB": "Detasabila 5.0MP + IR"
+                  }
+                }
+              },
+              {
+                "id": "77878b90-3353-4289-bfea-50c1197313ca",
+                "price": 2799.99,
+                "image_path": "./images/77878b90-3353-4289-bfea-50c1197313ca.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip sistem": "Desktop PC",
+                    "Destinat pentru": "Gaming",
+                    "Sistem de operare": "Windows 11 Home",
+                    "VR ready": "Da",
+                    "Continut pachet": "1 x Desktop PC",
+                    "Lungime": "155.4 mm",
+                    "Adancime": "307 mm",
+                    "Inaltime": "337.4 mm",
+                    "Greutate": "5.96 Kg",
+                    "Culoare": "Negru"
+                  },
+                  "PROCESOR": {
+                    "Producator procesor": "Intel\u00ae",
+                    "Tip procesor": "i5",
+                    "Model procesor": "10400",
+                    "Numar nuclee": "6",
+                    "Numar thread-uri": "12",
+                    "Arhitectura": "Comet Lake",
+                    "Frecventa nominala": "2.9 GHz",
+                    "Frecventa Turbo Boost": "4.3 GHz",
+                    "Cache": "12 MB",
+                    "Tehnologie procesor": "14 nm",
+                    "Procesor grafic integrat": "Intel UHD Graphics 630"
+                  },
+                  "PLACA DE BAZA": {
+                    "Socket procesor": "LGA 1200",
+                    "Chipset": "Intel\u00ae H470",
+                    "Sloturi onboard": "1 x PCI-E x16\n1 x PCI-E x1\n2 x M.2",
+                    "Porturi Back panel": "4 x USB 2.0\n1 x RJ-45\n1 x Audio Out\n1 x Audio In\n1 x Mic In",
+                    "Numar total sloturi memorie": "2",
+                    "Retea": "10/100/1000",
+                    "Versiune Bluetooth": "5.0",
+                    "Wireless": "802.11 ac 2x2"
+                  },
+                  "MEMORIE RAM": {
+                    "Tip memorie": "DDR4",
+                    "Capacitate memorie": "8 GB",
+                    "Frecventa memorie": "2666 MHz",
+                    "Sloturi ocupate": "1"
+                  },
+                  "CAPACITATE STOCARE": {
+                    "Tip stocare": "SSD",
+                    "Capacitate SSD": "512 GB",
+                    "Interfata SSD": "PCI Express\nM.2",
+                    "Numar Solid-State Drive": "1"
+                  },
+                  "PLACA VIDEO": {
+                    "Tip placa video": "Dedicata",
+                    "Chipset video": "nVidia GeForce GTX",
+                    "Model placa video": "GTX 1650 Super",
+                    "Capacitate memorie video": "4 GB",
+                    "Tip memorie placa video": "GDDR6",
+                    "Tehnologii placa video": "VR Ready\nDirectX 12\nGeForce Experience\nnVidia Turing",
+                    "Numar placi video": "1",
+                    "Porturi placa video": "1 x DisplayPort\n1 x DVI-D\n1 x HDMI 2.0"
+                  },
+                  "CARCASA & SURSA": {
+                    "Tip carcasa": "Mini Tower",
+                    "Compatibilitate format placa de baza": "Mini ITX",
+                    "Putere sursa": "310 W",
+                    "Unitate optica": "Fara unitate optica",
+                    "Sistem de racire procesor": "Aer"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Monitoare LED",
+            "products": [
+              {
+                "id": "9a8cb7e0-dbe9-41ae-9112-af79add693f5",
+                "price": 634.7,
+                "image_path": "./images/9a8cb7e0-dbe9-41ae-9112-af79add693f5.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Gama": "Home & Office",
+                    "Putere consumata": "16 W",
+                    "Standarde": "ENERGY STAR\nRoHS\nTCO\nPVC/BRF Free\nMercury Free",
+                    "Greutate": "3.3 Kg",
+                    "Lungime": "537.8 mm",
+                    "Latime": "152.8 mm",
+                    "Inaltime": "412.8 mm",
+                    "Consum energie electrica / 1000 ore": "12 kWh",
+                    "Clasa energetica potrivit noilor etichete energetice adoptate la nivelul UE": "Clasa D",
+                    "Culoare": "Argintiu"
+                  },
+                  "AFISARE": {
+                    "Diagonala": "23.8 inch",
+                    "Tehnologie display": "LED\nIPS",
+                    "Tip rezolutie": "Full HD",
+                    "Rezolutie optima": "1920 x 1080",
+                    "Tip iluminare fundal": "LED",
+                    "Aspect imagine": "16:9",
+                    "Format ecran": "Wide",
+                    "Tip suprafata display": "Anti glare",
+                    "Luminozitate": "250 cd/mp",
+                    "Timp de raspuns": "4 ms (Extreme mode)",
+                    "Unghi maxim vizibilitate orizontala/verticala": "178\u00b0/178\u00b0",
+                    "Contrast tipic": "1000:1",
+                    "Dimensiune punct": "0.2745 mm",
+                    "Rata de refresh (maximala)": "75 Hz",
+                    "Numar culori": "16.7 M"
+                  },
+                  "CONECTIVITATE": {
+                    "Porturi video": "2 x HDMI",
+                    "Porturi audio": "1 x Audio out"
+                  },
+                  "FACILITATI": {
+                    "Functii speciale": "Ergonomie",
+                    "Montare pe perete": "VESA 100 x 100 mm",
+                    "Tehnologii": "Easy Arrange\nComfort View\nFlicker Free\nAMD Free-Sync",
+                    "Continut pachet": "1 x Cablu HDMI\n1 x Cablu alimentare\n1 x Monitor\n1 x Ghid de instalare rapida"
+                  },
+                  "ERGONOMIE": {
+                    "Inclinare": "-5 / +21 \u00b0"
+                  }
+                }
+              },
+              {
+                "id": "d33b0274-f4fb-4b48-8f1f-cc8dae4dee5f",
+                "price": 1079.99,
+                "image_path": "./images/d33b0274-f4fb-4b48-8f1f-cc8dae4dee5f.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Gama": "Gaming",
+                    "Putere consumata": "40 W",
+                    "Greutate": "7.9 Kg",
+                    "Lungime": "816.5 mm",
+                    "Latime": "238 mm",
+                    "Inaltime": "458.1 mm\n568.1 mm",
+                    "Consum energie electrica / 1000 ore": "31 kWh",
+                    "Clasa energetica potrivit noilor etichete energetice adoptate la nivelul UE": "Clasa F",
+                    "Culoare": "Negru"
+                  },
+                  "AFISARE": {
+                    "Diagonala": "34 inch",
+                    "Tehnologie display": "IPS",
+                    "Tip rezolutie": "UWHD",
+                    "Rezolutie optima": "2560 x 1080",
+                    "Tip iluminare fundal": "LED",
+                    "Aspect imagine": "21:9",
+                    "Format ecran": "Ultra wide",
+                    "Tip suprafata display": "Anti glare",
+                    "Luminozitate": "400 cd/m\u00b2",
+                    "Timp de raspuns": "1 ms",
+                    "Unghi maxim vizibilitate orizontala/verticala": "178\u00b0/178\u00b0",
+                    "Contrast tipic": "1000:1",
+                    "Rata de refresh (maximala)": "75 Hz",
+                    "Numar culori": "16.7 Milioane"
+                  },
+                  "CONECTIVITATE": {
+                    "Porturi video": "1 x HDMI\n1 x DisplayPort\nUSB Type-C",
+                    "Porturi audio": "1 x Audio out"
+                  },
+                  "FACILITATI": {
+                    "Functii speciale": "Ergonomie\nKensington Lock",
+                    "Montare pe perete": "VESA 100 x 100 mm",
+                    "Tehnologii": "Dynamic Action Sync\nReader Mode\nBlack Stabilizer\nHDR\nFlicker Free\nCrosshair\nSmart Energy saving\nSuper Resolution+\nAMD FreeSync\u2122\nsRGB\nColor Weakness\nVESA Display HDR400\nAuto Input Switch",
+                    "Continut pachet": "1 x Cablu HDMI\n1 x Cablu alimentare\n1 x Monitor"
+                  },
+                  "ERGONOMIE": {
+                    "Inclinare": "-5\u00b0 + 15\u00b0",
+                    "Inaltime ajustabila": "110 mm"
+                  }
+                }
+              },
+              {
+                "id": "507e81dc-8fe1-4f6e-b274-4923cde31bab",
+                "price": 1049.99,
+                "image_path": "./images/507e81dc-8fe1-4f6e-b274-4923cde31bab.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Gama": "Home & Office",
+                    "Greutate": "6.13 Kg",
+                    "Lungime": "555.4 mm",
+                    "Latime": "200.3 mm",
+                    "Inaltime": "375.75 mm\n505.8 mm",
+                    "Consum energie electrica / 1000 ore": "17 kWh",
+                    "Clasa energetica potrivit noilor etichete energetice adoptate la nivelul UE": "Clasa E",
+                    "Culoare": "Negru"
+                  },
+                  "AFISARE": {
+                    "Diagonala": "24.5 inch",
+                    "Tehnologie display": "LED\nIPS",
+                    "Tip rezolutie": "Full HD",
+                    "Rezolutie optima": "1920 x 1080",
+                    "Tip iluminare fundal": "W-LED",
+                    "Aspect imagine": "16:9",
+                    "Format ecran": "Wide",
+                    "Tip suprafata display": "Anti glare",
+                    "Luminozitate": "400 cd/mp",
+                    "Timp de raspuns": "1 ms",
+                    "Unghi maxim vizibilitate orizontala/verticala": "178\u00b0/178\u00b0",
+                    "Contrast tipic": "1000:1",
+                    "Dimensiune punct": "0.2832 mm",
+                    "Rata de refresh (maximala)": "240 Hz",
+                    "Numar culori": "16.7 Milioane"
+                  },
+                  "CONECTIVITATE": {
+                    "Porturi video": "2 x HDMI\n1 x DisplayPort",
+                    "Porturi audio": "1 x Audio out",
+                    "Data ports": "4 x USB\n1 x USB Type-B"
+                  },
+                  "FACILITATI": {
+                    "Functii speciale": "Ergonomie\nKensington Lock\nIluminare ambientala",
+                    "Montare pe perete": "VESA 100 x 100 mm",
+                    "Tehnologii": "ComfortView\nFlicker Free\nAMD FreeSync\u2122\nsRGB\nLow Blue Light\nNVIDIA G-SYNC Compatible\nDark Stabilizer",
+                    "Continut pachet": "1 x cablu DisplayPort\n1 x Cablu HDMI\n1 x Cablu alimentare\n1 x Monitor\n1 x Cablu USB Type-B"
+                  },
+                  "ERGONOMIE": {
+                    "Rotire": "+90\u00b0~-90\u00b0",
+                    "Inclinare": "-5\u00b0 + 21\u00b0",
+                    "Pivotare": "-45\u00b0 + 45\u00b0",
+                    "Inaltime ajustabila": "130 mm"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Accesorii monitoare",
+            "products": [
+              {
+                "id": "dc8b7d64-2dd0-40d9-acb4-f33db7450e82",
+                "price": 25.0,
+                "image_path": "./images/dc8b7d64-2dd0-40d9-acb4-f33db7450e82.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Convertor",
+                    "Brand compatibil": "Universal",
+                    "Tip conector 1": "HDMI tata",
+                    "Tip conector 2": "VGA mama",
+                    "Culoare": "Negru"
+                  },
+                  "DIMENSIUNI": {
+                    "Lungime cablu": "0.2 m"
+                  }
+                }
+              },
+              {
+                "id": "99060f6f-f84a-4914-98b2-34085a4efeae",
+                "price": 199.99,
+                "image_path": "./images/99060f6f-f84a-4914-98b2-34085a4efeae.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Suport",
+                    "Brand compatibil": "Universal",
+                    "Model compatibil": "Monitoare cu montare VESA 75x75 si 100x100",
+                    "Continut pachet": "1 x Suport monitor",
+                    "Culoare": "Negru"
+                  },
+                  "DIMENSIUNI": {
+                    "Greutate": "2.7 Kg"
+                  }
+                }
+              },
+              {
+                "id": "e60e3b07-a799-43d3-b280-aa213a92069e",
+                "price": 8.0,
+                "image_path": "./images/e60e3b07-a799-43d3-b280-aa213a92069e.jpg",
+                "specifications": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Componente PC",
+        "subcategories": [
+          {
+            "title": "Placi video",
+            "products": [
+              {
+                "id": "cc68234e-8036-4a4f-8c4c-0ebd755fc2f1",
+                "price": 700.0,
+                "image_path": "./images/cc68234e-8036-4a4f-8c4c-0ebd755fc2f1.jpg",
+                "specifications": {
+                  "GENERAL": {
+                    "Slot": "PCI Express 3.0",
+                    "Procesor Video": "nVidia GeForce GTX 750",
+                    "Rezolutie maxima": "4096 x 2160",
+                    "Tip placa": "Gaming",
+                    "RAMDAC (MHz)": "400"
+                  },
+                  "PROCESOR": {
+                    "Serie": "GeForce GTX 700",
+                    "Chipset": "nVIDIA",
+                    "Tehnologie de fabricatie (nanometri)": "28 nm",
+                    "Versiune Pixel Shader": "5.0",
+                    "Versiune Vertex Shader": "5.0",
+                    "Vertex pipelines": "32",
+                    "Numar de tranzistoare (milioane)": "1870",
+                    "Pixel fill rate": "17.4 GPixel/s",
+                    "Raster Operators": "16",
+                    "Texture fill rate": "34.7 GTexel/s",
+                    "Texture units": "4.3 GTexel/sec",
+                    "Conducte de randare (nr)": "512",
+                    "Frecventa procesor (MHz)": "1020",
+                    "Latime de banda procesor (biti)": "128"
+                  },
+                  "MEMORIE": {
+                    "Memorie": "4 GB",
+                    "Tip memorie": "GDDR5",
+                    "BUS memorie": "128 bit",
+                    "Frecventa memorie (MHz)": "2550",
+                    "Latime de banda memorie (biti)": "128"
+                  },
+                  "ALTE CARACTERISTICI": {
+                    "Latime de banda (GB/s)": "81.6",
+                    "Rata de umplere (mld. texeli)": "32.6",
+                    "Suport DirectX (versiune)": "12 API (feature level 11_0)",
+                    "Suport OpenGL (versiune)": "4.6",
+                    "Viteza procesare (mil. texeli/secunda)": "4.3",
+                    "Monitorizare hardware": "Da",
+                    "Tehnologii": "OpenCL\u2122 Support, CUDA, DirectCompute, Vulkan, OpenGL4.6"
+                  },
+                  "CONECTORI": {
+                    "Conector D-sub 15 pini": "1",
+                    "Conector DVI": "1",
+                    "Conector HDMI": "1",
+                    "Conector Alimentare": "Nu necesita alimentare separata"
+                  },
+                  "ACCESORII": {
+                    "Accesorii incluse": "1 x CD driver Win 7,8,10, low profile bracket",
+                    "Software inclus": "GeForce driver Win 7,8,10"
+                  },
+                  "SISTEM DE RACIRE": {
+                    "Tip racire (activa/pasiva)": "Activa",
+                    "Cooler": "2",
+                    "Radiator": "Aluminiu"
+                  },
+                  "ALTELE": {
+                    "Altele": "Include low profile bracket"
+                  }
+                }
+              },
+              {
+                "id": "4286b4a6-0d17-478a-9b8d-73efb01153a0",
+                "price": 345.0,
+                "image_path": "./images/4286b4a6-0d17-478a-9b8d-73efb01153a0.jpg",
+                "specifications": {
+                  "GENERAL": {
+                    "Slot": "PCI Express 2.0",
+                    "Procesor Video": "nVidia GeForce GT 730",
+                    "Rezolutie maxima": "2560 x 1600",
+                    "Tip placa": "Multimedia"
+                  },
+                  "PROCESOR": {
+                    "Serie": "nVidia GeForce GT 700",
+                    "Chipset": "nVIDIA",
+                    "Frecventa procesor (MHz)": "902"
+                  },
+                  "MEMORIE": {
+                    "Memorie": "2 GB",
+                    "Tip memorie": "GDDR5",
+                    "BUS memorie": "64",
+                    "Frecventa memorie (MHz)": "5010"
+                  },
+                  "ALTE CARACTERISTICI": {
+                    "Suport OpenGL (versiune)": "4.4"
+                  },
+                  "CONECTORI": {
+                    "Conector D-sub 15 pini": "1",
+                    "Conector DVI": "1",
+                    "Conector HDMI": "1"
+                  },
+                  "SISTEM DE RACIRE": {
+                    "Tip racire (activa/pasiva)": "Pasiva",
+                    "Radiator": "Da"
+                  }
+                }
+              },
+              {
+                "id": "0057c238-fbd0-4fa1-b0d5-cffc636ffd26",
+                "price": 3694.55,
+                "image_path": "./images/0057c238-fbd0-4fa1-b0d5-cffc636ffd26.jpg",
+                "specifications": {
+                  "GENERAL": {
+                    "Slot": "PCI Express 3.0",
+                    "Procesor Video": "nVidia GeForce RTX 2060",
+                    "Rezolutie maxima": "7680x4320",
+                    "Tip placa": "Gaming",
+                    "Suport SLI": "Nu"
+                  },
+                  "PROCESOR": {
+                    "Serie": "NVIDIA GeForce RTX 2000",
+                    "Chipset": "nVIDIA",
+                    "Tehnologie de fabricatie (nanometri)": "12",
+                    "Conducte de randare (nr)": "2176",
+                    "Frecventa procesor (MHz)": "Boost 1650"
+                  },
+                  "MEMORIE": {
+                    "Memorie": "12 GB",
+                    "Tip memorie": "GDDR6",
+                    "BUS memorie": "192",
+                    "Frecventa memorie (MHz)": "7000"
+                  },
+                  "ALTE CARACTERISTICI": {
+                    "Latime de banda (GB/s)": "336",
+                    "Suport DirectX (versiune)": "12 Ultimate",
+                    "Suport OpenGL (versiune)": "4.6",
+                    "Tehnologii": "nVidia G-Sync\nGPU Boost\nNVIDIA ANSEL\nVR Ready\nGeForce Experience\nRay Tracing\nGame Ready Drivers"
+                  },
+                  "CONECTORI": {
+                    "Conector DisplayPort": "1",
+                    "Conector DVI": "1",
+                    "Conector HDMI": "1",
+                    "Conector Alimentare": "1 x 8 pin"
+                  },
+                  "SISTEM DE RACIRE": {
+                    "Tip racire (activa/pasiva)": "Activa"
+                  },
+                  "ALTELE": {
+                    "Altele": "HDCP 2.2\nSursa recomandata - 550 W"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Placi de baza",
+            "products": [
+              {
+                "id": "a84813c4-46a2-4ae5-a321-cfe683e3c086",
+                "price": 703.41,
+                "image_path": "./images/a84813c4-46a2-4ae5-a321-cfe683e3c086.jpg",
+                "specifications": {
+                  "PROCESOR": {
+                    "CPU Socket": "AM4",
+                    "Chipset": "AMD B550",
+                    "Procesoare suportate": "AMD Ryzen Seria 5000"
+                  },
+                  "MEMORIE": {
+                    "Tip memorie": "DDR4",
+                    "Capacitate maxima memorie RAM (MB)": "128 GB",
+                    "Frecventa memorie (MHz)": "2133\n2400\n3200\n2667\n2933",
+                    "Suport Dualchannel": "Da",
+                    "Suport ECC": "Da"
+                  },
+                  "CONECTIVITATE": {
+                    "Slot PCI": "PCI Express x16",
+                    "Audio integrat": "Realtek\u00ae ALC887",
+                    "LAN integrat": "Realtek GbE LAN",
+                    "RAID integrat": "0, 1, 10",
+                    "Rata de transfer SATA (MB/s)": "6 Gb/s",
+                    "Conector sursa (pini)": "1 x 24-pin ATX\n1 x 8-pin ATX 12V",
+                    "Porturi USB 2.0": "6 x USB 2.0",
+                    "Conectivitate": "1 x USB Type-C\n1 x 8-pin ATX 12V\n2 x USB 2.0/1.1\n1 x CPU Fan Header\n1 x 24-pin ATX\n2 x M.2 Socket 3\n4 x SATA 6Gb/s\n1 x USB 3.2 Gen 1"
+                  },
+                  "SLOTURI": {
+                    "Sloturi PCI-E x16": "1",
+                    "Sloturi PCI-E x1": "3"
+                  },
+                  "ALTELE": {
+                    "Tehnologii suportate": "AMD StoreMI",
+                    "BIOS & memorie BIOS": "1 x 256 Mbit flash",
+                    "Format": "ATX",
+                    "Dimensiuni (L x W) (cm)": "30.5 x 24.4"
+                  }
+                }
+              },
+              {
+                "id": "9ec3f2fc-71ed-4fea-9a9c-2ab8d62ac965",
+                "price": 299.0,
+                "image_path": "./images/9ec3f2fc-71ed-4fea-9a9c-2ab8d62ac965.jpg",
+                "specifications": {
+                  "PROCESOR": {
+                    "CPU Socket": "AM4",
+                    "Chipset": "AMD A520",
+                    "Procesoare suportate": "Suporta AMD Ryzen\u2122 5000 & 3000 (nu este compatibila cu AMD Ryzen\u2122 5 3400G & Ryzen\u2122 3 3200G) si seria AMD Ryzen\u2122 4000 G",
+                    "Socket-uri procesor": "1"
+                  },
+                  "MEMORIE": {
+                    "Tip memorie": "DDR 4",
+                    "Capacitate maxima memorie RAM (MB)": "64 GB",
+                    "Frecventa memorie (MHz)": "1866/ 2133/ 2400/ 2667/ 2800/ 2933/ 3000/ 3066/ 3200 MHz by JEDEC\n2667/ 2800 /2933 /3000 /3066 /3200 /3466 /3600/ 3733 /3866 /4000 /4133 /4266 /4400/ 4600+ MHz by A-XMP OC Mode",
+                    "Suport Dualchannel": "Da",
+                    "Sloturi memorie": "2"
+                  },
+                  "CONECTIVITATE": {
+                    "Slot PCI": "PCI Express x16 3.0",
+                    "Audio integrat": "Realtek\u00ae ALC892/ALC897",
+                    "LAN integrat": "Realtek\u00ae RTL8111H",
+                    "RAID integrat": "0, 1, 10",
+                    "Interfata Serial ATA": "4 x SATA",
+                    "Rata de transfer SATA (MB/s)": "6000",
+                    "Conector sursa (pini)": "1 x 24 pin ATX\n1 x 4 pin 12V",
+                    "Conectivitate": "1 x HDMI\n1 x PS/2\n2 x USB 2.0\n3 x Audio Jack\n1 x DVI-D\n1 x RJ-45\n4 x USB 3.2",
+                    "Porturi seriale": "1"
+                  },
+                  "SLOTURI": {
+                    "Sloturi PCI-E x16": "1",
+                    "Sloturi PCI-E x1": "1",
+                    "Sloturi speciale": "1 x M.2"
+                  },
+                  "ALTELE": {
+                    "Tehnologii suportate": "DDR4 Boost\nEz Debug LED\nMystic Light\nCore Boost\nM.2 SHIELD FROZR",
+                    "Format": "m-ATX",
+                    "Dimensiuni (L x W) (cm)": "23.6 x 20"
+                  }
+                }
+              },
+              {
+                "id": "1ca68d50-10e8-4ea3-ba30-04d9ecc4ad94",
+                "price": 424.0,
+                "image_path": "./images/1ca68d50-10e8-4ea3-ba30-04d9ecc4ad94.jpg",
+                "specifications": {
+                  "PROCESOR": {
+                    "CPU Socket": "AM4",
+                    "Chipset": "B450",
+                    "Procesoare suportate": "Ryzen"
+                  },
+                  "MEMORIE": {
+                    "Tip memorie": "DDR4",
+                    "Capacitate maxima memorie RAM (MB)": "64 GB",
+                    "Frecventa memorie (MHz)": "3200(O.C.)/3000(O.C.)/2800(O.C.)/2666/2400/2133 MHz",
+                    "Suport Dualchannel": "Da",
+                    "Sloturi memorie": "4"
+                  },
+                  "CONECTIVITATE": {
+                    "Slot PCI": "5",
+                    "Interfata Serial ATA": "4 x SATA III",
+                    "Rata de transfer SATA (MB/s)": "600",
+                    "Conector sursa (pini)": "1 x 24 pin ATX\n1 x 8 pin ATX",
+                    "Porturi USB 2.0": "2",
+                    "Porturi USB 3.1": "1 x Type-C\n2 x Type A (Gen2)\n2 x Type A (Gen1)",
+                    "Conectivitate": "1 x HDMI\n3 x audio jacks\n1 x PS/2\n1 x RJ-45"
+                  },
+                  "SLOTURI": {
+                    "Sloturi PCI-E x16": "2 (x16/ x4)",
+                    "Sloturi PCI-E x1": "3",
+                    "Sloturi speciale": "1 x M.2"
+                  },
+                  "ALTELE": {
+                    "Format": "ATX"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Placi de sunet",
+            "products": [
+              {
+                "id": "c0fd8628-7f2c-41cc-b06e-ec0ce94f2259",
+                "price": 38.55,
+                "image_path": "./images/c0fd8628-7f2c-41cc-b06e-ec0ce94f2259.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Raport semnal/zgomot (dB)": "93",
+                    "Rezolutie (biti)": "16",
+                    "Numar Canale": "2",
+                    "Viteza de esantionare maxima (KHz)": "48",
+                    "Interfata": "USB",
+                    "Conectori (iesiri)": "2 x Jack 3.5 mm",
+                    "Conectori (intrari)": "1 x USB 2.0",
+                    "Facilitati": "instalare automata",
+                    "Sistem de operare": "Universal"
+                  }
+                }
+              },
+              {
+                "id": "8bb12623-99ab-439d-b435-07c5ab68da6f",
+                "price": 46.86,
+                "image_path": "./images/8bb12623-99ab-439d-b435-07c5ab68da6f.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Interfata": "USB",
+                    "Altele": "28AWG",
+                    "Conectori (iesiri)": "1 x 3.5 mm jack",
+                    "Conectori (intrari)": "1 x USB 2.0",
+                    "Sistem de operare": "Windows\nPS4"
+                  }
+                }
+              },
+              {
+                "id": "eecb8581-555d-45b0-a7a6-52434a4026bb",
+                "price": 164.99,
+                "image_path": "./images/eecb8581-555d-45b0-a7a6-52434a4026bb.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Numar Canale": "7.1",
+                    "Viteza de esantionare maxima (KHz)": "48",
+                    "Conectori panou fata": "8 x Jack 3.5 mm\n2 x SPDIF digital\n1 x USB In",
+                    "Interfata": "USB",
+                    "Efecte sonore": "Surround",
+                    "Sistem de operare": "Microsoft Windows XP\nWindows 8\nWindows 7\nWindows 10"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Software",
+        "subcategories": [
+          {
+            "title": "Office & Aplicatii Desktop",
+            "products": [
+              {
+                "id": "6ec86952-683f-4fe0-96b9-7f2d8a9c3b5e",
+                "price": 220.15,
+                "image_path": "./images/6ec86952-683f-4fe0-96b9-7f2d8a9c3b5e.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip aplicatie": "Office",
+                    "Varianta de comercializare": "Retail",
+                    "Utilizare": "PC\nMAC",
+                    "Versiune": "Office 365 Family",
+                    "An": "2021",
+                    "Limba": "Engleza",
+                    "Numar dispozitive": "1",
+                    "Numar utilizatori": "1",
+                    "Valabilitate": "1 an",
+                    "Pachet office": "Word\nExcel\nPowerPoint\nOutlook\nOneNote\nSkype for business\nOneDrive"
+                  },
+                  "CERINTE MINIME SISTEM": {
+                    "Sistem de operare compatibil": "Windows 10\nWindows 8.1\nMac OS\nWindows 11",
+                    "Frecventa procesor": "1.6 GHz",
+                    "Capacitate memorie RAM": "1 GB",
+                    "Capacitate stocare": "4 GB\n10 GB"
+                  }
+                }
+              },
+              {
+                "id": "29250544-5e2a-42b9-9126-e9926b66fa52",
+                "price": 785.01,
+                "image_path": "./images/29250544-5e2a-42b9-9126-e9926b66fa52.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip aplicatie": "CorelDRAW",
+                    "Varianta de comercializare": "Retail",
+                    "Utilizare": "PC",
+                    "An": "2021",
+                    "Limba": "Engleza",
+                    "Numar dispozitive": "1",
+                    "Numar utilizatori": "1",
+                    "Valabilitate": "Nelimitat"
+                  },
+                  "CERINTE MINIME SISTEM": {
+                    "Sistem de operare compatibil": "Windows 10",
+                    "Frecventa procesor": "1 GHz",
+                    "Capacitate memorie RAM": "1 GB",
+                    "Capacitate stocare": "1 GB"
+                  }
+                }
+              },
+              {
+                "id": "2247932e-5d57-43e1-b5ff-eda11fb80b92",
+                "price": 109.48,
+                "image_path": "./images/2247932e-5d57-43e1-b5ff-eda11fb80b92.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip aplicatie": "Office",
+                    "Varianta de comercializare": "Licenta electronica",
+                    "Utilizare": "PC",
+                    "Versiune": "Office Professional Plus",
+                    "An": "2021",
+                    "Limba": "Engleza\nRomana\nMaghiara\nToate limbile",
+                    "Numar dispozitive": "1",
+                    "Numar utilizatori": "1",
+                    "Valabilitate": "Nelimitat"
+                  },
+                  "CERINTE MINIME SISTEM": {
+                    "Sistem de operare compatibil": "Windows 10\nWindows 11"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Sisteme de operare",
+            "products": [
+              {
+                "id": "e96e5d41-c966-43d4-81fb-bd881643e91e",
+                "price": 179.0,
+                "image_path": "./images/e96e5d41-c966-43d4-81fb-bd881643e91e.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Varianta de comercializare": "USB",
+                    "Tip licenta": "Retail",
+                    "Tip sistem de operare": "Client",
+                    "Utilizare": "Bussiness",
+                    "Versiune": "Windows 10",
+                    "Numar utilizatori": "1",
+                    "Arhitectura": "32 biti",
+                    "Limba": "Toate limbile"
+                  },
+                  "CERINTE MINIME SISTEM": {
+                    "Frecventa procesor": "1 GHz",
+                    "Capacitate memorie RAM": "2 GB",
+                    "Capacitate stocare": "20 GB"
+                  }
+                }
+              },
+              {
+                "id": "8f2c642a-9215-4e8f-8229-22d3fa00ddba",
+                "price": 282.0,
+                "image_path": "./images/8f2c642a-9215-4e8f-8229-22d3fa00ddba.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Varianta de comercializare": "USB",
+                    "Tip licenta": "Retail",
+                    "Tip sistem de operare": "Client",
+                    "Utilizare": "Bussiness",
+                    "Versiune": "Windows 11",
+                    "Numar utilizatori": "1",
+                    "Arhitectura": "64 biti",
+                    "Limba": "Toate limbile"
+                  }
+                }
+              },
+              {
+                "id": "712294e3-c6d3-4403-ac1e-4419d7d634d8",
+                "price": 152.0,
+                "image_path": "./images/712294e3-c6d3-4403-ac1e-4419d7d634d8.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Varianta de comercializare": "USB",
+                    "Tip licenta": "Retail",
+                    "Tip sistem de operare": "Client",
+                    "Utilizare": "Home\nBussiness",
+                    "Versiune": "Windows 11",
+                    "Numar utilizatori": "1",
+                    "Arhitectura": "64 biti",
+                    "Limba": "Toate limbile"
+                  },
+                  "CERINTE MINIME SISTEM": {
+                    "Frecventa procesor": "1 GHz",
+                    "Capacitate memorie RAM": "4 GB",
+                    "Capacitate stocare": "64 GB"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Antivirus",
+            "products": [
+              {
+                "id": "ec3d4dc7-d585-4c6c-92bd-b8dc0f1d7f1e",
+                "price": 139.99,
+                "image_path": "./images/ec3d4dc7-d585-4c6c-92bd-b8dc0f1d7f1e.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Varianta de comercializare": "Retail",
+                    "Tip licenta": "Noua",
+                    "Utilizare": "PC\nMAC\nSmartphone\nTableta",
+                    "Versiune": "Total Security",
+                    "Numar dispozitive": "3",
+                    "Numar utilizatori": "1",
+                    "Valabilitate": "2 ani",
+                    "Functii": "Antivirus\nAnti-phising\nProtectia datelor\nAntispam\nAnti Ransomware",
+                    "Sistem de operare compatibil": "Windows 10\nWindows 8.1\nWindows 7\nWindows 8\nAndroid\niOS\nMac OS",
+                    "Frecventa procesor": "2.2 GHz",
+                    "Capacitate memorie RAM": "2 GB",
+                    "Capacitate stocare": "2.5 GB"
+                  }
+                }
+              },
+              {
+                "id": "77055975-b1b0-4516-9c8a-a46984d59e83",
+                "price": 172.98,
+                "image_path": "./images/77055975-b1b0-4516-9c8a-a46984d59e83.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Varianta de comercializare": "Retail",
+                    "Tip licenta": "Noua",
+                    "Utilizare": "PC\nMAC\nSmartphone\nTableta",
+                    "Versiune": "Total Security",
+                    "Numar dispozitive": "10",
+                    "Numar utilizatori": "10",
+                    "Valabilitate": "1 an",
+                    "Functii": "Antivirus\nAnti-phising\nProtectia datelor\nAntispam\nAnti Ransomware",
+                    "Sistem de operare compatibil": "Windows 10\nWindows 8.1\nWindows 7\nWindows 8\nAndroid\niOS\nMac OS",
+                    "Frecventa procesor": "2.2 GHz",
+                    "Capacitate memorie RAM": "2 GB",
+                    "Capacitate stocare": "2.5 GB"
+                  }
+                }
+              },
+              {
+                "id": "29053a57-5121-4a06-bb6b-27cd4fc91a72",
+                "price": 62.99,
+                "image_path": "./images/29053a57-5121-4a06-bb6b-27cd4fc91a72.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Varianta de comercializare": "Retail",
+                    "Tip licenta": "Noua",
+                    "Utilizare": "PC",
+                    "Versiune": "Antivirus",
+                    "Numar dispozitive": "1",
+                    "Numar utilizatori": "1",
+                    "Valabilitate": "1 an",
+                    "Functii": "Antivirus\nProtectia datelor\nAnti Ransomware",
+                    "Sistem de operare compatibil": "Windows 10\nWindows 8.1\nWindows 7\nWindows 8",
+                    "Frecventa procesor": "2.2 GHz",
+                    "Capacitate memorie RAM": "2 GB",
+                    "Capacitate stocare": "2.5 GB"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "TV, Audio-Video & Foto",
+    "categories": [
+      {
+        "title": "Televizoare & accesorii",
+        "subcategories": [
+          {
+            "title": "Televizoare",
+            "products": [
+              {
+                "id": "e1a07338-cca5-4705-b1a5-cfade0b70d3a",
+                "price": 929.0,
+                "image_path": "./images/e1a07338-cca5-4705-b1a5-cfade0b70d3a.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Diagonala display": "98 cm",
+                    "Tip TV": "Smart TV",
+                    "Tehnologie display": "LED",
+                    "Claritate imagine": "HD",
+                    "Culoare": "Negru",
+                    "Format display": "Plat"
+                  },
+                  "SMART TV": {
+                    "Sistem de operare": "Linux",
+                    "Aplicatii Video Streaming": "YouTube\nNetflix",
+                    "Caracteristici cheie": "Screen Mirroring\nInregistrare USB"
+                  },
+                  "CARACTERISTICI VIDEO": {
+                    "Rezolutie": "1366 x 768",
+                    "Tehnologii imagine": "Advanced Hotel TV Mode (pasiv)",
+                    "Rata de refresh": "50 Hz",
+                    "Tuner digital integrat": "DVB-C\nDVB-S\nDVB-S2\nDVB-T\nDVB-T2"
+                  },
+                  "CARACTERISTICI AUDIO": {
+                    "Tehnologii audio": "DTS HD\nDTS Tru Surround\nDolby Audio Processing",
+                    "Sistem audio": "2",
+                    "Putere difuzoare integrate": "16 W",
+                    "Subwoofer integrat": "Nu"
+                  },
+                  "CONECTIVITATE": {
+                    "Conectivitate wireless": "Wi-Fi",
+                    "Interfata": "1 x USB\n1 x Jack 3.5 mm\n2 x HDMI\n1 x VGA\n1 x RJ-45\n1 x S/PDIF\n1 x Composite In\nCI+ slot"
+                  },
+                  "CONSUM ENERGIE": {
+                    "Consum energie electrica / 1000 ore": "36 kWh",
+                    "Putere consumata in stand-by": "0.5 W",
+                    "Clasa energetica potrivit noilor etichete energetice adoptate la nivelul UE": "Clasa E"
+                  },
+                  "DIMENSIUNI": {
+                    "Dimensiune cu stand": "892 x 257 x 578 mm",
+                    "Dimensiune fara stand": "892 x 95 x 517 mm",
+                    "Greutate cu stand": "7.5 Kg",
+                    "Greutate fara stand": "7.2 Kg",
+                    "Dimensiune cutie": "995 x 165 x 682 mm",
+                    "Greutate cutie": "9.75 Kg"
+                  },
+                  "ACCESORII": {
+                    "Continut pachet": "Baterii\nTelecomanda\nManual utilizare"
+                  },
+                  "SISTEM MONTARE PE PERETE": {
+                    "Compatibilitate VESA": "200 x 200"
+                  }
+                }
+              },
+              {
+                "id": "6c52445d-169f-494f-b825-df29ef11a3e6",
+                "price": 4999.99,
+                "image_path": "./images/6c52445d-169f-494f-b825-df29ef11a3e6.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Diagonala display": "139 cm",
+                    "Tip TV": "Smart TV",
+                    "Tehnologie display": "OLED",
+                    "Tehnologie speciala": "HDR",
+                    "Claritate imagine": "4K",
+                    "An aparitie": "2022",
+                    "Culoare": "Argintiu",
+                    "Format display": "Plat"
+                  },
+                  "SMART TV": {
+                    "Sistem de operare": "Android",
+                    "Aplicatii Video Streaming": "YouTube\nNetflix\nHBO Go",
+                    "Caracteristici cheie": "Comenzi vocale\nAsistent vocal inteligent\nScreen Mirroring\nAmbilight\nInregistrare USB",
+                    "Mirroring": "iOS\nAndroid",
+                    "Asistent vocal inteligent": "Alexa ready\nGoogle assistant ready",
+                    "Tip procesor": "P5 AI Perfect Picture",
+                    "Capacitate stocare": "16 GB"
+                  },
+                  "CARACTERISTICI VIDEO": {
+                    "Rezolutie": "3840 x 2160",
+                    "Tip tehnologie HDR": "HDR 10+\nHLG\nDolby Vision",
+                    "Tehnologii imagine": "Micro Dimming Pro\nDolby Vision\nPerfect Natural Motion\nHLG\nFilmmaker Mode\nCalMAN Ready\nHDR10+ Adaptive\nGama larga de culori de 99 % DCI/P3\nAI PQ Mode",
+                    "Functii gaming": "Compatibil G-SYNC\nCompatibil FreeSync\nVRR (Variable Refresh Rate)\nALLM (Auto Low Latency Mode)",
+                    "Rata de refresh": "100 Hz",
+                    "Tuner digital integrat": "DVB-C\nDVB-S\nDVB-S2\nDVB-T\nDVB-T2"
+                  },
+                  "CARACTERISTICI AUDIO": {
+                    "Tehnologii audio": "Dolby Atmos\nSunet AI\nMod Noapte\nDolby Bass Enhancement\nDolby Volume Leveler\nDialog clar\nEQ AI\nDTS Play-Fi\nMimi Sound Personalization\nCalibrare pentru camera",
+                    "Sistem audio": "2.1",
+                    "Putere difuzoare integrate": "70 W",
+                    "Subwoofer integrat": "Da",
+                    "Putere subwoofer": "30 W"
+                  },
+                  "CONECTIVITATE": {
+                    "Conectivitate wireless": "Bluetooth\nWi-Fi",
+                    "Interfata": "1 x Jack 3.5 mm\n2 x USB 3.0\n1 x RJ-45\nCI+ slot\n3 x HDMI 2.0\n1 x HDMI 2.1\n1 x Digital Optical Out",
+                    "Standard Wi-Fi": "802.11 ac",
+                    "Versiune Bluetooth": "5.0"
+                  },
+                  "CONSUM ENERGIE": {
+                    "Consum energie electrica / 1000 ore": "84 kWh",
+                    "Consum energie electrica in modul HDR/ 1000 ore": "78 kWh",
+                    "Putere consumata in stand-by": "0.2 W",
+                    "Clasa energetica potrivit noilor etichete energetice adoptate la nivelul UE": "Clasa G"
+                  },
+                  "DIMENSIUNI": {
+                    "Dimensiune cu stand": "1227.8 x 240 x 723.9 mm",
+                    "Dimensiune fara stand": "1227.8 x 58 x 705.6 mm",
+                    "Greutate cu stand": "18.5 Kg",
+                    "Greutate fara stand": "18 Kg",
+                    "Dimensiune cutie": "1400 x 160 x 860 mm",
+                    "Greutate cutie": "24.9 Kg"
+                  },
+                  "ACCESORII": {
+                    "Continut pachet": "Stand\nBaterii\nCablu alimentare\nTelecomanda\nManual utilizare"
+                  },
+                  "SISTEM MONTARE PE PERETE": {
+                    "Compatibilitate VESA": "300 x 300"
+                  }
+                }
+              },
+              {
+                "id": "0f63d7e1-a2cc-43ec-88f7-e51a008a5b8c",
+                "price": 499.99,
+                "image_path": "./images/0f63d7e1-a2cc-43ec-88f7-e51a008a5b8c.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Diagonala display": "80 cm",
+                    "Tip TV": "Non Smart TV",
+                    "Tehnologie display": "LED",
+                    "Claritate imagine": "HD",
+                    "Culoare": "Negru",
+                    "Format display": "Plat"
+                  },
+                  "CARACTERISTICI VIDEO": {
+                    "Rezolutie": "1366 x 768",
+                    "Rata de refresh": "50 Hz",
+                    "Tuner digital integrat": "DVB-C\nDVB-T"
+                  },
+                  "CARACTERISTICI AUDIO": {
+                    "Sistem audio": "2",
+                    "Putere difuzoare integrate": "16 W",
+                    "Subwoofer integrat": "Nu"
+                  },
+                  "CONECTIVITATE": {
+                    "Interfata": "1 x USB\n1 x Jack 3.5 mm\n2 x HDMI\nCI+ slot\n1 x D-sub 15 pin"
+                  },
+                  "CONSUM ENERGIE": {
+                    "Consum energie electrica / 1000 ore": "30 kWh",
+                    "Putere consumata in stand-by": "0.5 W",
+                    "Clasa energetica potrivit noilor etichete energetice adoptate la nivelul UE": "Clasa F"
+                  },
+                  "DIMENSIUNI": {
+                    "Dimensiune cu stand": "181 x 729 x 469 mm",
+                    "Dimensiune fara stand": "76 x 729 x 429 mm",
+                    "Greutate cu stand": "5.6 Kg",
+                    "Greutate fara stand": "4.6 Kg",
+                    "Dimensiune cutie": "130 x 785 x 490 mm",
+                    "Greutate cutie": "5.4 Kg"
+                  },
+                  "ACCESORII": {
+                    "Continut pachet": "Baterii\nCablu alimentare\nTelecomanda\nManual utilizare"
+                  },
+                  "SISTEM MONTARE PE PERETE": {
+                    "Compatibilitate VESA": "100 x 100"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Cabluri si adaptoare",
+            "products": [
+              {
+                "id": "660a2403-db64-4fb8-9a80-e0016acf3a40",
+                "price": 15.99,
+                "image_path": "./images/660a2403-db64-4fb8-9a80-e0016acf3a40.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Cablu",
+                    "Tip conector 1": "HDMI tata",
+                    "Tip conector 2": "HDMI tata",
+                    "Lungime cablu": "2 m",
+                    "Invelis extern": "PVC",
+                    "Material conector": "Placat cu aur"
+                  }
+                }
+              },
+              {
+                "id": "f61947d6-a9ca-40a7-b6e3-29ae4f3fb680",
+                "price": 29.99,
+                "image_path": "./images/f61947d6-a9ca-40a7-b6e3-29ae4f3fb680.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Cablu",
+                    "Tip conector 1": "HDMI tata",
+                    "Tip conector 2": "HDMI tata",
+                    "Lungime cablu": "1.8 m",
+                    "Invelis extern": "Plastic",
+                    "Material izolatie": "Cauciuc",
+                    "Material conector": "Placat cu aur",
+                    "Continut pachet": "1 cablu HDMI"
+                  }
+                }
+              },
+              {
+                "id": "fe16ff50-d8cf-4bee-9e66-08127d962a77",
+                "price": 27.59,
+                "image_path": "./images/fe16ff50-d8cf-4bee-9e66-08127d962a77.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Cablu",
+                    "Tip conector 1": "HDMI tata",
+                    "Tip conector 2": "HDMI tata",
+                    "Lungime cablu": "3 m",
+                    "Invelis extern": "Aluminiu",
+                    "Material conector": "Placat cu aur"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Suporturi TV",
+            "products": [
+              {
+                "id": "35854f41-cd37-435c-9829-d5942a8af5f6",
+                "price": 47.99,
+                "image_path": "./images/35854f41-cd37-435c-9829-d5942a8af5f6.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Mobil",
+                    "Tip mobilitate": "Verticala",
+                    "Tip montare": "Perete",
+                    "Unghi maxim mobilitate verticala": "10 \u00b0",
+                    "Material": "Otel",
+                    "Distanta de la perete": "50 mm",
+                    "Inaltime": "225 mm",
+                    "Diagonala minima compatibila": "23 inch",
+                    "Diagonala maxima compatibila": "43 inch",
+                    "Greutate maxima suportata": "35 Kg",
+                    "Compatibilitate VESA": "75 x 75\n100 x 100\n200 x 100\n200 x 200",
+                    "Greutate suport": "0.9 Kg",
+                    "Culoare": "Negru"
+                  }
+                }
+              },
+              {
+                "id": "2c367c9a-8111-4921-aa35-ea14c3988819",
+                "price": 118.99,
+                "image_path": "./images/2c367c9a-8111-4921-aa35-ea14c3988819.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Fix",
+                    "Tip montare": "Perete",
+                    "Material": "Otel",
+                    "Distanta de la perete": "23 mm",
+                    "Diagonala minima compatibila": "20 inch",
+                    "Diagonala maxima compatibila": "60 inch",
+                    "Greutate maxima suportata": "35 Kg",
+                    "Compatibilitate VESA": "200 x 100\n300 x 300\n400 x 400\n200 x 200\n200 x 400",
+                    "Culoare": "Negru"
+                  }
+                }
+              },
+              {
+                "id": "647c0f7d-ee68-48c1-9a52-dbbccaae16da",
+                "price": 90.99,
+                "image_path": "./images/647c0f7d-ee68-48c1-9a52-dbbccaae16da.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Mobil",
+                    "Tip mobilitate": "Orizontala\nVerticala",
+                    "Tip montare": "Perete",
+                    "Unghi maxim mobilitate orizontala": "90 \u00b0",
+                    "Unghi maxim mobilitate verticala": "12 \u00b0",
+                    "Material": "Otel",
+                    "Distanta de la perete": "208 mm",
+                    "Dimensiuni baza (mm)": "129 x 70",
+                    "Diagonala minima compatibila": "13 inch",
+                    "Diagonala maxima compatibila": "43 inch",
+                    "Greutate maxima suportata": "30 Kg",
+                    "Compatibilitate VESA": "200 x 200\n75 x 75\n100 x 100\n200 x 100",
+                    "Greutate suport": "1.16 Kg",
+                    "Culoare": "Negru"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Audio HI-FI & Profesionale",
+        "subcategories": [
+          {
+            "title": "Boxe",
+            "products": [
+              {
+                "id": "2359e4a3-f030-4586-8731-2c3a11fb0dab",
+                "price": 879.99,
+                "image_path": "./images/2359e4a3-f030-4586-8731-2c3a11fb0dab.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Outdoor",
+                    "Tip amplificare": "Activa\nPasiva",
+                    "Utilizare": "Profesional\nUz casnic",
+                    "Tip montare": "De podea",
+                    "Numar boxe": "2",
+                    "Conectivitate": "Bluetooth\nUSB",
+                    "Numar canale": "2",
+                    "Constructie": "Lemn",
+                    "Putere RMS totala": "800 W",
+                    "Reglaje": "Bass",
+                    "Greutate": "19.26 Kg",
+                    "Conectori": "1 x USB\n1 x Digital audio input\n1 x Micro SD",
+                    "Functii": "Bluetooth\nLumini RGB\nUSB",
+                    "Continut pachet": "1 x Adaptor\n1 telecomanda",
+                    "Culoare": "Negru"
+                  }
+                }
+              },
+              {
+                "id": "335cbffe-dc90-485b-b154-af9eae5dc881",
+                "price": 249.98,
+                "image_path": "./images/335cbffe-dc90-485b-b154-af9eae5dc881.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Sistem complet",
+                    "Tip amplificare": "Activa",
+                    "Utilizare": "Uz casnic",
+                    "Tip montare": "De podea",
+                    "Numar boxe": "3",
+                    "Conectivitate": "Bluetooth\nCititor de carduri\nAUX",
+                    "Numar canale": "2.1",
+                    "Constructie": "Lemn",
+                    "Putere RMS totala": "40 W",
+                    "Impedanta iesire": "8 \u03a9",
+                    "Numar cai": "3",
+                    "Reglaje": "Volum\nJoase",
+                    "Conectori": "1 x USB\n1 x Jack 3.5 mm\n1 x SD Card",
+                    "Functii": "Radio FM",
+                    "Continut pachet": "1 x Telecomanda\n1 x Manual de utilizare\n1 x Subwoofer\n2 x Boxa frontala",
+                    "Culoare": "Negru"
+                  },
+                  "BOXE FRONTALE": {
+                    "Putere RMS boxa frontala": "10 W",
+                    "Raspuns in frecventa boxa frontala": "20 Hz - 20 kHz",
+                    "Dimensiuni boxa frontala (W x D x H)": "97 x 157 x 94 mm"
+                  },
+                  "SUBWOOFER": {
+                    "Putere RMS subwoofer": "20 W",
+                    "Sensibilitate subwoofer": "60 dB",
+                    "Dimensiuni subwoofer (W x D x H)": "53 x 274 x 249 mm"
+                  }
+                }
+              },
+              {
+                "id": "adfe2b55-a811-49ac-af6d-ef83250f625f",
+                "price": 249.98,
+                "image_path": "./images/adfe2b55-a811-49ac-af6d-ef83250f625f.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip": "Sistem complet",
+                    "Tip amplificare": "Activa",
+                    "Utilizare": "Uz casnic",
+                    "Tip montare": "De podea",
+                    "Numar boxe": "3",
+                    "Conectivitate": "Bluetooth\nCititor de carduri\nAUX",
+                    "Numar canale": "2.1",
+                    "Constructie": "Lemn",
+                    "Putere RMS totala": "40 W",
+                    "Impedanta iesire": "8 \u03a9",
+                    "Numar cai": "3",
+                    "Reglaje": "Volum\nJoase",
+                    "Conectori": "1 x USB\n1 x Jack 3.5 mm\n1 x SD Card",
+                    "Functii": "Radio FM",
+                    "Continut pachet": "1 x Telecomanda\n1 x Manual de utilizare\n1 x Subwoofer\n2 x Boxa frontala",
+                    "Culoare": "Negru"
+                  },
+                  "BOXE FRONTALE": {
+                    "Putere RMS boxa frontala": "10 W",
+                    "Raspuns in frecventa boxa frontala": "20 Hz - 20 kHz",
+                    "Dimensiuni boxa frontala (W x D x H)": "97 x 157 x 94 mm"
+                  },
+                  "SUBWOOFER": {
+                    "Putere RMS subwoofer": "20 W",
+                    "Sensibilitate subwoofer": "60 dB",
+                    "Dimensiuni subwoofer (W x D x H)": "53 x 274 x 249 mm"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Sisteme complete",
+            "products": [
+              {
+                "id": "02252606-a41e-45c3-bb90-2a5f56657752",
+                "price": 1360.54,
+                "image_path": "./images/02252606-a41e-45c3-bb90-2a5f56657752.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Componente sistem": "Boxe frontale\nAmplificator",
+                    "Tehnologie": "Wireless\nCu fir",
+                    "Utilizare": "Profesional\nUz casnic",
+                    "Raport semnal zgomot": "98 dB",
+                    "Numar canale": "4",
+                    "Putere RMS totala": "80 W",
+                    "Conectori intrare": "1 x Card MicroSD\n1x USB",
+                    "Conectori iesire": "AUX",
+                    "Continut pachet": "1 x Amplificator\n1 x Telecomanda\n1 x Suport de montare\n1 x cablu de alimentare\n1 x Cablu difuzor\n4 x Boxe Incastrabile",
+                    "Culoare": "Alb\nNegru",
+                    "Distorsiuni": "0.03%"
+                  },
+                  "AMPLIFICATOR / RECEIVER": {
+                    "Impedanta amplificator": "8 \u03a9",
+                    "Raspuns in frecventa amplificator": "20 - 20000 Hz"
+                  }
+                }
+              },
+              {
+                "id": "2680a050-afb3-44e5-8ee1-617cd47e6d3c",
+                "price": 895.63,
+                "image_path": "./images/2680a050-afb3-44e5-8ee1-617cd47e6d3c.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Componente sistem": "Boxe frontale\nAmplificator",
+                    "Tehnologie": "Wireless\nCu fir",
+                    "Utilizare": "Profesional\nUz casnic",
+                    "Raport semnal zgomot": "98 dB",
+                    "Numar canale": "2",
+                    "Putere RMS totala": "40 W",
+                    "Conectori intrare": "1 x Card MicroSD\n1x USB",
+                    "Conectori iesire": "AUX",
+                    "Continut pachet": "1 x Amplificator\n1 x Telecomanda\n1 x Suport de montare\n1 x cablu de alimentare\n1 x Cablu difuzor\n2 x Boxe Incastrabile",
+                    "Culoare": "Alb\nNegru",
+                    "Distorsiuni": "0.03%"
+                  },
+                  "AMPLIFICATOR / RECEIVER": {
+                    "Impedanta amplificator": "8 \u03a9",
+                    "Raspuns in frecventa amplificator": "20 - 20000 Hz"
+                  }
+                }
+              },
+              {
+                "id": "4362283a-22aa-40e2-8fe0-c4d3e92462dc",
+                "price": 349.9,
+                "image_path": "./images/4362283a-22aa-40e2-8fe0-c4d3e92462dc.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Componente sistem": "Boxe frontale",
+                    "Tehnologie": "Cu fir",
+                    "Numar canale": "30",
+                    "Putere RMS totala": "28 W",
+                    "Conectori intrare": "1 x AUX-IN\nUSB\n1 x Bluetooth\n1 x 3.5 mm jack",
+                    "Conectori iesire": "1 x AUX",
+                    "Functii": "Radio FM\nEgalizator\nTelecomanda"
+                  },
+                  "BOXE SURROUND": {
+                    "Putere RMS boxa surround": "5 W"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Sisteme audio wireless",
+            "products": [
+              {
+                "id": "216749ab-9acf-4c41-a7f1-6b2ec9f7b6bd",
+                "price": 55.5,
+                "image_path": "./images/216749ab-9acf-4c41-a7f1-6b2ec9f7b6bd.jpg",
+                "specifications": {}
+              },
+              {
+                "id": "1806e91b-1988-4f19-af43-db111230ce6d",
+                "price": 1699.0,
+                "image_path": "./images/1806e91b-1988-4f19-af43-db111230ce6d.jpg",
+                "specifications": {}
+              },
+              {
+                "id": "9bb94e0e-b36b-44cc-9656-38863f212b26",
+                "price": 74.8,
+                "image_path": "./images/9bb94e0e-b36b-44cc-9656-38863f212b26.jpg",
+                "specifications": {}
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Home Cinema & Audio",
+        "subcategories": [
+          {
+            "title": "Sisteme audio",
+            "products": [
+              {
+                "id": "9cc39217-9b90-4a0c-a4e1-054acd4303ed",
+                "price": 265.99,
+                "image_path": "./images/9cc39217-9b90-4a0c-a4e1-054acd4303ed.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Sistem audio",
+                    "Tip": "Standard",
+                    "Tehnologie": "Cu fir",
+                    "Conectivitate": "Bluetooth\nUSB\nCititor de carduri\nRCA\nAUX",
+                    "Utilizare": "Uz casnic",
+                    "Numar canale": "3",
+                    "Conectori": "USB\nCard reader\nRCA",
+                    "Culoare": "Portocaliu\nNegru"
+                  },
+                  "REDARE": {
+                    "Tip mediu de redare": "Mp3 Player",
+                    "Formate audio suportate": "MP3"
+                  },
+                  "PERFORMANTE": {
+                    "Putere RMS totala": "40 W"
+                  },
+                  "RADIO": {
+                    "Tuner": "FM"
+                  }
+                }
+              },
+              {
+                "id": "08f4e371-8894-4802-955e-2b8f133f0ef8",
+                "price": 4399.0,
+                "image_path": "./images/08f4e371-8894-4802-955e-2b8f133f0ef8.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Sistem audio",
+                    "Tip": "High Power",
+                    "Tehnologie": "Wireless",
+                    "Conectivitate": "Bluetooth",
+                    "Utilizare": "Uz casnic",
+                    "Conectori": "1 x USB\n1 x Jack 3.5 mm\n1 x Aux\n1 x RCA",
+                    "Culoare": "Negru"
+                  },
+                  "REDARE": {
+                    "Tip mediu de redare": "Memorie USB",
+                    "Functii": "Control bass"
+                  },
+                  "PERFORMANTE": {
+                    "Putere RMS totala": "1100 W"
+                  },
+                  "DIMENSIUNI": {
+                    "Lungime": "39 cm",
+                    "Latime": "39.7 cm",
+                    "Inaltime": "105 cm",
+                    "Greutate": "34.7 Kg"
+                  }
+                }
+              },
+              {
+                "id": "824d24b7-f802-49b6-987b-e511213833a5",
+                "price": 1799.99,
+                "image_path": "./images/824d24b7-f802-49b6-987b-e511213833a5.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Tip produs": "Sistem audio",
+                    "Tip": "Standard",
+                    "Tehnologie": "Wireless\nCu fir",
+                    "Conectivitate": "Bluetooth\nUSB",
+                    "Utilizare": "Profesional\nUz casnic",
+                    "Raspuns in frecventa": "45 Hz - 20 kHz",
+                    "Raport semnal zgomot": "80 dB",
+                    "Conectori": "USB\nJack 3.5",
+                    "Continut pachet": "1 x Sistem audio",
+                    "Culoare": "Negru"
+                  },
+                  "REDARE": {
+                    "Formate audio suportate": "MP3"
+                  },
+                  "PERFORMANTE": {
+                    "Putere RMS totala": "160 W"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Sisteme Home Cinema",
+            "products": [
+              {
+                "id": "69779c0f-b88d-4a21-9939-35c4fccd70a5",
+                "price": 945.0,
+                "image_path": "./images/69779c0f-b88d-4a21-9939-35c4fccd70a5.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Numar canale": "5.1",
+                    "Tehnologie": "Cu fir",
+                    "Tip mediu de redare": "DVD",
+                    "Putere RMS totala": "105 W",
+                    "Putere RMS subwoofer": "55 W",
+                    "Raspuns in frecventa": "40 - 20000 Hz",
+                    "Conectori": "1 x USB",
+                    "Culoare": "Negru"
+                  },
+                  "DIMENSIUNI": {
+                    "Dimensiuni subwoofer (W x D x H)": "318 x 191 x 388.5 mm",
+                    "Dimensiuni player (W x D x H)": "360 x 58 x 293 mm"
+                  }
+                }
+              },
+              {
+                "id": "0b373a86-46ab-41d9-a6eb-8151ea02c0c3",
+                "price": 4499.0,
+                "image_path": "./images/0b373a86-46ab-41d9-a6eb-8151ea02c0c3.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Numar canale": "5.1",
+                    "Tehnologie": "Wireless\nCu fir",
+                    "Tip mediu de redare": "USB",
+                    "Conectori": "1 x Aux in"
+                  },
+                  "DIMENSIUNI": {
+                    "Dimensiuni player (W x D x H)": "435 x 377 x 171 mm"
+                  }
+                }
+              },
+              {
+                "id": "cdb599e5-34ed-40b0-bc95-5f17f2c96a8b",
+                "price": 4284.0,
+                "image_path": "./images/cdb599e5-34ed-40b0-bc95-5f17f2c96a8b.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Numar canale": "5.1",
+                    "Tehnologie": "Wireless",
+                    "Raspuns in frecventa": "120 - 25000 Hz",
+                    "Culoare": "Negru"
+                  },
+                  "CARACTERISTICI AUDIO-VIDEO": {
+                    "Moduri sunet prestabilite": "Cinema"
+                  },
+                  "DIMENSIUNI": {
+                    "Dimensiuni boxa frontala (W x D x H)": "8.9 x 10.6 x 11.6 cm",
+                    "Dimensiuni boxa centrala (W x D x H)": "19.6 x 10.6 x 8.9 cm",
+                    "Dimensiuni subwoofer (W x D x H)": "24 x 42 x 41 cm",
+                    "Greutate boxa frontala": "0.8 Kg",
+                    "Greutate boxa centrala": "1.4 Kg",
+                    "Greutate subwoofer": "9.8 Kg"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "title": "Soundbar",
+            "products": [
+              {
+                "id": "79db3111-291d-42ed-8d82-4ea1faf6aa09",
+                "price": 899.99,
+                "image_path": "./images/79db3111-291d-42ed-8d82-4ea1faf6aa09.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Design soundbar": "Cu subwoofer",
+                    "Subwoofer wireless": "Da",
+                    "Numar canale": "2.1",
+                    "Putere": "330 W",
+                    "Culoare": "Negru"
+                  },
+                  "CONECTIVITATE": {
+                    "Conectivitate": "Bluetooth",
+                    "Versiune Bluetooth": "5.0",
+                    "Conectori intrare": "1 x USB\n1 x Optical",
+                    "Conectori iesire": "1 x HDMI ARC"
+                  },
+                  "CARACTERISTICI SUNET": {
+                    "Tehnologii audio": "Dolby Digital",
+                    "Caracteristici speciale": "Mod voce\nMod noapte\nS-Force PRO"
+                  },
+                  "ALIMENTARE": {
+                    "Consum subwoofer": "20 W",
+                    "Consum soundbar": "35 W"
+                  },
+                  "DIMENISUNI": {
+                    "Dimensiune soundbar": "900 x 88 x 64 mm",
+                    "Dimensiune subwoofer": "192 x 400 x 387 mm",
+                    "Greutate soundbar": "2.4 Kg",
+                    "Greutate subwoofer": "7.3 Kg"
+                  },
+                  "ACCESORII": {
+                    "Continut pachet": "1 x manual de utilizare\n1 x Telecomanda\n1 x Adaptor alimentare retea\n1 x Cablu optic"
+                  }
+                }
+              },
+              {
+                "id": "1647f093-5a9e-4147-bb19-fbadab525918",
+                "price": 299.99,
+                "image_path": "./images/1647f093-5a9e-4147-bb19-fbadab525918.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Design soundbar": "Fara subwoofer",
+                    "Subwoofer wireless": "Nu",
+                    "Numar canale": "2",
+                    "Putere": "40 W",
+                    "Putere soundbar": "40 W",
+                    "Culoare": "Negru"
+                  },
+                  "CONECTIVITATE": {
+                    "Conectivitate": "Bluetooth\nUSB",
+                    "Conectori intrare": "1 x USB\n2 x AUX",
+                    "Conectori iesire": "1 x AUX"
+                  },
+                  "ALIMENTARE": {
+                    "Consum soundbar": "60 W",
+                    "Putere consumata in stand-by": "0.2 W"
+                  },
+                  "DIMENISUNI": {
+                    "Dimensiune soundbar": "1000 x 80 x 80 mm",
+                    "Greutate soundbar": "3.5 Kg"
+                  },
+                  "ACCESORII": {
+                    "Continut pachet": "1 x manual de utilizare\n1 x Telecomanda\n1 x Adaptor alimentare retea\n1 x Cablu alimentare"
+                  }
+                }
+              },
+              {
+                "id": "d5ba6b6d-a03a-4482-8be8-2c2de903edf7",
+                "price": 429.9,
+                "image_path": "./images/d5ba6b6d-a03a-4482-8be8-2c2de903edf7.jpg",
+                "specifications": {
+                  "CARACTERISTICI GENERALE": {
+                    "Design soundbar": "Fara subwoofer",
+                    "Numar canale": "2",
+                    "Putere": "120 W",
+                    "Putere soundbar": "120 W",
+                    "Culoare": "Negru"
+                  },
+                  "CONECTIVITATE": {
+                    "Conectivitate": "Bluetooth\nUSB",
+                    "Versiune Bluetooth": "4.2",
+                    "Conectori intrare": "1 x USB\n1 x Audio optic in",
+                    "Conectori iesire": "1 x HDMI ARC"
+                  },
+                  "CARACTERISTICI SUNET": {
+                    "Tehnologii audio": "Dolby Digital"
+                  },
+                  "CARACTERISTICI SMART": {
+                    "Aplicatii incluse": "SongPal"
+                  },
+                  "ALIMENTARE": {
+                    "Consum soundbar": "30 W",
+                    "Putere consumata in stand-by": "0.5 W"
+                  },
+                  "DIMENISUNI": {
+                    "Dimensiune soundbar": "90 x 8.8 x 6.4 cm",
+                    "Greutate soundbar": "2.4 Kg"
+                  },
+                  "ACCESORII": {
+                    "Continut pachet": "1 x Telecomanda\n1 x Cablu alimentare\n1 x Cablu optic"
+                  }
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

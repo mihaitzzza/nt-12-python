@@ -13,10 +13,20 @@ class Category(BaseElement):
         self._title = title_element.text
 
         subcategory_elements = self._element.find_elements(By.XPATH, './/ul/li')
-        for subcategory_element in subcategory_elements:
+        for index, subcategory_element in enumerate(subcategory_elements):
             subcategory = Subcategory(subcategory_element, self._driver)
             subcategory.extract_data()
 
             self._subcategories.append(subcategory)
 
-            break
+            if index == 2:
+                break
+
+    def to_dict(self):
+        return {
+            'title': self._title,
+            'subcategories': [
+                subcategory.to_dict()
+                for subcategory in self._subcategories
+            ]
+        }

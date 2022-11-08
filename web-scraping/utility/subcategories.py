@@ -20,12 +20,22 @@ class Subcategory(BaseElement):
             By.XPATH,
             './/div[@id="card_grid"]//div[contains(@class, "card-item")]'
         )
-        for product_element in product_elements:
+        for index, product_element in enumerate(product_elements):
             product = Product(product_element, self._driver)
             product.extract_data()
             self._products.append(product)
 
-            break
+            if index == 2:
+                break
 
         self._driver.close()
         self._driver.switch_to.window(self._driver.window_handles[-1])
+
+    def to_dict(self):
+        return {
+            'title': self._title,
+            'products': [
+                product.to_dict()
+                for product in self._products
+            ]
+        }
