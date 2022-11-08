@@ -14,9 +14,8 @@ Including another URLconf
     2. Add a URL to urlpatterns:  path('blog/', include('blog.urls'))
 """
 from django.contrib import admin
-from django.urls import path
+from django.urls import path, include
 from django.shortcuts import render
-from products.views import show_all_products, show_product
 
 
 def homepage(request):
@@ -24,8 +23,7 @@ def homepage(request):
 
 
 urlpatterns = [
-    path('admin/', admin.site.urls),
     path('', homepage),
-    path('products/', show_all_products),
-    path('products/<int:product_id>/', show_product),
+    path('admin/', admin.site.urls),
+    path('products/', include('products.urls'))
 ]

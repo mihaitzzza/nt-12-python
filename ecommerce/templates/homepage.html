@@ -1,15 +1,9 @@
-<html>
-    <head>
-        <title>Homepage | NT-12-PYTHON</title>
-    </head>
-    <body>
-        <div>
-            <a href="/">Homepage</a>
-            <a href="/products">Products</a>
-        </div>
-        <h1>My First Django page</h1>
-        <p>
-            Hey, welcome to my first web app!
-        </p>
-    </body>
-</html>
+{% extends 'base.html' %}
+
+{% block title %}
+    <title>Homepage</title>
+{% endblock %}
+
+{% block content %}
+    <p>Hey, welcome to my first web app!</p>
+{% endblock %}
