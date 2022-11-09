@@ -65,6 +65,7 @@ class Product(BaseElement):
     def to_dict(self):
         return {
             'id': str(self._id),
+            'title': self._title,
             'price': self._price,
             'image_path': self._image_path,
             'specifications': self._specifications

@@ -1,0 +1,23 @@
+[
+  {
+    "model": "products.specificationcategory",
+    "pk": 1,
+    "fields": {
+      "name": "Procesor 2nd"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 2,
+    "fields": {
+      "name": "Afisare"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 3,
+    "fields": {
+      "name": "Memorie"
+    }
+  }
+]
