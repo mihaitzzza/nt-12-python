@@ -7,4 +7,22 @@
 {% block content %}
     <p>Name: {{ product.name }}</p>
     <p>Price: {{ product.price }} RON</p>
+    <p>Specifications:</p>
+    {% for specs_category_name, specs in product.specs_categories %}
+        <table>
+            <thead>
+                <tr>
+                    <th>{{ specs_category_name }}</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for spec in specs %}
+                    <tr>
+                        <td>{{ spec.name }}</td>
+                        <td>{{ spec.value }}</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% endfor %}
 {% endblock %}
