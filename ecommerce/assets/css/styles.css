@@ -1,0 +1,121 @@
+body {
+    margin: 0;
+}
+th {
+    text-align: left;
+}
+.header {
+    position: fixed;
+    background-color: #642c86;
+    height: 76px;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 30px;
+}
+.header nav {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+.header nav a {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+}
+.header nav a:hover,
+.header nav a.active {
+    background-color: white;
+    color: #642c86;
+    text-decoration: underline;
+}
+.container {
+    margin-top: 76px;
+    padding: 20px 30px;
+}
+ul.products-container {
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    justify-content: space-between;
+}
+ul.products-container li {
+    flex-basis: 21%;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+}
+ul.products-container li a {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+ul.products-container li a {
+    text-decoration: none;
+    color: black;
+    flex: 1;
+}
+ul.products-container li a:hover {
+    text-decoration: underline;
+}
+ul.products-container li .product-data {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ul.products-container li .product-data .price {
+    color: red;
+    font-weight: bold;
+}
+.product-metadata {
+    display: flex;
+    justify-content: space-between;
+}
+.product-metadata .product-image-container {
+    flex-basis: 20%;
+}
+.product-metadata .product-details {
+    flex: 1;
+    margin-left: 40px;
+}
+#product-name {
+    font-weight: bold;
+    font-size: 20px;
+}
+.product-metadata .product-controls {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.product-metadata .product-controls p {
+    font-weight: bold;
+    color: red;
+    font-size: 18px;
+}
+table.product-specifications {
+    width: 100%;
+    margin-top: 40px;
+    border-collapse: collapse;
+}
+table.product-specifications th {
+    font-size: 20px;
+    text-transform: uppercase;
+    padding: 10px 0;
+}
+table.product-specifications tbody tr:nth-child(2n + 1) {
+    background-color: #eff9fe;
+}
+table.product-specifications td {
+    width: 50%;
+    padding: 10px 20px;
+}

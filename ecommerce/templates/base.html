@@ -1,10 +1,16 @@
+{% load static %}
+
 <html>
     <head>
         {% block title %}{% endblock %}
+        <link rel="stylesheet" href="{% static 'css/styles.css' %}" />
     </head>
     <body>
-        {% include 'navigation.html' %}
-        <div>
+        <div class="header">
+            <img src="{% static 'images/logo.png' %}" height="100%" />
+            {% include 'navigation.html' %}
+        </div>
+        <div class="container">
             {% block content %}{% endblock %}
         </div>
     </body>

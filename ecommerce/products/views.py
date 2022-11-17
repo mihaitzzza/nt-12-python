@@ -3,7 +3,18 @@ from products.models import Product
 
 
 def show_all_products(request):
-    products = Product.objects.all()
+    price = request.GET.get('price')
+
+    products = Product.objects
+    if price is None:
+        products = Product.objects.all()
+    else:
+        products = Product.objects.filter(price=price).all()
+
+    # products = Product.objects
+    # if price is not None:
+    #     products = products.filter(price=price)
+    # products = products.all()
 
     return render(request, 'products/all_products.html', {
         'products': products,

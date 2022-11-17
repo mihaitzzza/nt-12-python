@@ -5,12 +5,20 @@
 {% endblock %}
 
 {% block content %}
-    <ul>
+    <ul class="products-container">
         {% for product in products %}
             <li>
-                {{ product.name }} ({{ product.price }} RON) - <a href="/products/{{ product.id }}">View details</a>
+                <img src="https://s13emagst.akamaized.net/products/39979/39978446/images/res_aee79fd657ad22d14453cfa755a0ee8a.jpg?width=450&height=450&hash=68A6C989D8B50C687C47C4AE9ABBAF20" width="100%" />
+                <a href="/products/{{ product.id }}">
+                    <p>{{ product.name | truncatechars:200 }}</p>
+                </a>
+                <div class="product-data">
+                    <p class="price">{{ product.price }} RON</p>
+                    <button>Add to cart</button>
+                </div>
             </li>
+        {% empty %}
+            <p>No products available.</p>
         {% endfor %}
     </ul>
 {% endblock %}
-

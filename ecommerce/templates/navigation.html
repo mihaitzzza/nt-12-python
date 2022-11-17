@@ -1,4 +1,12 @@
 <nav>
     <a href="/">Homepage</a>
     <a href="/products">Products</a>
+    {% if user.is_authenticated %}
+        <form method="post" action="/logout/">
+            {% csrf_token %}
+            <input type="submit" value="Logout" />
+        </form>
+    {% else %}
+        <a href="/login">Login</a>
+    {% endif %}
 </nav>

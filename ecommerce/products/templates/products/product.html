@@ -5,14 +5,23 @@
 {% endblock %}
 
 {% block content %}
-    <p>Name: {{ product.name }}</p>
-    <p>Price: {{ product.price }} RON</p>
-    <p>Specifications:</p>
+    <div class="product-metadata">
+        <div class="product-image-container">
+            <img src="https://s13emagst.akamaized.net/products/39979/39978446/images/res_aee79fd657ad22d14453cfa755a0ee8a.jpg?width=450&height=450&hash=68A6C989D8B50C687C47C4AE9ABBAF20" width="100%" />
+        </div>
+        <div class="product-details">
+            <p id="product-name">{{ product.name }}</p>
+            <div class="product-controls">
+                <p>{{ product.price }} RON</p>
+                <button>Add to cart</button>
+            </div>
+        </div>
+    </div>
     {% for specs_category_name, specs in product.specs_categories %}
-        <table>
+        <table class="product-specifications">
             <thead>
                 <tr>
-                    <th>{{ specs_category_name }}</th>
+                    <th colspan="2">{{ specs_category_name }}</th>
                 </tr>
             </thead>
             <tbody>
