@@ -1,12 +1,13 @@
 <nav>
-    <a href="/">Homepage</a>
-    <a href="/products">Products</a>
+    <a href="{% url 'homepage' %}">Homepage</a>
+    <a href="{% url 'products:all_products' %}">Products</a>
     {% if user.is_authenticated %}
-        <form method="post" action="/logout/">
+        <form method="post" action="{% url 'users:logout' %}">
             {% csrf_token %}
             <input type="submit" value="Logout" />
         </form>
     {% else %}
-        <a href="/login">Login</a>
+        <a href="{% url 'users:register' %}">Register</a>
+        <a href="{% url 'users:login' %}">Login</a>
     {% endif %}
 </nav>

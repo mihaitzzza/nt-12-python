@@ -25,7 +25,7 @@ def homepage(request):
 
 
 urlpatterns = [
-    path('', homepage),
+    path('', homepage, name='homepage'),
     path('admin/', admin.site.urls),
     path('products/', include('products.urls')),
     path('', include('users.urls')),
