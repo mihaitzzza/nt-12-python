@@ -130,6 +130,9 @@ STATICFILES_DIRS = [
     BASE_DIR / 'assets'
 ]
 
+MEDIA_URL = 'media/'  # http://localhost/images/products/product_1.jpg
+MEDIA_ROOT = BASE_DIR / 'media'  # C:/MyProject/media/products/product_1.jpg
+
 # Default primary key field type
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 

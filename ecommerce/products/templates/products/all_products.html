@@ -8,7 +8,7 @@
     <ul class="products-container">
         {% for product in products %}
             <li>
-                <img src="https://s13emagst.akamaized.net/products/39979/39978446/images/res_aee79fd657ad22d14453cfa755a0ee8a.jpg?width=450&height=450&hash=68A6C989D8B50C687C47C4AE9ABBAF20" width="100%" />
+                <img src="{{ product.image_url }}" width="100%" />
                 {% comment %}<a href="/products/{{ product.id }}">{% endcomment %}
                 <a href="{% url 'products:product_details' product.id %}">
                     <p>{{ product.name | truncatechars:200 }}</p>
