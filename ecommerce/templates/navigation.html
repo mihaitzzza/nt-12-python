@@ -1,5 +1,6 @@
 <nav>
     <a href="{% url 'homepage' %}">Homepage</a>
+    <a href="{% url 'products:all_categories' %}">Categories</a>
     <a href="{% url 'products:all_products' %}">Products</a>
     {% if user.is_authenticated %}
         <form method="post" action="{% url 'users:logout' %}">

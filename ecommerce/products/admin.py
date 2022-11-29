@@ -35,7 +35,7 @@ class ProductAdmin(admin.ModelAdmin):
                     .exclude(parent__parent_id=None)
             )
 
-        return super().formfield_for_foreignkey(db_field, request, **kwargs)
+        return super().formfield_for_foreignkey(db_field, request, **kwargs)  # item_id == "" or item_id == " "
 
 
 @admin.register(Store)

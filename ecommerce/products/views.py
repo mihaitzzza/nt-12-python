@@ -1,23 +1,18 @@
 from django.shortcuts import render, Http404, get_object_or_404
-from products.models import Product
+from django.core.paginator import Paginator
+from products.models import Product, Category
 
 
 def show_all_products(request):
-    price = request.GET.get('price')
+    page = request.GET.get('page', 1)
 
-    products = Product.objects
-    if price is None:
-        products = Product.objects.all()
-    else:
-        products = Product.objects.filter(price=price).all()
+    products = Product.objects.all()
 
-    # products = Product.objects
-    # if price is not None:
-    #     products = products.filter(price=price)
-    # products = products.all()
+    paginator = Paginator(products, 16)
+    paginated_products = paginator.get_page(page)
 
     return render(request, 'products/all_products.html', {
-        'products': products,
+        'paginated_products': paginated_products,
     })
 
 
@@ -32,4 +27,17 @@ def show_product(request, product_id):
 
     return render(request, 'products/product.html', {
         'product': product
+    })
+
+
+def show_all_categories(request):
+    page = request.GET.get('page', 1)
+
+    cateogries = Category.objects.all()
+
+    paginator = Paginator(cateogries, 10)
+    paginated_categories = paginator.get_page(page)
+
+    return render(request, 'products/all_categories.html', {
+        'paginated_categories': paginated_categories,
     })

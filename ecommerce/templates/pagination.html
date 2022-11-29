@@ -1,0 +1,35 @@
+{% load pagination %}
+
+<div>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    {% comment %}<p>{{ "my product" | capfirst }}</p>
+    <p>my product{{ 1 | pluralize }}</p>
+    <p>{{ "my product" | my_custom_filter }}</p>
+    <p>my product{{ 1 | my_custom_filter }}</p>{% endcomment %}
+    <p>2 + 3 = {{ 2 | add:3 }}</p>
+    <p>2 + 3 = {{ 2 | add_filter:3 }}</p>
+    <br/>
+    <br/>
+    <br/>
+    <br/>
+    <a href="{{ url }}?page=1">
+        First page (1)
+    </a>
+    {% if pagination.has_previous %}
+        <a href="{{ url }}?page={{ pagination.previous_page_number }}">
+            Previous page ({{ pagination.previous_page_number }})
+        </a>
+    {% endif %}
+    <span>Current page: {{ pagination.number }}</span>
+    {% if pagination.has_next %}
+        <a href="{{ url }}?page={{ pagination.next_page_number }}">
+            Next page ({{ pagination.next_page_number }})
+        </a>
+    {% endif %}
+    <a href="{{ url }}?page={{ pagination.paginator.num_pages }}">
+        Last page ({{ pagination.paginator.num_pages }})
+    </a>
+</div>

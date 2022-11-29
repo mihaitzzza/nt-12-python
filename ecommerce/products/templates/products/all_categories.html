@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    <title>Available Categories</title>
+{% endblock %}
+
+{% block content %}
+    {% include 'pagination.html' with pagination=paginated_categories %}
+    <ul>
+        {% for category in paginated_categories %}
+            <li>{{ category.name }}</li>
+        {% empty %}
+            <p>No category available.</p>
+        {% endfor %}
+    </ul>
+    {% include 'pagination.html' with pagination=paginated_categories %}
+{% endblock %}

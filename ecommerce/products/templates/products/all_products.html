@@ -5,8 +5,10 @@
 {% endblock %}
 
 {% block content %}
+    {% url 'products:all_products' as pagination_url %}
+    {% include 'pagination.html' with pagination=paginated_products url=pagination_url %}
     <ul class="products-container">
-        {% for product in products %}
+        {% for product in paginated_products %}
             <li>
                 <img src="{{ product.image_url }}" width="100%" />
                 {% comment %}<a href="/products/{{ product.id }}">{% endcomment %}
@@ -22,4 +24,5 @@
             <p>No products available.</p>
         {% endfor %}
     </ul>
+    {% include 'pagination.html' with pagination=paginated_products url=pagination_url %}
 {% endblock %}
