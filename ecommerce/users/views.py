@@ -4,7 +4,8 @@ from django.contrib.auth.decorators import login_required
 from django.conf import settings
 # from users.forms import RegisterForm
 # from users.forms import UserForm
-from django.contrib.auth.forms import UserCreationForm
+# from django.contrib.auth.forms import UserCreationForm
+from users.forms import ProfileAvatarForm, CustomUserCreationForm
 
 
 # def login_view(request):
@@ -40,7 +41,21 @@ from django.contrib.auth.forms import UserCreationForm
 
 @login_required
 def profile_view(request):
-    return render(request, 'users/profile.html')
+    # print('\n' * 2)
+    # print('request.POST', request.POST)
+    # print('request.FILES', request.FILES['avatar'])
+    # print('\n' * 2)
+    if request.method == 'GET':
+        form = ProfileAvatarForm()
+    else:
+        form = ProfileAvatarForm(files=request.FILES, instance=request.user.profile)
+        if form.is_valid:
+            form.save()
+            return redirect(reverse('users:profile'))
+
+    return render(request, 'users/profile.html', {
+        'form': form
+    })
 
 
 # Use this for registering users with a custom form
@@ -86,9 +101,11 @@ def register_view(request):
         return redirect(reverse(settings.LOGIN_REDIRECT_URL))
 
     if request.method == 'GET':
-        form = UserCreationForm()
+        # form = UserCreationForm()
+        form = CustomUserCreationForm()
     else:
-        form = UserCreationForm(request.POST)
+        # form = UserCreationForm(request.POST)
+        form = CustomUserCreationForm(request.POST)
 
         if form.is_valid():
             user = form.save()

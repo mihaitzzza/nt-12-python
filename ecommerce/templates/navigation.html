@@ -3,6 +3,7 @@
     <a href="{% url 'products:all_categories' %}">Categories</a>
     <a href="{% url 'products:all_products' %}">Products</a>
     {% if user.is_authenticated %}
+        <a href="{% url 'users:profile' %}">Profile</a>
         <form method="post" action="{% url 'users:logout' %}">
             {% csrf_token %}
             <input type="submit" value="Logout" />

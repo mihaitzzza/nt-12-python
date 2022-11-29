@@ -16,7 +16,7 @@ class Specification(models.Model):
         unique_together = ('specification_category', 'name')
 
     specification_category = models.ForeignKey(SpecificationCategory, on_delete=models.CASCADE)
-    name = models.CharField(max_length=128, null=False)
+    name = models.CharField(max_length=128, null=False, unique=True)
     value = models.TextField(null=False)
 
     def __str__(self):

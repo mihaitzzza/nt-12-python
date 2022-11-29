@@ -1,0 +1,6811 @@
+[
+  {
+    "model": "products.specificationcategory",
+    "pk": 124,
+    "fields": {
+      "name": "PROCESOR"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 125,
+    "fields": {
+      "name": "AFISARE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 126,
+    "fields": {
+      "name": "MEMORIE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 127,
+    "fields": {
+      "name": "HARD DISK"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 128,
+    "fields": {
+      "name": "PLACA VIDEO"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 129,
+    "fields": {
+      "name": "MULTIMEDIA"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 130,
+    "fields": {
+      "name": "CONECTIVITATE & PORTURI"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 131,
+    "fields": {
+      "name": "SOFTWARE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 132,
+    "fields": {
+      "name": "CARACTERISTICI GENERALE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 133,
+    "fields": {
+      "name": "DIMENSIUNI"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 134,
+    "fields": {
+      "name": "CONECTIVITATE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 135,
+    "fields": {
+      "name": "FOTO VIDEO"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 136,
+    "fields": {
+      "name": "ALIMENTARE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 137,
+    "fields": {
+      "name": "STOCARE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 138,
+    "fields": {
+      "name": "ACUMULATOR"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 139,
+    "fields": {
+      "name": "CARACTERISTICI"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 140,
+    "fields": {
+      "name": "PLACA DE BAZA"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 141,
+    "fields": {
+      "name": "MEMORIE RAM"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 142,
+    "fields": {
+      "name": "CAPACITATE STOCARE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 143,
+    "fields": {
+      "name": "CARCASA & SURSA"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 144,
+    "fields": {
+      "name": "FACILITATI"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 145,
+    "fields": {
+      "name": "ERGONOMIE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 146,
+    "fields": {
+      "name": "GENERAL"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 147,
+    "fields": {
+      "name": "ALTE CARACTERISTICI"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 148,
+    "fields": {
+      "name": "CONECTORI"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 149,
+    "fields": {
+      "name": "ACCESORII"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 150,
+    "fields": {
+      "name": "ALTELE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 151,
+    "fields": {
+      "name": "SISTEM DE RACIRE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 152,
+    "fields": {
+      "name": "SLOTURI"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 153,
+    "fields": {
+      "name": "CERINTE MINIME SISTEM"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 154,
+    "fields": {
+      "name": "CARACTERISTICI VIDEO"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 155,
+    "fields": {
+      "name": "CARACTERISTICI AUDIO"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 156,
+    "fields": {
+      "name": "CONSUM ENERGIE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 157,
+    "fields": {
+      "name": "SISTEM MONTARE PE PERETE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 158,
+    "fields": {
+      "name": "SMART TV"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 159,
+    "fields": {
+      "name": "BOXE FRONTALE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 160,
+    "fields": {
+      "name": "SUBWOOFER"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 161,
+    "fields": {
+      "name": "AMPLIFICATOR / RECEIVER"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 162,
+    "fields": {
+      "name": "BOXE SURROUND"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 163,
+    "fields": {
+      "name": "REDARE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 164,
+    "fields": {
+      "name": "PERFORMANTE"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 165,
+    "fields": {
+      "name": "RADIO"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 166,
+    "fields": {
+      "name": "CARACTERISTICI AUDIO-VIDEO"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 167,
+    "fields": {
+      "name": "CARACTERISTICI SUNET"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 168,
+    "fields": {
+      "name": "DIMENISUNI"
+    }
+  },
+  {
+    "model": "products.specificationcategory",
+    "pk": 169,
+    "fields": {
+      "name": "CARACTERISTICI SMART"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1088,
+    "fields": {
+      "specification_category": 124,
+      "name": "Producator procesor",
+      "value": "Intel®"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1089,
+    "fields": {
+      "specification_category": 124,
+      "name": "Tip procesor",
+      "value": "i5"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1090,
+    "fields": {
+      "specification_category": 124,
+      "name": "Model procesor",
+      "value": "11400H"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1091,
+    "fields": {
+      "specification_category": 124,
+      "name": "Arhitectura",
+      "value": "Tiger Lake"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1092,
+    "fields": {
+      "specification_category": 124,
+      "name": "Numar nuclee",
+      "value": "6"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1093,
+    "fields": {
+      "specification_category": 124,
+      "name": "Frecventa nominala",
+      "value": "2.7 GHz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1094,
+    "fields": {
+      "specification_category": 124,
+      "name": "Frecventa Turbo Boost",
+      "value": "4.5 GHz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1095,
+    "fields": {
+      "specification_category": 124,
+      "name": "Cache",
+      "value": "12288 KB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1096,
+    "fields": {
+      "specification_category": 124,
+      "name": "Tehnologie procesor",
+      "value": "10 nm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1097,
+    "fields": {
+      "specification_category": 124,
+      "name": "Procesor grafic integrat",
+      "value": "Intel® UHD Graphics"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1098,
+    "fields": {
+      "specification_category": 125,
+      "name": "Diagonala display",
+      "value": "15.6 inch"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1099,
+    "fields": {
+      "specification_category": 125,
+      "name": "Format display",
+      "value": "Full HD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1100,
+    "fields": {
+      "specification_category": 125,
+      "name": "Tehnologie display",
+      "value": "IPS"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1101,
+    "fields": {
+      "specification_category": 125,
+      "name": "Rata de refresh",
+      "value": "144 Hz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1102,
+    "fields": {
+      "specification_category": 125,
+      "name": "Luminozitate",
+      "value": "250 niti"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1103,
+    "fields": {
+      "specification_category": 125,
+      "name": "Finisaj display",
+      "value": "Anti-Glare"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1104,
+    "fields": {
+      "specification_category": 125,
+      "name": "Touchscreen",
+      "value": "Nu"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1105,
+    "fields": {
+      "specification_category": 125,
+      "name": "Rezolutie",
+      "value": "1920 x 1080"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1106,
+    "fields": {
+      "specification_category": 126,
+      "name": "Capacitate memorie",
+      "value": "8 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1107,
+    "fields": {
+      "specification_category": 126,
+      "name": "Tip memorie",
+      "value": "DDR4"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1108,
+    "fields": {
+      "specification_category": 126,
+      "name": "Numar sloturi",
+      "value": "2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1109,
+    "fields": {
+      "specification_category": 126,
+      "name": "Sloturi ocupate",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1110,
+    "fields": {
+      "specification_category": 126,
+      "name": "Frecventa",
+      "value": "3200 MHz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1111,
+    "fields": {
+      "specification_category": 126,
+      "name": "Capacitate memorie maxima suportata",
+      "value": "32 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1112,
+    "fields": {
+      "specification_category": 127,
+      "name": "Tip stocare",
+      "value": "SSD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1113,
+    "fields": {
+      "specification_category": 127,
+      "name": "Capacitate SSD",
+      "value": "1 TB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1114,
+    "fields": {
+      "specification_category": 127,
+      "name": "Interfata SSD",
+      "value": "PCI Express\nM.2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1115,
+    "fields": {
+      "specification_category": 128,
+      "name": "Tip placa video",
+      "value": "Dedicata"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1116,
+    "fields": {
+      "specification_category": 128,
+      "name": "Chipset video",
+      "value": "nVidia GeForce RTX"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1117,
+    "fields": {
+      "specification_category": 128,
+      "name": "Model placa video",
+      "value": "RTX 3050"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1118,
+    "fields": {
+      "specification_category": 128,
+      "name": "Capacitate memorie video",
+      "value": "4096 MB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1119,
+    "fields": {
+      "specification_category": 128,
+      "name": "Tip memorie placa video",
+      "value": "GDDR6"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1120,
+    "fields": {
+      "specification_category": 128,
+      "name": "Tehnologii placa video",
+      "value": "DirectX 12\nGeForce Experience"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1121,
+    "fields": {
+      "specification_category": 129,
+      "name": "Unitate optica",
+      "value": "Nu"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1122,
+    "fields": {
+      "specification_category": 129,
+      "name": "Camera WEB",
+      "value": "HD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1123,
+    "fields": {
+      "specification_category": 129,
+      "name": "Audio",
+      "value": "Difuzoare stereo\nMicrofon"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1124,
+    "fields": {
+      "specification_category": 129,
+      "name": "Tehnologii audio",
+      "value": "DTS\nAI mic noise-canceling"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1125,
+    "fields": {
+      "specification_category": 130,
+      "name": "Porturi",
+      "value": "1 x RJ-45\n1 x Audio Out/Microfon\n1 x HDMI 2.0\n3 x USB 3.2 Type A Gen 1\n1 x Thunderbolt v4"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1126,
+    "fields": {
+      "specification_category": 130,
+      "name": "Retea",
+      "value": "10/100/1000"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1127,
+    "fields": {
+      "specification_category": 130,
+      "name": "Wireless",
+      "value": "802.11 ax 2x2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1128,
+    "fields": {
+      "specification_category": 130,
+      "name": "Versiune Bluetooth",
+      "value": "5.2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1129,
+    "fields": {
+      "specification_category": 131,
+      "name": "Sistem de operare",
+      "value": "NO OS"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1130,
+    "fields": {
+      "specification_category": 132,
+      "name": "Platforma producator",
+      "value": "ASUS TUF Gaming F15"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1131,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tastatura numerica",
+      "value": "Da"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1132,
+    "fields": {
+      "specification_category": 132,
+      "name": "Greutate",
+      "value": "2.3 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1133,
+    "fields": {
+      "specification_category": 132,
+      "name": "Dimensiuni (W x H x D)",
+      "value": "359 x 256 x 22.8 - 24.3 cm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1134,
+    "fields": {
+      "specification_category": 132,
+      "name": "Limba tastatura",
+      "value": "Tastatura internationala"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1135,
+    "fields": {
+      "specification_category": 132,
+      "name": "Securitate",
+      "value": "Kensington Lock\nTPM\nBIOS Administrator Password and User Password Protection"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1136,
+    "fields": {
+      "specification_category": 132,
+      "name": "Accesorii incluse",
+      "value": "Adaptor 180W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1137,
+    "fields": {
+      "specification_category": 132,
+      "name": "Caracteristici cheie",
+      "value": "Camera web\nTouchpad care accepta gesturi de atingeri multiple\nTastatura Chiclet\nTastatura iluminata RGB\nRata refresh ecran 144Hz\nBaterie 3 celule -48Wh\nBoost Clock pana la 1600 MHz la 60W (75W cu Dynamic Boost))\nAdaptive-Sync"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1138,
+    "fields": {
+      "specification_category": 132,
+      "name": "Culoare",
+      "value": "Gri grafit"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1139,
+    "fields": {
+      "specification_category": 130,
+      "name": "Cititor de carduri",
+      "value": "SD\nSDHC\nSDXC"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1140,
+    "fields": {
+      "specification_category": 132,
+      "name": "Autonomie baterie",
+      "value": "7.15 h"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1141,
+    "fields": {
+      "specification_category": 130,
+      "name": "3G",
+      "value": "Nu"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1142,
+    "fields": {
+      "specification_category": 130,
+      "name": "4G",
+      "value": "Nu"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1143,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip",
+      "value": "Rucsac"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1144,
+    "fields": {
+      "specification_category": 132,
+      "name": "Compatibilitate maxima laptop",
+      "value": "17 inch"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1145,
+    "fields": {
+      "specification_category": 132,
+      "name": "Compatibilitate minima laptop",
+      "value": "15 inch"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1146,
+    "fields": {
+      "specification_category": 132,
+      "name": "Functii",
+      "value": "Rezistent la apa\nRezistent la zgarieturi\nBretele ajustabile\nAtasabil la bagaje"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1147,
+    "fields": {
+      "specification_category": 132,
+      "name": "Numar compartimente interioare",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1148,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip inchidere",
+      "value": "Fermoar"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1149,
+    "fields": {
+      "specification_category": 132,
+      "name": "Material",
+      "value": "Poliester"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1150,
+    "fields": {
+      "specification_category": 132,
+      "name": "Continut pachet",
+      "value": "1 x Rucsac"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1151,
+    "fields": {
+      "specification_category": 132,
+      "name": "Numar compartimente exterioare",
+      "value": "2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1152,
+    "fields": {
+      "specification_category": 133,
+      "name": "Lungime",
+      "value": "38 cm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1153,
+    "fields": {
+      "specification_category": 133,
+      "name": "Inaltime",
+      "value": "28 cm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1154,
+    "fields": {
+      "specification_category": 133,
+      "name": "Adancime",
+      "value": "8 cm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1155,
+    "fields": {
+      "specification_category": 133,
+      "name": "Greutate",
+      "value": "350 g"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1156,
+    "fields": {
+      "specification_category": 133,
+      "name": "Volum",
+      "value": "10 l"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1157,
+    "fields": {
+      "specification_category": 132,
+      "name": "Brand compatibil",
+      "value": "Universal"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1158,
+    "fields": {
+      "specification_category": 132,
+      "name": "Model compatibil",
+      "value": "Universal"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1159,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip conectivitate",
+      "value": "USB-C"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1160,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip alimentare",
+      "value": "USB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1161,
+    "fields": {
+      "specification_category": 132,
+      "name": "Interfata",
+      "value": "3 x USB 3.0\n1 x RJ-45\n1 x HDMI\n1 x USB-C\n1 x Card reader MicroSD/SD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1162,
+    "fields": {
+      "specification_category": 132,
+      "name": "Sistem de operare compatibil",
+      "value": "Universal"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1163,
+    "fields": {
+      "specification_category": 132,
+      "name": "Retea suportata",
+      "value": "10/100/1000"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1164,
+    "fields": {
+      "specification_category": 132,
+      "name": "Rezolutie suportata",
+      "value": "4K"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1165,
+    "fields": {
+      "specification_category": 132,
+      "name": "Putere alimentare",
+      "value": "100 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1166,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip telefon",
+      "value": "Smartphone"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1167,
+    "fields": {
+      "specification_category": 132,
+      "name": "Sloturi SIM",
+      "value": "Dual SIM"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1168,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip SIM",
+      "value": "Nano SIM"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1169,
+    "fields": {
+      "specification_category": 132,
+      "name": "Sistem de operare",
+      "value": "Android"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1170,
+    "fields": {
+      "specification_category": 132,
+      "name": "Model procesor",
+      "value": "Exynos 2200"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1171,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tehnologii",
+      "value": "5G"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1172,
+    "fields": {
+      "specification_category": 132,
+      "name": "Conectivitate",
+      "value": "Wi-Fi\nBluetooth\nIncarcare wireless"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1173,
+    "fields": {
+      "specification_category": 132,
+      "name": "Senzori",
+      "value": "Amprenta"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1174,
+    "fields": {
+      "specification_category": 132,
+      "name": "Dimensiuni",
+      "value": "77.9 x 8.9 x 163.3 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1175,
+    "fields": {
+      "specification_category": 132,
+      "name": "SAR (W/kg)",
+      "value": "Cap 1.243 W/kg\nCorp 1.266 W/kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1176,
+    "fields": {
+      "specification_category": 132,
+      "name": "An aparitie",
+      "value": "2022"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1177,
+    "fields": {
+      "specification_category": 132,
+      "name": "Protectie",
+      "value": "Waterproof\nDustproof"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1178,
+    "fields": {
+      "specification_category": 132,
+      "name": "RO-ALERT",
+      "value": "Da"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1179,
+    "fields": {
+      "specification_category": 125,
+      "name": "Dimensiune ecran",
+      "value": "6.8 inch"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1180,
+    "fields": {
+      "specification_category": 125,
+      "name": "Tip display",
+      "value": "Dynamic AMOLED"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1181,
+    "fields": {
+      "specification_category": 125,
+      "name": "Rezolutie (pixeli)",
+      "value": "3088 x 1440"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1182,
+    "fields": {
+      "specification_category": 125,
+      "name": "Functii display",
+      "value": "120 Hz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1183,
+    "fields": {
+      "specification_category": 126,
+      "name": "Memorie interna",
+      "value": "512 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1184,
+    "fields": {
+      "specification_category": 126,
+      "name": "Memorie RAM",
+      "value": "12 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1185,
+    "fields": {
+      "specification_category": 134,
+      "name": "Porturi",
+      "value": "USB Type C"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1186,
+    "fields": {
+      "specification_category": 135,
+      "name": "Numar camere",
+      "value": "4"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1187,
+    "fields": {
+      "specification_category": 135,
+      "name": "Rezolutie camera principala",
+      "value": "12 MP Ultrawide\n108 MP Wide\n10 MP Telephoto"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1188,
+    "fields": {
+      "specification_category": 135,
+      "name": "Rezolutie camera frontala",
+      "value": "40 Mpx"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1189,
+    "fields": {
+      "specification_category": 135,
+      "name": "Blit",
+      "value": "Da"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1190,
+    "fields": {
+      "specification_category": 136,
+      "name": "Capacitate baterie",
+      "value": "5000 mAh"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1191,
+    "fields": {
+      "specification_category": 132,
+      "name": "Versiune sistem operare",
+      "value": "Android 12"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1192,
+    "fields": {
+      "specification_category": 132,
+      "name": "Numar nuclee",
+      "value": "8"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1193,
+    "fields": {
+      "specification_category": 132,
+      "name": "Frecventa procesor",
+      "value": "2.4 GHz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1194,
+    "fields": {
+      "specification_category": 132,
+      "name": "Altele",
+      "value": "Rezistent la apa"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1195,
+    "fields": {
+      "specification_category": 134,
+      "name": "Versiune Bluetooth",
+      "value": "5.0"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1196,
+    "fields": {
+      "specification_category": 134,
+      "name": "Standard Wi-Fi",
+      "value": "802.11 a/b/g/n/ac"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1197,
+    "fields": {
+      "specification_category": 135,
+      "name": "Rezolutie video",
+      "value": "Full HD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1198,
+    "fields": {
+      "specification_category": 135,
+      "name": "Caracteristici foto/video",
+      "value": "Auto focus\nPanorama\nStabilizare optica a imaginii"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1199,
+    "fields": {
+      "specification_category": 136,
+      "name": "Tip baterie",
+      "value": "Li-Po"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1200,
+    "fields": {
+      "specification_category": 126,
+      "name": "Slot card memorie",
+      "value": "MicroSD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1201,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip aplicare",
+      "value": "Full screen"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1202,
+    "fields": {
+      "specification_category": 132,
+      "name": "Cantitate pachet",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1203,
+    "fields": {
+      "specification_category": 132,
+      "name": "Grosime",
+      "value": "0.3 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1204,
+    "fields": {
+      "specification_category": 132,
+      "name": "Duritate sticla",
+      "value": "9H"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1205,
+    "fields": {
+      "specification_category": 132,
+      "name": "Inaltime",
+      "value": "199.1 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1206,
+    "fields": {
+      "specification_category": 132,
+      "name": "Latime",
+      "value": "121.8 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1207,
+    "fields": {
+      "specification_category": 124,
+      "name": "Frecventa",
+      "value": "2.3 GHz\n1.8 GHz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1208,
+    "fields": {
+      "specification_category": 124,
+      "name": "Producator chipset video",
+      "value": "Mediatek"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1209,
+    "fields": {
+      "specification_category": 137,
+      "name": "Capacitate stocare",
+      "value": "64 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1210,
+    "fields": {
+      "specification_category": 134,
+      "name": "Wireless",
+      "value": "802.11a/b/g/n/ac"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1211,
+    "fields": {
+      "specification_category": 138,
+      "name": "Baterie detasabila",
+      "value": "Nu"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1212,
+    "fields": {
+      "specification_category": 138,
+      "name": "Tip acumulator",
+      "value": "Li-Polymer"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1213,
+    "fields": {
+      "specification_category": 138,
+      "name": "Capacitate acumulator",
+      "value": "5000 mAh"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1214,
+    "fields": {
+      "specification_category": 138,
+      "name": "Autonomie baterie",
+      "value": "2 s\n18 h\n12 h"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1215,
+    "fields": {
+      "specification_category": 129,
+      "name": "Rezolutie camera principala",
+      "value": "5 Mpx"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1216,
+    "fields": {
+      "specification_category": 129,
+      "name": "Rezolutie camera frontala",
+      "value": "2 Mpx"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1217,
+    "fields": {
+      "specification_category": 132,
+      "name": "Dual Sim",
+      "value": "Nu"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1218,
+    "fields": {
+      "specification_category": 125,
+      "name": "Numar culori",
+      "value": "16M"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1219,
+    "fields": {
+      "specification_category": 137,
+      "name": "Tip slot memorie",
+      "value": "Micro SD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1220,
+    "fields": {
+      "specification_category": 137,
+      "name": "Capacitate maxima card de memorie",
+      "value": "1 TB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1221,
+    "fields": {
+      "specification_category": 129,
+      "name": "Redare video",
+      "value": "Full HD\nMP4, M4V, 3GP, 3G2, AVI, FLV, MKV, WEBM"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1222,
+    "fields": {
+      "specification_category": 129,
+      "name": "Redare audio",
+      "value": "MP3, M4A, 3GA, AAC, OGG, OGA, WAV, AMR, AWB, FLAC, MID, MIDI, XMF, MXMF, IMY, RTTTL, RTX, OTA\nDolby Atmos"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1223,
+    "fields": {
+      "specification_category": 129,
+      "name": "Redare imagine",
+      "value": "Da"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1224,
+    "fields": {
+      "specification_category": 139,
+      "name": "Tip accesoriu",
+      "value": "Husa"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1225,
+    "fields": {
+      "specification_category": 139,
+      "name": "Brand compatibil",
+      "value": "Apple"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1226,
+    "fields": {
+      "specification_category": 139,
+      "name": "Model compatibil",
+      "value": "iPad Pro 10.5\"\niPad Air 3\niPad 8 10.2\" (2020)\niPad 7 10.2\" (2019)\niPad 9 10.2\" (2021)"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1227,
+    "fields": {
+      "specification_category": 139,
+      "name": "Culoare",
+      "value": "Negru"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1228,
+    "fields": {
+      "specification_category": 133,
+      "name": "Diagonala Tableta (inch)",
+      "value": "10.2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1229,
+    "fields": {
+      "specification_category": 139,
+      "name": "Compatibilitate minima",
+      "value": "10.2 inch"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1230,
+    "fields": {
+      "specification_category": 139,
+      "name": "Caracteristici speciale",
+      "value": "Functie de stand\nMaterial moale la atingere\nFunctie Sleep and Wake"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1231,
+    "fields": {
+      "specification_category": 139,
+      "name": "Invelis",
+      "value": "TPU durabil / Piele artificiala"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1232,
+    "fields": {
+      "specification_category": 139,
+      "name": "Altele",
+      "value": "Aceasta Husa nu este Universala, se potriveste doar la modelul prezentat in titlu, indiferent de cati inch are tableta dumneavoastra."
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1233,
+    "fields": {
+      "specification_category": 139,
+      "name": "Continut pachet",
+      "value": "1 x Husa"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1234,
+    "fields": {
+      "specification_category": 133,
+      "name": "Marime",
+      "value": "10.2 inch"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1235,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip accesoriu",
+      "value": "Folie protectie din sticla securizata"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1236,
+    "fields": {
+      "specification_category": 132,
+      "name": "Compatibilitate",
+      "value": "iPad 10.2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1237,
+    "fields": {
+      "specification_category": 132,
+      "name": "Caracteristici speciale",
+      "value": "1 x folie de protectie clear"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1238,
+    "fields": {
+      "specification_category": 132,
+      "name": "Invelis",
+      "value": "Sticla securizata"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1239,
+    "fields": {
+      "specification_category": 132,
+      "name": "Diagonala Tableta (inch)",
+      "value": "10.2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1240,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip sistem",
+      "value": "All in one PC"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1241,
+    "fields": {
+      "specification_category": 132,
+      "name": "Destinat pentru",
+      "value": "Statie business"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1242,
+    "fields": {
+      "specification_category": 132,
+      "name": "VR ready",
+      "value": "Da"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1243,
+    "fields": {
+      "specification_category": 132,
+      "name": "Lungime",
+      "value": "614.6 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1244,
+    "fields": {
+      "specification_category": 132,
+      "name": "Adancime",
+      "value": "242 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1245,
+    "fields": {
+      "specification_category": 124,
+      "name": "Numar thread-uri",
+      "value": "16"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1246,
+    "fields": {
+      "specification_category": 140,
+      "name": "Chipset",
+      "value": "AMD SoC Platform"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1247,
+    "fields": {
+      "specification_category": 140,
+      "name": "Sloturi onboard",
+      "value": "3 x M.2 (unul pentru WLAN si 2 pentru stocare)"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1248,
+    "fields": {
+      "specification_category": 140,
+      "name": "Porturi Back panel",
+      "value": "1 x Display Port\n1 x RJ-45\n1 x Audio Combo\n2 x USB 2.0\n2 x USB 3.2 Gen 2\n2 x USB 3.2 Gen 2 Type-C"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1249,
+    "fields": {
+      "specification_category": 140,
+      "name": "Retea",
+      "value": "10/100/1000"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1250,
+    "fields": {
+      "specification_category": 140,
+      "name": "Versiune Bluetooth",
+      "value": "5.2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1251,
+    "fields": {
+      "specification_category": 140,
+      "name": "Wireless",
+      "value": "802.11 ax 2x2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1252,
+    "fields": {
+      "specification_category": 141,
+      "name": "Tip memorie",
+      "value": "LPDDR5"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1253,
+    "fields": {
+      "specification_category": 141,
+      "name": "Capacitate memorie",
+      "value": "32 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1254,
+    "fields": {
+      "specification_category": 141,
+      "name": "Frecventa memorie",
+      "value": "6400 MHz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1255,
+    "fields": {
+      "specification_category": 141,
+      "name": "Memorie maxima",
+      "value": "32 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1256,
+    "fields": {
+      "specification_category": 142,
+      "name": "Tip stocare",
+      "value": "SSD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1257,
+    "fields": {
+      "specification_category": 142,
+      "name": "Capacitate SSD",
+      "value": "1 TB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1258,
+    "fields": {
+      "specification_category": 142,
+      "name": "Interfata SSD",
+      "value": "PCI Express\nM.2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1259,
+    "fields": {
+      "specification_category": 142,
+      "name": "Numar Solid-State Drive",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1260,
+    "fields": {
+      "specification_category": 143,
+      "name": "Tip carcasa",
+      "value": "All In One"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1261,
+    "fields": {
+      "specification_category": 143,
+      "name": "Putere sursa",
+      "value": "170 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1262,
+    "fields": {
+      "specification_category": 143,
+      "name": "Unitate optica",
+      "value": "Fara unitate optica"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1263,
+    "fields": {
+      "specification_category": 125,
+      "name": "Camera WEB",
+      "value": "Detasabila 5.0MP + IR"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1264,
+    "fields": {
+      "specification_category": 140,
+      "name": "Socket procesor",
+      "value": "LGA 1200"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1265,
+    "fields": {
+      "specification_category": 140,
+      "name": "Numar total sloturi memorie",
+      "value": "2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1266,
+    "fields": {
+      "specification_category": 141,
+      "name": "Sloturi ocupate",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1267,
+    "fields": {
+      "specification_category": 128,
+      "name": "Numar placi video",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1268,
+    "fields": {
+      "specification_category": 128,
+      "name": "Porturi placa video",
+      "value": "1 x DisplayPort\n1 x DVI-D\n1 x HDMI 2.0"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1269,
+    "fields": {
+      "specification_category": 143,
+      "name": "Compatibilitate format placa de baza",
+      "value": "Mini ITX"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1270,
+    "fields": {
+      "specification_category": 143,
+      "name": "Sistem de racire procesor",
+      "value": "Aer"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1271,
+    "fields": {
+      "specification_category": 132,
+      "name": "Gama",
+      "value": "Home & Office"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1272,
+    "fields": {
+      "specification_category": 132,
+      "name": "Putere consumata",
+      "value": "16 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1273,
+    "fields": {
+      "specification_category": 132,
+      "name": "Standarde",
+      "value": "ENERGY STAR\nRoHS\nTCO\nPVC/BRF Free\nMercury Free"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1274,
+    "fields": {
+      "specification_category": 132,
+      "name": "Consum energie electrica / 1000 ore",
+      "value": "12 kWh"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1275,
+    "fields": {
+      "specification_category": 132,
+      "name": "Clasa energetica potrivit noilor etichete energetice adoptate la nivelul UE",
+      "value": "Clasa D"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1276,
+    "fields": {
+      "specification_category": 125,
+      "name": "Diagonala",
+      "value": "23.8 inch"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1277,
+    "fields": {
+      "specification_category": 125,
+      "name": "Tip rezolutie",
+      "value": "Full HD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1278,
+    "fields": {
+      "specification_category": 125,
+      "name": "Rezolutie optima",
+      "value": "1920 x 1080"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1279,
+    "fields": {
+      "specification_category": 125,
+      "name": "Tip iluminare fundal",
+      "value": "LED"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1280,
+    "fields": {
+      "specification_category": 125,
+      "name": "Aspect imagine",
+      "value": "16:9"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1281,
+    "fields": {
+      "specification_category": 125,
+      "name": "Format ecran",
+      "value": "Wide"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1282,
+    "fields": {
+      "specification_category": 125,
+      "name": "Tip suprafata display",
+      "value": "Anti glare"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1283,
+    "fields": {
+      "specification_category": 125,
+      "name": "Timp de raspuns",
+      "value": "4 ms (Extreme mode)"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1284,
+    "fields": {
+      "specification_category": 125,
+      "name": "Unghi maxim vizibilitate orizontala/verticala",
+      "value": "178°/178°"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1285,
+    "fields": {
+      "specification_category": 125,
+      "name": "Contrast tipic",
+      "value": "1000:1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1286,
+    "fields": {
+      "specification_category": 125,
+      "name": "Dimensiune punct",
+      "value": "0.2745 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1287,
+    "fields": {
+      "specification_category": 125,
+      "name": "Rata de refresh (maximala)",
+      "value": "75 Hz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1288,
+    "fields": {
+      "specification_category": 134,
+      "name": "Porturi video",
+      "value": "2 x HDMI"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1289,
+    "fields": {
+      "specification_category": 134,
+      "name": "Porturi audio",
+      "value": "1 x Audio out"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1290,
+    "fields": {
+      "specification_category": 144,
+      "name": "Functii speciale",
+      "value": "Ergonomie"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1291,
+    "fields": {
+      "specification_category": 144,
+      "name": "Montare pe perete",
+      "value": "VESA 100 x 100 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1292,
+    "fields": {
+      "specification_category": 144,
+      "name": "Tehnologii",
+      "value": "Easy Arrange\nComfort View\nFlicker Free\nAMD Free-Sync"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1293,
+    "fields": {
+      "specification_category": 144,
+      "name": "Continut pachet",
+      "value": "1 x Cablu HDMI\n1 x Cablu alimentare\n1 x Monitor\n1 x Ghid de instalare rapida"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1294,
+    "fields": {
+      "specification_category": 145,
+      "name": "Inclinare",
+      "value": "-5 / +21 °"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1295,
+    "fields": {
+      "specification_category": 145,
+      "name": "Inaltime ajustabila",
+      "value": "110 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1296,
+    "fields": {
+      "specification_category": 134,
+      "name": "Data ports",
+      "value": "4 x USB\n1 x USB Type-B"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1297,
+    "fields": {
+      "specification_category": 145,
+      "name": "Rotire",
+      "value": "+90°~-90°"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1298,
+    "fields": {
+      "specification_category": 145,
+      "name": "Pivotare",
+      "value": "-45° + 45°"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1299,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip produs",
+      "value": "Convertor"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1300,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip conector 1",
+      "value": "HDMI tata"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1301,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip conector 2",
+      "value": "VGA mama"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1302,
+    "fields": {
+      "specification_category": 133,
+      "name": "Lungime cablu",
+      "value": "0.2 m"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1303,
+    "fields": {
+      "specification_category": 146,
+      "name": "Slot",
+      "value": "PCI Express 4.0"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1304,
+    "fields": {
+      "specification_category": 146,
+      "name": "Procesor Video",
+      "value": "nVidia GeForce RTX 3060"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1305,
+    "fields": {
+      "specification_category": 146,
+      "name": "Rezolutie maxima",
+      "value": "7680 x 4320"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1306,
+    "fields": {
+      "specification_category": 146,
+      "name": "Tip placa",
+      "value": "Gaming"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1307,
+    "fields": {
+      "specification_category": 124,
+      "name": "Serie",
+      "value": "RTX 3000"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1308,
+    "fields": {
+      "specification_category": 124,
+      "name": "Chipset",
+      "value": "nVIDIA"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1309,
+    "fields": {
+      "specification_category": 124,
+      "name": "Conducte de randare (nr)",
+      "value": "3584"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1310,
+    "fields": {
+      "specification_category": 124,
+      "name": "Frecventa procesor (MHz)",
+      "value": "Mod OC - Boost 1867\nMod Gaming - Boost 1837"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1311,
+    "fields": {
+      "specification_category": 126,
+      "name": "Memorie",
+      "value": "12 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1312,
+    "fields": {
+      "specification_category": 126,
+      "name": "BUS memorie",
+      "value": "192"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1313,
+    "fields": {
+      "specification_category": 147,
+      "name": "Suport DirectX (versiune)",
+      "value": "Microsoft DirectX® 12 Ultimate"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1314,
+    "fields": {
+      "specification_category": 147,
+      "name": "Suport OpenGL (versiune)",
+      "value": "4.6"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1315,
+    "fields": {
+      "specification_category": 147,
+      "name": "Tehnologii",
+      "value": "nVidia G-Sync\nVR Ready\nGeForce Experience\nRay Tracing\nAccelerare DLSS"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1316,
+    "fields": {
+      "specification_category": 148,
+      "name": "Conector DisplayPort",
+      "value": "3"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1317,
+    "fields": {
+      "specification_category": 148,
+      "name": "Conector HDMI",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1318,
+    "fields": {
+      "specification_category": 148,
+      "name": "Conector Alimentare",
+      "value": "1 x 8 pin"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1319,
+    "fields": {
+      "specification_category": 149,
+      "name": "Software inclus",
+      "value": "ASUS GPU Tweak II & Driver"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1320,
+    "fields": {
+      "specification_category": 150,
+      "name": "Altele",
+      "value": "HDCP 2.3\nSursa recomandata - 650 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1321,
+    "fields": {
+      "specification_category": 146,
+      "name": "RAMDAC (MHz)",
+      "value": "400"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1322,
+    "fields": {
+      "specification_category": 124,
+      "name": "Tehnologie de fabricatie (nanometri)",
+      "value": "28 nm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1323,
+    "fields": {
+      "specification_category": 124,
+      "name": "Versiune Pixel Shader",
+      "value": "5.0"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1324,
+    "fields": {
+      "specification_category": 124,
+      "name": "Versiune Vertex Shader",
+      "value": "5.0"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1325,
+    "fields": {
+      "specification_category": 124,
+      "name": "Vertex pipelines",
+      "value": "32"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1326,
+    "fields": {
+      "specification_category": 124,
+      "name": "Numar de tranzistoare (milioane)",
+      "value": "1870"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1327,
+    "fields": {
+      "specification_category": 124,
+      "name": "Pixel fill rate",
+      "value": "17.4 GPixel/s"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1328,
+    "fields": {
+      "specification_category": 124,
+      "name": "Raster Operators",
+      "value": "16"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1329,
+    "fields": {
+      "specification_category": 124,
+      "name": "Texture fill rate",
+      "value": "34.7 GTexel/s"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1330,
+    "fields": {
+      "specification_category": 124,
+      "name": "Texture units",
+      "value": "4.3 GTexel/sec"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1331,
+    "fields": {
+      "specification_category": 124,
+      "name": "Latime de banda procesor (biti)",
+      "value": "128"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1332,
+    "fields": {
+      "specification_category": 126,
+      "name": "Frecventa memorie (MHz)",
+      "value": "2550"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1333,
+    "fields": {
+      "specification_category": 126,
+      "name": "Latime de banda memorie (biti)",
+      "value": "128"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1334,
+    "fields": {
+      "specification_category": 147,
+      "name": "Latime de banda (GB/s)",
+      "value": "81.6"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1335,
+    "fields": {
+      "specification_category": 147,
+      "name": "Rata de umplere (mld. texeli)",
+      "value": "32.6"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1336,
+    "fields": {
+      "specification_category": 147,
+      "name": "Viteza procesare (mil. texeli/secunda)",
+      "value": "4.3"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1337,
+    "fields": {
+      "specification_category": 147,
+      "name": "Monitorizare hardware",
+      "value": "Da"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1338,
+    "fields": {
+      "specification_category": 148,
+      "name": "Conector D-sub 15 pini",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1339,
+    "fields": {
+      "specification_category": 148,
+      "name": "Conector DVI",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1340,
+    "fields": {
+      "specification_category": 149,
+      "name": "Accesorii incluse",
+      "value": "1 x CD driver Win 7,8,10, low profile bracket"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1341,
+    "fields": {
+      "specification_category": 151,
+      "name": "Tip racire (activa/pasiva)",
+      "value": "Activa"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1342,
+    "fields": {
+      "specification_category": 151,
+      "name": "Cooler",
+      "value": "2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1343,
+    "fields": {
+      "specification_category": 151,
+      "name": "Radiator",
+      "value": "Aluminiu"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1344,
+    "fields": {
+      "specification_category": 124,
+      "name": "CPU Socket",
+      "value": "AM4"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1345,
+    "fields": {
+      "specification_category": 124,
+      "name": "Procesoare suportate",
+      "value": "AMD Ryzen Seria 5000"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1346,
+    "fields": {
+      "specification_category": 126,
+      "name": "Capacitate maxima memorie RAM (MB)",
+      "value": "128 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1347,
+    "fields": {
+      "specification_category": 126,
+      "name": "Suport Dualchannel",
+      "value": "Da"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1348,
+    "fields": {
+      "specification_category": 126,
+      "name": "Suport ECC",
+      "value": "Da"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1349,
+    "fields": {
+      "specification_category": 134,
+      "name": "Slot PCI",
+      "value": "PCI Express x16"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1350,
+    "fields": {
+      "specification_category": 134,
+      "name": "Audio integrat",
+      "value": "Realtek® ALC887"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1351,
+    "fields": {
+      "specification_category": 134,
+      "name": "LAN integrat",
+      "value": "Realtek GbE LAN"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1352,
+    "fields": {
+      "specification_category": 134,
+      "name": "RAID integrat",
+      "value": "0, 1, 10"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1353,
+    "fields": {
+      "specification_category": 134,
+      "name": "Rata de transfer SATA (MB/s)",
+      "value": "6 Gb/s"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1354,
+    "fields": {
+      "specification_category": 134,
+      "name": "Conector sursa (pini)",
+      "value": "1 x 24-pin ATX\n1 x 8-pin ATX 12V"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1355,
+    "fields": {
+      "specification_category": 134,
+      "name": "Porturi USB 2.0",
+      "value": "6 x USB 2.0"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1356,
+    "fields": {
+      "specification_category": 134,
+      "name": "Conectivitate",
+      "value": "1 x USB Type-C\n1 x 8-pin ATX 12V\n2 x USB 2.0/1.1\n1 x CPU Fan Header\n1 x 24-pin ATX\n2 x M.2 Socket 3\n4 x SATA 6Gb/s\n1 x USB 3.2 Gen 1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1357,
+    "fields": {
+      "specification_category": 152,
+      "name": "Sloturi PCI-E x16",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1358,
+    "fields": {
+      "specification_category": 152,
+      "name": "Sloturi PCI-E x1",
+      "value": "3"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1359,
+    "fields": {
+      "specification_category": 150,
+      "name": "Tehnologii suportate",
+      "value": "AMD StoreMI"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1360,
+    "fields": {
+      "specification_category": 150,
+      "name": "BIOS & memorie BIOS",
+      "value": "1 x 256 Mbit flash"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1361,
+    "fields": {
+      "specification_category": 150,
+      "name": "Format",
+      "value": "ATX"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1362,
+    "fields": {
+      "specification_category": 150,
+      "name": "Dimensiuni (L x W) (cm)",
+      "value": "30.5 x 24.4"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1363,
+    "fields": {
+      "specification_category": 124,
+      "name": "Socket-uri procesor",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1364,
+    "fields": {
+      "specification_category": 126,
+      "name": "Sloturi memorie",
+      "value": "2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1365,
+    "fields": {
+      "specification_category": 134,
+      "name": "Interfata Serial ATA",
+      "value": "4 x SATA"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1366,
+    "fields": {
+      "specification_category": 134,
+      "name": "Porturi seriale",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1367,
+    "fields": {
+      "specification_category": 152,
+      "name": "Sloturi speciale",
+      "value": "1 x M.2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1368,
+    "fields": {
+      "specification_category": 134,
+      "name": "Porturi USB 3.1",
+      "value": "1 x Type-C\n2 x Type A (Gen2)\n2 x Type A (Gen1)"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1369,
+    "fields": {
+      "specification_category": 132,
+      "name": "Raport semnal/zgomot (dB)",
+      "value": "93"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1370,
+    "fields": {
+      "specification_category": 132,
+      "name": "Rezolutie (biti)",
+      "value": "16"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1371,
+    "fields": {
+      "specification_category": 132,
+      "name": "Numar Canale",
+      "value": "2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1372,
+    "fields": {
+      "specification_category": 132,
+      "name": "Viteza de esantionare maxima (KHz)",
+      "value": "48"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1373,
+    "fields": {
+      "specification_category": 132,
+      "name": "Conectori (iesiri)",
+      "value": "2 x Jack 3.5 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1374,
+    "fields": {
+      "specification_category": 132,
+      "name": "Conectori (intrari)",
+      "value": "1 x USB 2.0"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1375,
+    "fields": {
+      "specification_category": 132,
+      "name": "Facilitati",
+      "value": "instalare automata"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1376,
+    "fields": {
+      "specification_category": 132,
+      "name": "Capabilitati",
+      "value": "Virtual Speaker Shifter"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1377,
+    "fields": {
+      "specification_category": 132,
+      "name": "Efecte sonore",
+      "value": "7.1 surround sound effects"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1378,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip aplicatie",
+      "value": "Office"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1379,
+    "fields": {
+      "specification_category": 132,
+      "name": "Varianta de comercializare",
+      "value": "Retail"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1380,
+    "fields": {
+      "specification_category": 132,
+      "name": "Utilizare",
+      "value": "PC\nMAC"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1381,
+    "fields": {
+      "specification_category": 132,
+      "name": "Versiune",
+      "value": "Office 365 Family"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1382,
+    "fields": {
+      "specification_category": 132,
+      "name": "An",
+      "value": "2021"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1383,
+    "fields": {
+      "specification_category": 132,
+      "name": "Limba",
+      "value": "Engleza"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1384,
+    "fields": {
+      "specification_category": 132,
+      "name": "Numar dispozitive",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1385,
+    "fields": {
+      "specification_category": 132,
+      "name": "Numar utilizatori",
+      "value": "1"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1386,
+    "fields": {
+      "specification_category": 132,
+      "name": "Valabilitate",
+      "value": "1 an"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1387,
+    "fields": {
+      "specification_category": 132,
+      "name": "Pachet office",
+      "value": "Word\nExcel\nPowerPoint\nOutlook\nOneNote\nSkype for business\nOneDrive"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1388,
+    "fields": {
+      "specification_category": 153,
+      "name": "Sistem de operare compatibil",
+      "value": "Windows 10\nWindows 8.1\nMac OS\nWindows 11"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1389,
+    "fields": {
+      "specification_category": 153,
+      "name": "Frecventa procesor",
+      "value": "1.6 GHz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1390,
+    "fields": {
+      "specification_category": 153,
+      "name": "Capacitate memorie RAM",
+      "value": "1 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1391,
+    "fields": {
+      "specification_category": 153,
+      "name": "Capacitate stocare",
+      "value": "4 GB\n10 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1392,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip licenta",
+      "value": "Retail"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1393,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip sistem de operare",
+      "value": "Client"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1394,
+    "fields": {
+      "specification_category": 132,
+      "name": "Arhitectura",
+      "value": "32 biti"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1395,
+    "fields": {
+      "specification_category": 132,
+      "name": "Capacitate memorie RAM",
+      "value": "2 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1396,
+    "fields": {
+      "specification_category": 132,
+      "name": "Capacitate stocare",
+      "value": "2.5 GB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1397,
+    "fields": {
+      "specification_category": 132,
+      "name": "Diagonala display",
+      "value": "80 cm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1398,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip TV",
+      "value": "Non Smart TV"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1399,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tehnologie display",
+      "value": "LED"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1400,
+    "fields": {
+      "specification_category": 132,
+      "name": "Claritate imagine",
+      "value": "HD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1401,
+    "fields": {
+      "specification_category": 132,
+      "name": "Format display",
+      "value": "Plat"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1402,
+    "fields": {
+      "specification_category": 154,
+      "name": "Rezolutie",
+      "value": "1366 x 768"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1403,
+    "fields": {
+      "specification_category": 154,
+      "name": "Rata de refresh",
+      "value": "50 Hz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1404,
+    "fields": {
+      "specification_category": 154,
+      "name": "Tuner digital integrat",
+      "value": "DVB-C\nDVB-T"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1405,
+    "fields": {
+      "specification_category": 155,
+      "name": "Sistem audio",
+      "value": "2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1406,
+    "fields": {
+      "specification_category": 155,
+      "name": "Putere difuzoare integrate",
+      "value": "16 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1407,
+    "fields": {
+      "specification_category": 155,
+      "name": "Subwoofer integrat",
+      "value": "Nu"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1408,
+    "fields": {
+      "specification_category": 134,
+      "name": "Interfata",
+      "value": "1 x USB\n1 x Jack 3.5 mm\n2 x HDMI\nCI+ slot\n1 x D-sub 15 pin"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1409,
+    "fields": {
+      "specification_category": 156,
+      "name": "Consum energie electrica / 1000 ore",
+      "value": "30 kWh"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1410,
+    "fields": {
+      "specification_category": 156,
+      "name": "Putere consumata in stand-by",
+      "value": "0.5 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1411,
+    "fields": {
+      "specification_category": 156,
+      "name": "Clasa energetica potrivit noilor etichete energetice adoptate la nivelul UE",
+      "value": "Clasa F"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1412,
+    "fields": {
+      "specification_category": 133,
+      "name": "Dimensiune cu stand",
+      "value": "181 x 729 x 469 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1413,
+    "fields": {
+      "specification_category": 133,
+      "name": "Dimensiune fara stand",
+      "value": "76 x 729 x 429 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1414,
+    "fields": {
+      "specification_category": 133,
+      "name": "Greutate cu stand",
+      "value": "5.6 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1415,
+    "fields": {
+      "specification_category": 133,
+      "name": "Greutate fara stand",
+      "value": "4.6 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1416,
+    "fields": {
+      "specification_category": 133,
+      "name": "Dimensiune cutie",
+      "value": "130 x 785 x 490 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1417,
+    "fields": {
+      "specification_category": 133,
+      "name": "Greutate cutie",
+      "value": "5.4 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1418,
+    "fields": {
+      "specification_category": 149,
+      "name": "Continut pachet",
+      "value": "Baterii\nCablu alimentare\nTelecomanda\nManual utilizare"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1419,
+    "fields": {
+      "specification_category": 157,
+      "name": "Compatibilitate VESA",
+      "value": "100 x 100"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1420,
+    "fields": {
+      "specification_category": 154,
+      "name": "Tehnologii imagine",
+      "value": "Reducere zgomot\nTemperatura culoare\nContrast\nLuminozitate\nCuloare\nDefinitie\nModuri presetate"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1421,
+    "fields": {
+      "specification_category": 155,
+      "name": "Tehnologii audio",
+      "value": "Stereo\nVolum Automat\nCorector ton\nModuri presetate"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1422,
+    "fields": {
+      "specification_category": 156,
+      "name": "Consum energie electrica",
+      "value": "56 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1423,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tehnologie speciala",
+      "value": "HDR"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1424,
+    "fields": {
+      "specification_category": 158,
+      "name": "Sistem de operare",
+      "value": "Tizen"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1425,
+    "fields": {
+      "specification_category": 158,
+      "name": "Aplicatii Video Streaming",
+      "value": "YouTube\nNetflix\nHBO Go"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1426,
+    "fields": {
+      "specification_category": 158,
+      "name": "Caracteristici cheie",
+      "value": "Screen Mirroring"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1427,
+    "fields": {
+      "specification_category": 158,
+      "name": "Mirroring",
+      "value": "iOS\nAndroid"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1428,
+    "fields": {
+      "specification_category": 158,
+      "name": "Tip procesor",
+      "value": "Quad core"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1429,
+    "fields": {
+      "specification_category": 154,
+      "name": "Tip tehnologie HDR",
+      "value": "HDR 10+"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1430,
+    "fields": {
+      "specification_category": 134,
+      "name": "Conectivitate wireless",
+      "value": "Wi-Fi"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1431,
+    "fields": {
+      "specification_category": 156,
+      "name": "Consum energie electrica in modul HDR/ 1000 ore",
+      "value": "41 kWh"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1432,
+    "fields": {
+      "specification_category": 132,
+      "name": "Lungime cablu",
+      "value": "2 m"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1433,
+    "fields": {
+      "specification_category": 132,
+      "name": "Invelis extern",
+      "value": "PVC"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1434,
+    "fields": {
+      "specification_category": 132,
+      "name": "Material conector",
+      "value": "Placat cu aur"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1435,
+    "fields": {
+      "specification_category": 132,
+      "name": "Material izolatie",
+      "value": "Cauciuc"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1436,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip mobilitate",
+      "value": "Verticala"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1437,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip montare",
+      "value": "Perete"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1438,
+    "fields": {
+      "specification_category": 132,
+      "name": "Unghi maxim mobilitate verticala",
+      "value": "10 °"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1439,
+    "fields": {
+      "specification_category": 132,
+      "name": "Distanta de la perete",
+      "value": "50 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1440,
+    "fields": {
+      "specification_category": 132,
+      "name": "Diagonala minima compatibila",
+      "value": "23 inch"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1441,
+    "fields": {
+      "specification_category": 132,
+      "name": "Diagonala maxima compatibila",
+      "value": "43 inch"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1442,
+    "fields": {
+      "specification_category": 132,
+      "name": "Greutate maxima suportata",
+      "value": "35 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1443,
+    "fields": {
+      "specification_category": 132,
+      "name": "Compatibilitate VESA",
+      "value": "75 x 75\n100 x 100\n200 x 100\n200 x 200"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1444,
+    "fields": {
+      "specification_category": 132,
+      "name": "Greutate suport",
+      "value": "0.9 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1445,
+    "fields": {
+      "specification_category": 132,
+      "name": "Unghi maxim mobilitate orizontala",
+      "value": "90 °"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1446,
+    "fields": {
+      "specification_category": 132,
+      "name": "Dimensiuni baza (mm)",
+      "value": "129 x 70"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1447,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip amplificare",
+      "value": "Activa\nPasiva"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1448,
+    "fields": {
+      "specification_category": 132,
+      "name": "Numar boxe",
+      "value": "2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1449,
+    "fields": {
+      "specification_category": 132,
+      "name": "Constructie",
+      "value": "Lemn"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1450,
+    "fields": {
+      "specification_category": 132,
+      "name": "Putere RMS totala",
+      "value": "800 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1451,
+    "fields": {
+      "specification_category": 132,
+      "name": "Reglaje",
+      "value": "Bass"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1452,
+    "fields": {
+      "specification_category": 132,
+      "name": "Conectori",
+      "value": "1 x USB\n1 x Digital audio input\n1 x Micro SD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1453,
+    "fields": {
+      "specification_category": 132,
+      "name": "Impedanta iesire",
+      "value": "3.5 Ω"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1454,
+    "fields": {
+      "specification_category": 132,
+      "name": "Numar cai",
+      "value": "2"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1455,
+    "fields": {
+      "specification_category": 159,
+      "name": "Putere RMS boxa frontala",
+      "value": "10 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1456,
+    "fields": {
+      "specification_category": 159,
+      "name": "Raspuns in frecventa boxa frontala",
+      "value": "20 Hz - 20 kHz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1457,
+    "fields": {
+      "specification_category": 159,
+      "name": "Dimensiuni boxa frontala (W x D x H)",
+      "value": "97 x 157 x 94 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1458,
+    "fields": {
+      "specification_category": 160,
+      "name": "Putere RMS subwoofer",
+      "value": "20 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1459,
+    "fields": {
+      "specification_category": 160,
+      "name": "Sensibilitate subwoofer",
+      "value": "60 dB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1460,
+    "fields": {
+      "specification_category": 160,
+      "name": "Dimensiuni subwoofer (W x D x H)",
+      "value": "53 x 274 x 249 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1461,
+    "fields": {
+      "specification_category": 132,
+      "name": "Componente sistem",
+      "value": "Boxe frontale\nAmplificator"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1462,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tehnologie",
+      "value": "Wireless\nCu fir"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1463,
+    "fields": {
+      "specification_category": 132,
+      "name": "Raport semnal zgomot",
+      "value": "98 dB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1464,
+    "fields": {
+      "specification_category": 132,
+      "name": "Conectori intrare",
+      "value": "1 x Card MicroSD\n1x USB"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1465,
+    "fields": {
+      "specification_category": 132,
+      "name": "Conectori iesire",
+      "value": "AUX"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1466,
+    "fields": {
+      "specification_category": 132,
+      "name": "Distorsiuni",
+      "value": "0.03%"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1467,
+    "fields": {
+      "specification_category": 161,
+      "name": "Impedanta amplificator",
+      "value": "8 Ω"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1468,
+    "fields": {
+      "specification_category": 161,
+      "name": "Raspuns in frecventa amplificator",
+      "value": "20 - 20000 Hz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1469,
+    "fields": {
+      "specification_category": 162,
+      "name": "Putere RMS boxa surround",
+      "value": "5 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1470,
+    "fields": {
+      "specification_category": 163,
+      "name": "Tip mediu de redare",
+      "value": "Mp3 Player"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1471,
+    "fields": {
+      "specification_category": 163,
+      "name": "Formate audio suportate",
+      "value": "MP3"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1472,
+    "fields": {
+      "specification_category": 164,
+      "name": "Putere RMS totala",
+      "value": "40 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1473,
+    "fields": {
+      "specification_category": 165,
+      "name": "Tuner",
+      "value": "FM"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1474,
+    "fields": {
+      "specification_category": 132,
+      "name": "Raspuns in frecventa",
+      "value": "45 Hz - 20 kHz"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1475,
+    "fields": {
+      "specification_category": 163,
+      "name": "Functii",
+      "value": "Karaoke\nParty Chain\nBass Boost\nParty Lights"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1476,
+    "fields": {
+      "specification_category": 133,
+      "name": "Latime",
+      "value": "295 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1477,
+    "fields": {
+      "specification_category": 132,
+      "name": "Tip mediu de redare",
+      "value": "DVD"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1478,
+    "fields": {
+      "specification_category": 132,
+      "name": "Putere RMS subwoofer",
+      "value": "55 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1479,
+    "fields": {
+      "specification_category": 133,
+      "name": "Dimensiuni subwoofer (W x D x H)",
+      "value": "318 x 191 x 388.5 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1480,
+    "fields": {
+      "specification_category": 133,
+      "name": "Dimensiuni player (W x D x H)",
+      "value": "360 x 58 x 293 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1481,
+    "fields": {
+      "specification_category": 166,
+      "name": "Moduri sunet prestabilite",
+      "value": "Cinema"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1482,
+    "fields": {
+      "specification_category": 133,
+      "name": "Dimensiuni boxa frontala (W x D x H)",
+      "value": "8.9 x 10.6 x 11.6 cm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1483,
+    "fields": {
+      "specification_category": 133,
+      "name": "Dimensiuni boxa centrala (W x D x H)",
+      "value": "19.6 x 10.6 x 8.9 cm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1484,
+    "fields": {
+      "specification_category": 133,
+      "name": "Greutate boxa frontala",
+      "value": "0.8 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1485,
+    "fields": {
+      "specification_category": 133,
+      "name": "Greutate boxa centrala",
+      "value": "1.4 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1486,
+    "fields": {
+      "specification_category": 133,
+      "name": "Greutate subwoofer",
+      "value": "9.8 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1487,
+    "fields": {
+      "specification_category": 132,
+      "name": "Design soundbar",
+      "value": "Cu subwoofer"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1488,
+    "fields": {
+      "specification_category": 132,
+      "name": "Subwoofer wireless",
+      "value": "Da"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1489,
+    "fields": {
+      "specification_category": 132,
+      "name": "Putere",
+      "value": "330 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1490,
+    "fields": {
+      "specification_category": 134,
+      "name": "Conectori intrare",
+      "value": "1 x USB\n1 x Optical"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1491,
+    "fields": {
+      "specification_category": 134,
+      "name": "Conectori iesire",
+      "value": "1 x HDMI ARC"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1492,
+    "fields": {
+      "specification_category": 167,
+      "name": "Tehnologii audio",
+      "value": "Dolby Digital"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1493,
+    "fields": {
+      "specification_category": 167,
+      "name": "Caracteristici speciale",
+      "value": "Mod voce\nMod noapte\nS-Force PRO"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1494,
+    "fields": {
+      "specification_category": 136,
+      "name": "Consum subwoofer",
+      "value": "20 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1495,
+    "fields": {
+      "specification_category": 136,
+      "name": "Consum soundbar",
+      "value": "35 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1496,
+    "fields": {
+      "specification_category": 168,
+      "name": "Dimensiune soundbar",
+      "value": "900 x 88 x 64 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1497,
+    "fields": {
+      "specification_category": 168,
+      "name": "Dimensiune subwoofer",
+      "value": "192 x 400 x 387 mm"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1498,
+    "fields": {
+      "specification_category": 168,
+      "name": "Greutate soundbar",
+      "value": "2.4 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1499,
+    "fields": {
+      "specification_category": 168,
+      "name": "Greutate subwoofer",
+      "value": "7.3 Kg"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1500,
+    "fields": {
+      "specification_category": 132,
+      "name": "Putere soundbar",
+      "value": "120 W"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1501,
+    "fields": {
+      "specification_category": 169,
+      "name": "Aplicatii incluse",
+      "value": "SongPal"
+    }
+  },
+  {
+    "model": "products.specification",
+    "pk": 1502,
+    "fields": {
+      "specification_category": 136,
+      "name": "Putere consumata in stand-by",
+      "value": "0.5 W"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 168,
+    "fields": {
+      "parent": null,
+      "name": "Laptop, Tablete & Telefoane"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 169,
+    "fields": {
+      "parent": 168,
+      "name": "Laptopuri si accesorii"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 170,
+    "fields": {
+      "parent": 169,
+      "name": "Laptopuri"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 171,
+    "fields": {
+      "parent": 169,
+      "name": "Genti laptop"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 172,
+    "fields": {
+      "parent": 169,
+      "name": "Docking stations"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 173,
+    "fields": {
+      "parent": 168,
+      "name": "Telefoane mobile & accesorii"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 174,
+    "fields": {
+      "parent": 173,
+      "name": "Telefoane Mobile"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 175,
+    "fields": {
+      "parent": 173,
+      "name": "Huse telefoane"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 176,
+    "fields": {
+      "parent": 173,
+      "name": "Folii protectie telefoane"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 177,
+    "fields": {
+      "parent": 168,
+      "name": "Tablete & accesorii"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 178,
+    "fields": {
+      "parent": 177,
+      "name": "Tablete"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 179,
+    "fields": {
+      "parent": 177,
+      "name": "Huse tablete"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 180,
+    "fields": {
+      "parent": 177,
+      "name": "Folii protectie tablete"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 181,
+    "fields": {
+      "parent": null,
+      "name": "PC, Periferice & Software"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 182,
+    "fields": {
+      "parent": 181,
+      "name": "Desktop PC & Monitoare"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 183,
+    "fields": {
+      "parent": 182,
+      "name": "Desktop PC"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 184,
+    "fields": {
+      "parent": 182,
+      "name": "Monitoare LED"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 185,
+    "fields": {
+      "parent": 182,
+      "name": "Accesorii monitoare"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 186,
+    "fields": {
+      "parent": 181,
+      "name": "Componente PC"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 187,
+    "fields": {
+      "parent": 186,
+      "name": "Placi video"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 188,
+    "fields": {
+      "parent": 186,
+      "name": "Placi de baza"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 189,
+    "fields": {
+      "parent": 186,
+      "name": "Placi de sunet"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 190,
+    "fields": {
+      "parent": 181,
+      "name": "Software"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 191,
+    "fields": {
+      "parent": 190,
+      "name": "Office & Aplicatii Desktop"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 192,
+    "fields": {
+      "parent": 190,
+      "name": "Sisteme de operare"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 193,
+    "fields": {
+      "parent": 190,
+      "name": "Antivirus"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 194,
+    "fields": {
+      "parent": null,
+      "name": "TV, Audio-Video & Foto"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 195,
+    "fields": {
+      "parent": 194,
+      "name": "Televizoare & accesorii"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 196,
+    "fields": {
+      "parent": 195,
+      "name": "Televizoare"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 197,
+    "fields": {
+      "parent": 195,
+      "name": "Cabluri si adaptoare"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 198,
+    "fields": {
+      "parent": 195,
+      "name": "Suporturi TV"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 199,
+    "fields": {
+      "parent": 194,
+      "name": "Audio HI-FI & Profesionale"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 200,
+    "fields": {
+      "parent": 199,
+      "name": "Boxe"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 201,
+    "fields": {
+      "parent": 199,
+      "name": "Sisteme complete"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 202,
+    "fields": {
+      "parent": 199,
+      "name": "Sisteme audio wireless"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 203,
+    "fields": {
+      "parent": 194,
+      "name": "Home Cinema & Audio"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 204,
+    "fields": {
+      "parent": 203,
+      "name": "Sisteme audio"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 205,
+    "fields": {
+      "parent": 203,
+      "name": "Sisteme Home Cinema"
+    }
+  },
+  {
+    "model": "products.category",
+    "pk": 206,
+    "fields": {
+      "parent": 203,
+      "name": "Soundbar"
+    }
+  },
+  {
+    "model": "products.store",
+    "pk": 1,
+    "fields": {
+      "name": "eMag",
+      "owner": 7,
+      "logo": "stores/emag.png"
+    }
+  },
+  {
+    "model": "products.store",
+    "pk": 2,
+    "fields": {
+      "name": "Altex",
+      "owner": 8,
+      "logo": "stores/altex.png"
+    }
+  },
+  {
+    "model": "products.store",
+    "pk": 3,
+    "fields": {
+      "name": "Flanco",
+      "owner": 9,
+      "logo": "stores/flanco.png"
+    }
+  },
+  {
+    "model": "products.store",
+    "pk": 4,
+    "fields": {
+      "name": "Dummy Store #1",
+      "owner": 8,
+      "logo": ""
+    }
+  },
+  {
+    "model": "products.store",
+    "pk": 5,
+    "fields": {
+      "name": "Dummy Store #2",
+      "owner": 7,
+      "logo": ""
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 284,
+    "fields": {
+      "store": null,
+      "category": 170,
+      "name": "Laptop Gaming ASUS TUF F15 FX506HC cu procesor Intel® Core™ i5-11400H pana la 4.50 GHz, 15.6\", Full HD, IPS, 144Hz, 8GB, 1TB SSD, NVIDIA® GeForce RTX™ 3050 4GB, No OS, Graphite Black",
+      "price": "5499.99",
+      "image": "products/d976dd83-a622-418c-800f-dbb2087beac7.jpg",
+      "specifications": [
+        1088,
+        1089,
+        1090,
+        1091,
+        1092,
+        1093,
+        1094,
+        1095,
+        1096,
+        1097,
+        1098,
+        1099,
+        1100,
+        1101,
+        1102,
+        1103,
+        1104,
+        1105,
+        1106,
+        1107,
+        1108,
+        1109,
+        1110,
+        1111,
+        1112,
+        1113,
+        1114,
+        1115,
+        1116,
+        1117,
+        1118,
+        1119,
+        1120,
+        1121,
+        1122,
+        1123,
+        1124,
+        1125,
+        1126,
+        1127,
+        1128,
+        1129,
+        1130,
+        1131,
+        1132,
+        1133,
+        1134,
+        1135,
+        1136,
+        1137,
+        1138
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 285,
+    "fields": {
+      "store": null,
+      "category": 170,
+      "name": "Laptop HP 15-dw3034nq cu procesor Intel® Core™ i5-1135G7 pana la 4.20 GHz, 15.6\", Full HD, 8GB, 512GB SSD, Intel® Iris® Xe Graphics, Free DOS, Jet Black",
+      "price": "2249.99",
+      "image": "",
+      "specifications": [
+        1088,
+        1089,
+        1090,
+        1091,
+        1092,
+        1093,
+        1094,
+        1095,
+        1096,
+        1097,
+        1098,
+        1099,
+        1100,
+        1102,
+        1103,
+        1104,
+        1105,
+        1106,
+        1107,
+        1108,
+        1109,
+        1110,
+        1112,
+        1113,
+        1114,
+        1115,
+        1116,
+        1120,
+        1121,
+        1122,
+        1123,
+        1125,
+        1126,
+        1127,
+        1128,
+        1129,
+        1130,
+        1131,
+        1132,
+        1133,
+        1134,
+        1135,
+        1136,
+        1137,
+        1138,
+        1139,
+        1140
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 286,
+    "fields": {
+      "store": null,
+      "category": 170,
+      "name": "Laptop ultraportabil HP 245 G8 cu procesor AMD Ryzen 3 3250U, 14\", Full HD, 8GB, 256GB SSD, AMD Radeon Graphics, Windows 10 Home, Black",
+      "price": "1662.88",
+      "image": "",
+      "specifications": [
+        1088,
+        1089,
+        1090,
+        1091,
+        1092,
+        1093,
+        1094,
+        1095,
+        1096,
+        1097,
+        1098,
+        1099,
+        1100,
+        1102,
+        1103,
+        1104,
+        1105,
+        1106,
+        1107,
+        1108,
+        1110,
+        1112,
+        1113,
+        1114,
+        1115,
+        1116,
+        1120,
+        1121,
+        1122,
+        1123,
+        1125,
+        1127,
+        1128,
+        1129,
+        1131,
+        1132,
+        1133,
+        1134,
+        1135,
+        1136,
+        1137,
+        1138,
+        1139,
+        1141,
+        1142
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 287,
+    "fields": {
+      "store": null,
+      "category": 171,
+      "name": "Rucsac laptop gaming ASUS ROG BP1501G, 15\"-17\", rezistenta la apa si la zgarieturi, Negru",
+      "price": "132.00",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1144,
+        1145,
+        1146,
+        1147,
+        1148,
+        1149,
+        1150
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 288,
+    "fields": {
+      "store": null,
+      "category": 171,
+      "name": "Geanta pentru laptop de 15”, antracite",
+      "price": "89.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1144,
+        1146,
+        1147,
+        1148,
+        1149,
+        1150,
+        1151,
+        1152,
+        1153,
+        1154,
+        1155,
+        1156
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 289,
+    "fields": {
+      "store": null,
+      "category": 171,
+      "name": "Geanta laptop Lenovo Casual Toploader T210, 15.6\", Negru",
+      "price": "55.00",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1144,
+        1146,
+        1148,
+        1149
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 290,
+    "fields": {
+      "store": null,
+      "category": 172,
+      "name": "Docking Station Baseus Metal Gleam, conectare PC USB Type-C, 8 in 1, Gri",
+      "price": "184.31",
+      "image": "",
+      "specifications": [
+        1138,
+        1150,
+        1157,
+        1158,
+        1159,
+        1160,
+        1161,
+        1162,
+        1163,
+        1164,
+        1165
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 291,
+    "fields": {
+      "store": null,
+      "category": 172,
+      "name": "Adaptor tip USB-C hub, 3x USB 2.0, 1x USB 3.0, pentru laptop/telefon/PC, Space Grey",
+      "price": "69.95",
+      "image": "",
+      "specifications": [
+        1138,
+        1157,
+        1158,
+        1159,
+        1160,
+        1161,
+        1162
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 292,
+    "fields": {
+      "store": null,
+      "category": 172,
+      "name": "Docking Station USBC, 13 in 1 RikBo®, 1x 1000Mbps Gigabit Ethernet Port, 2x 4k HDMI, 1x VGA Port, 3x USB3.0, 1xUSB2.0, 1x USB-C Data Port, 1x TypeC PD Port, 1 x SD Card Slot, 1x TF Card, 1 x 3.5mm Audio / Mic",
+      "price": "339.15",
+      "image": "",
+      "specifications": [
+        1138,
+        1150,
+        1157,
+        1158,
+        1159,
+        1160,
+        1161,
+        1162,
+        1163,
+        1164
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 293,
+    "fields": {
+      "store": null,
+      "category": 174,
+      "name": "Telefon mobil Samsung Galaxy S22 Ultra, Dual SIM, 512GB, 12GB RAM, 5G, Green",
+      "price": "6559.13",
+      "image": "",
+      "specifications": [
+        1132,
+        1138,
+        1150,
+        1166,
+        1167,
+        1168,
+        1169,
+        1170,
+        1171,
+        1172,
+        1173,
+        1174,
+        1175,
+        1176,
+        1177,
+        1178,
+        1179,
+        1180,
+        1181,
+        1182,
+        1183,
+        1184,
+        1185,
+        1186,
+        1187,
+        1188,
+        1189,
+        1190
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 294,
+    "fields": {
+      "store": null,
+      "category": 174,
+      "name": "Telefon mobil Motorola Moto G52 Dual SIM, 128GB, 4GB RAM, 4G, Charcoal Grey",
+      "price": "999.00",
+      "image": "",
+      "specifications": [
+        1132,
+        1138,
+        1150,
+        1166,
+        1167,
+        1168,
+        1169,
+        1171,
+        1172,
+        1173,
+        1174,
+        1175,
+        1176,
+        1178,
+        1179,
+        1180,
+        1181,
+        1182,
+        1183,
+        1184,
+        1185,
+        1186,
+        1187,
+        1188,
+        1189,
+        1190,
+        1191,
+        1192,
+        1193,
+        1194,
+        1195,
+        1196,
+        1197,
+        1198,
+        1199
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 295,
+    "fields": {
+      "store": null,
+      "category": 174,
+      "name": "Telefon mobil Samsung Galaxy A33, Dual SIM, 6GB RAM, 128GB, 5G, Awesome Blue",
+      "price": "1235.82",
+      "image": "",
+      "specifications": [
+        1132,
+        1138,
+        1150,
+        1166,
+        1167,
+        1168,
+        1169,
+        1170,
+        1171,
+        1172,
+        1173,
+        1174,
+        1175,
+        1176,
+        1177,
+        1178,
+        1179,
+        1180,
+        1181,
+        1183,
+        1184,
+        1185,
+        1186,
+        1187,
+        1188,
+        1189,
+        1190,
+        1191,
+        1192,
+        1193,
+        1195,
+        1196,
+        1197,
+        1198,
+        1199,
+        1200
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 296,
+    "fields": {
+      "store": null,
+      "category": 175,
+      "name": "Husa de protectie ultra slim pentru Samsung Galaxy S21 FE, 0.5mm, Transparent",
+      "price": "19.00",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1146,
+        1149,
+        1150,
+        1157,
+        1158
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 297,
+    "fields": {
+      "store": null,
+      "category": 175,
+      "name": "Husa de protectie spate Fixed Story pentru Samsung Galaxy A20s, Cauciuc, Negru",
+      "price": "45.36",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1146,
+        1149,
+        1150,
+        1157,
+        1158
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 298,
+    "fields": {
+      "store": null,
+      "category": 175,
+      "name": "Husa de protectie Samsung Standing Cover with Pen pentru Galaxy Z Fold4, Black",
+      "price": "296.31",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1146,
+        1149,
+        1150,
+        1157,
+        1158
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 299,
+    "fields": {
+      "store": null,
+      "category": 176,
+      "name": "Folie Sticla Premium pentru iPhone 11 & iPhone XR (6.1\"), 5D, Full Cover (acopera tot ecranul), Full Glue, Negru",
+      "price": "9.52",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1149,
+        1157,
+        1158,
+        1171,
+        1201,
+        1202,
+        1203,
+        1204
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 300,
+    "fields": {
+      "store": null,
+      "category": 176,
+      "name": "Folie Sticla Dr.Shield, Compatibil Apple iPhone 11, Full Glue, Protectie Profesionala Ecran 3D, Full Cover- Negru",
+      "price": "39.98",
+      "image": "",
+      "specifications": [
+        1143,
+        1149,
+        1157,
+        1158,
+        1171,
+        1201,
+        1202,
+        1203,
+        1204
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 301,
+    "fields": {
+      "store": null,
+      "category": 176,
+      "name": "Folie Sticla securizata Flippy® compatibila cu Apple iPhone 13 / 13 Pro Full Glue Negru",
+      "price": "14.85",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1149,
+        1157,
+        1158,
+        1201,
+        1202
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 302,
+    "fields": {
+      "store": null,
+      "category": 178,
+      "name": "Tableta Lenovo Tab M8 (3rd Gen), Octa-Core, 8\" HD (1280x800) IPS, 4GB RAM, 64GB, Wifi, Iron Grey + Smart Charging Station",
+      "price": "649.99",
+      "image": "",
+      "specifications": [
+        1088,
+        1090,
+        1092,
+        1098,
+        1100,
+        1105,
+        1106,
+        1107,
+        1132,
+        1138,
+        1146,
+        1149,
+        1150,
+        1169,
+        1171,
+        1172,
+        1173,
+        1185,
+        1191,
+        1195,
+        1203,
+        1205,
+        1206,
+        1207,
+        1208,
+        1209,
+        1210,
+        1211,
+        1212,
+        1213,
+        1214,
+        1215,
+        1216
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 303,
+    "fields": {
+      "store": null,
+      "category": 178,
+      "name": "Apple iPad 9 (2021), 10.2 \", 64GB, Wi-Fi, Space Grey",
+      "price": "1759.98",
+      "image": "",
+      "specifications": [
+        1088,
+        1090,
+        1098,
+        1100,
+        1105,
+        1132,
+        1138,
+        1149,
+        1150,
+        1169,
+        1171,
+        1172,
+        1173,
+        1185,
+        1191,
+        1195,
+        1203,
+        1205,
+        1206,
+        1209,
+        1210,
+        1211,
+        1212,
+        1214,
+        1215,
+        1216
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 304,
+    "fields": {
+      "store": null,
+      "category": 178,
+      "name": "Tableta Samsung Galaxy Tab A7 Lite, Octa-Core, 8.7\", 3GB RAM, 32GB, Wi-Fi, Silver",
+      "price": "699.99",
+      "image": "",
+      "specifications": [
+        1088,
+        1090,
+        1092,
+        1096,
+        1098,
+        1100,
+        1105,
+        1106,
+        1132,
+        1138,
+        1150,
+        1169,
+        1171,
+        1172,
+        1173,
+        1185,
+        1191,
+        1195,
+        1203,
+        1205,
+        1206,
+        1207,
+        1208,
+        1209,
+        1210,
+        1211,
+        1212,
+        1213,
+        1215,
+        1216,
+        1217,
+        1218,
+        1219,
+        1220,
+        1221,
+        1222,
+        1223
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 305,
+    "fields": {
+      "store": null,
+      "category": 179,
+      "name": "Husa pentru iPad 9 (2021), 10,2 \"/ iPad 8 (2020), 10,2 \"/ iPad 7 (2019), 10,2\" / iPad Air 3,10,5 \"/ iPad Pro 10,5\", Cu suport pentru pix, Negru",
+      "price": "82.98",
+      "image": "",
+      "specifications": [
+        1224,
+        1225,
+        1226,
+        1227,
+        1228
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 306,
+    "fields": {
+      "store": null,
+      "category": 179,
+      "name": "Husa pentru Apple iPad 10.2 \" (2019/2020/2021), FIXED Padcover+, suport de stilou, Negru",
+      "price": "137.55",
+      "image": "",
+      "specifications": [
+        1224,
+        1225,
+        1226,
+        1227,
+        1228,
+        1229,
+        1230,
+        1231,
+        1232,
+        1233,
+        1234
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 307,
+    "fields": {
+      "store": null,
+      "category": 179,
+      "name": "Husa Spigen Smart Fold compatibila cu iPad Pro 11 inch 2021/2022 Black",
+      "price": "110.75",
+      "image": "",
+      "specifications": [
+        1224,
+        1225,
+        1226,
+        1227,
+        1228,
+        1229
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 308,
+    "fields": {
+      "store": null,
+      "category": 180,
+      "name": "Folie Tempered Glass Apple iPad 10.2\" (2019-2021) Sticla Securizata",
+      "price": "29.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1235,
+        1236,
+        1237,
+        1238,
+        1239
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 309,
+    "fields": {
+      "store": null,
+      "category": 180,
+      "name": "Set 2 Bucati, Folie Sticla Compatibila cu Samsung Galaxy Tab A8 10.5\", Dr.Shield, Protectie Profesionala Ecran",
+      "price": "99.98",
+      "image": "",
+      "specifications": [
+        1138,
+        1194,
+        1235,
+        1236,
+        1237,
+        1238,
+        1239
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 310,
+    "fields": {
+      "store": null,
+      "category": 180,
+      "name": "Folie Tempered Glass pentru Samsung Tab A8 10.5 inch (2022) SM-X200 / X205 / X207 - Sticla Securizata",
+      "price": "29.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1194,
+        1235,
+        1236,
+        1237,
+        1238,
+        1239
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 311,
+    "fields": {
+      "store": null,
+      "category": 183,
+      "name": "Sistem All-in-One Lenovo YOGA 7 27ARH7 cu procesor AMD Ryzen™ 7 6800H pana la 4.70 GHz, 27\", UHD, IPS, 32GB LPDDR5, 1TB SSD M.2 2280 PCIe 4.0x4 NVMe, AMD Radeon 680M Graphics, Windows 11 Home 64",
+      "price": "8599.99",
+      "image": "",
+      "specifications": [
+        1088,
+        1089,
+        1090,
+        1091,
+        1092,
+        1093,
+        1094,
+        1095,
+        1096,
+        1097,
+        1098,
+        1100,
+        1105,
+        1115,
+        1116,
+        1117,
+        1120,
+        1132,
+        1138,
+        1150,
+        1169,
+        1180,
+        1205,
+        1240,
+        1241,
+        1242,
+        1243,
+        1244,
+        1245,
+        1246,
+        1247,
+        1248,
+        1249,
+        1250,
+        1251,
+        1252,
+        1253,
+        1254,
+        1255,
+        1256,
+        1257,
+        1258,
+        1259,
+        1260,
+        1261,
+        1262,
+        1263
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 312,
+    "fields": {
+      "store": null,
+      "category": 183,
+      "name": "Sistem Gaming HP Pavilion cu procesor Intel® Core™ i5-10400 pana la 4.30 GHz, Comet Lake, 8GB DDR4, 512GB SSD, NVIDIA GeForce GTX 1650 SUPER 4GB, Windows 11 Home, Shadow Black",
+      "price": "2799.99",
+      "image": "",
+      "specifications": [
+        1088,
+        1089,
+        1090,
+        1091,
+        1092,
+        1093,
+        1094,
+        1095,
+        1096,
+        1097,
+        1115,
+        1116,
+        1117,
+        1118,
+        1119,
+        1120,
+        1132,
+        1138,
+        1150,
+        1169,
+        1205,
+        1240,
+        1241,
+        1242,
+        1243,
+        1244,
+        1245,
+        1246,
+        1247,
+        1248,
+        1249,
+        1250,
+        1251,
+        1252,
+        1253,
+        1254,
+        1256,
+        1257,
+        1258,
+        1259,
+        1260,
+        1261,
+        1262,
+        1264,
+        1265,
+        1266,
+        1267,
+        1268,
+        1269,
+        1270
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 313,
+    "fields": {
+      "store": null,
+      "category": 183,
+      "name": "Sistem All-in-One Lenovo IdeaCentre 3 24ADA6 cu procesor AMD Ryzen™ 3 3250U pana la 3.50 GHz, 23.8\", Full HD, 8GB DDR4, 256GB SSD M.2 2242 PCIe NVMe, AMD Radeon Graphics, No OS",
+      "price": "2599.99",
+      "image": "",
+      "specifications": [
+        1088,
+        1089,
+        1090,
+        1091,
+        1092,
+        1093,
+        1094,
+        1095,
+        1096,
+        1097,
+        1098,
+        1100,
+        1105,
+        1115,
+        1117,
+        1120,
+        1132,
+        1138,
+        1150,
+        1169,
+        1180,
+        1205,
+        1240,
+        1241,
+        1242,
+        1243,
+        1244,
+        1245,
+        1246,
+        1247,
+        1248,
+        1249,
+        1250,
+        1251,
+        1252,
+        1253,
+        1254,
+        1255,
+        1256,
+        1257,
+        1258,
+        1259,
+        1260,
+        1261,
+        1262,
+        1263,
+        1264,
+        1265,
+        1266
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 314,
+    "fields": {
+      "store": null,
+      "category": 184,
+      "name": "Monitor LED IPS Dell 23.8\", FHD, 75Hz, HDMI, FreeSync, FlickerFree, S2421HN",
+      "price": "634.70",
+      "image": "",
+      "specifications": [
+        1100,
+        1102,
+        1132,
+        1138,
+        1205,
+        1206,
+        1218,
+        1243,
+        1271,
+        1272,
+        1273,
+        1274,
+        1275,
+        1276,
+        1277,
+        1278,
+        1279,
+        1280,
+        1281,
+        1282,
+        1283,
+        1284,
+        1285,
+        1286,
+        1287,
+        1288,
+        1289,
+        1290,
+        1291,
+        1292,
+        1293,
+        1294
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 315,
+    "fields": {
+      "store": null,
+      "category": 184,
+      "name": "Monitor Gaming LED IPS LG UltraWide 34'', Full HD, 75Hz, 1ms, VESA Display HDR 400, Display Port, HDMI, USB-C, 34WP65G",
+      "price": "1079.99",
+      "image": "",
+      "specifications": [
+        1100,
+        1102,
+        1132,
+        1138,
+        1205,
+        1206,
+        1218,
+        1243,
+        1271,
+        1272,
+        1274,
+        1275,
+        1276,
+        1277,
+        1278,
+        1279,
+        1280,
+        1281,
+        1282,
+        1283,
+        1284,
+        1285,
+        1287,
+        1288,
+        1289,
+        1290,
+        1291,
+        1292,
+        1293,
+        1294,
+        1295
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 316,
+    "fields": {
+      "store": null,
+      "category": 184,
+      "name": "Monitor Gaming LED IPS Dell 24.5'' Full HD, 240Hz, 1ms, 99% sRGB,AMD Freesync™ Premium, NVIDIA® G-SYNC® Compatible, 2xHDMI, Display Port, USB, S2522HG",
+      "price": "1049.99",
+      "image": "",
+      "specifications": [
+        1100,
+        1102,
+        1132,
+        1138,
+        1205,
+        1206,
+        1218,
+        1243,
+        1271,
+        1274,
+        1275,
+        1276,
+        1277,
+        1278,
+        1279,
+        1280,
+        1281,
+        1282,
+        1283,
+        1284,
+        1285,
+        1286,
+        1287,
+        1288,
+        1289,
+        1290,
+        1291,
+        1292,
+        1293,
+        1294,
+        1295,
+        1296,
+        1297,
+        1298
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 317,
+    "fields": {
+      "store": null,
+      "category": 185,
+      "name": "Adaptor, convertor semnal HDMI (digital) la VGA (analog) HDMI A tata la VGA mama - fara sunet, unidirectional",
+      "price": "25.00",
+      "image": "",
+      "specifications": [
+        1138,
+        1157,
+        1299,
+        1300,
+        1301,
+        1302
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 318,
+    "fields": {
+      "store": null,
+      "category": 185,
+      "name": "Suport birou monitor amXea M1 Negru, pt monitor 13\"-27\" pana la 7kg, brat reglabil, ajustabil",
+      "price": "199.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1150,
+        1155,
+        1157,
+        1158,
+        1299
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 319,
+    "fields": {
+      "store": null,
+      "category": 185,
+      "name": "Adaptor DVI-D tata la HDMI A mama",
+      "price": "8.00",
+      "image": "",
+      "specifications": []
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 320,
+    "fields": {
+      "store": null,
+      "category": 187,
+      "name": "Placa video ASUS Dual GeForce® RTX™ 3060 OC V2, 12GB GDDR6, 192-bit",
+      "price": "2159.00",
+      "image": "",
+      "specifications": [
+        1107,
+        1303,
+        1304,
+        1305,
+        1306,
+        1307,
+        1308,
+        1309,
+        1310,
+        1311,
+        1312,
+        1313,
+        1314,
+        1315,
+        1316,
+        1317,
+        1318,
+        1319,
+        1320
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 321,
+    "fields": {
+      "store": null,
+      "category": 187,
+      "name": "Placa video GeForce GTX 750 4GB GDDR5 128-bit, VGA DVI-I HDMI, low profile",
+      "price": "700.00",
+      "image": "",
+      "specifications": [
+        1107,
+        1303,
+        1304,
+        1305,
+        1306,
+        1307,
+        1308,
+        1309,
+        1310,
+        1311,
+        1312,
+        1313,
+        1314,
+        1315,
+        1317,
+        1318,
+        1319,
+        1320,
+        1321,
+        1322,
+        1323,
+        1324,
+        1325,
+        1326,
+        1327,
+        1328,
+        1329,
+        1330,
+        1331,
+        1332,
+        1333,
+        1334,
+        1335,
+        1336,
+        1337,
+        1338,
+        1339,
+        1340,
+        1341,
+        1342,
+        1343
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 322,
+    "fields": {
+      "store": null,
+      "category": 187,
+      "name": "Placa video ASUS GeForce® GT 730, 2GB GDDR5, 64-bit",
+      "price": "345.00",
+      "image": "",
+      "specifications": [
+        1107,
+        1303,
+        1304,
+        1305,
+        1306,
+        1307,
+        1308,
+        1310,
+        1311,
+        1312,
+        1314,
+        1317,
+        1332,
+        1338,
+        1339,
+        1341,
+        1343
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 323,
+    "fields": {
+      "store": null,
+      "category": 188,
+      "name": "Placa de baza Gigabyte B550 GAMING X V2, Socket AM4",
+      "price": "689.89",
+      "image": "",
+      "specifications": [
+        1107,
+        1308,
+        1332,
+        1344,
+        1345,
+        1346,
+        1347,
+        1348,
+        1349,
+        1350,
+        1351,
+        1352,
+        1353,
+        1354,
+        1355,
+        1356,
+        1357,
+        1358,
+        1359,
+        1360,
+        1361,
+        1362
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 324,
+    "fields": {
+      "store": null,
+      "category": 188,
+      "name": "Placa de baza MSI A520M-A PRO, Socket AM4",
+      "price": "299.00",
+      "image": "",
+      "specifications": [
+        1107,
+        1308,
+        1332,
+        1344,
+        1345,
+        1346,
+        1347,
+        1349,
+        1350,
+        1351,
+        1352,
+        1353,
+        1354,
+        1356,
+        1357,
+        1358,
+        1359,
+        1361,
+        1362,
+        1363,
+        1364,
+        1365,
+        1366,
+        1367
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 325,
+    "fields": {
+      "store": null,
+      "category": 188,
+      "name": "Placa de baza ASUS PRIME B450-PLUS, Socket AM4",
+      "price": "435.00",
+      "image": "",
+      "specifications": [
+        1107,
+        1308,
+        1332,
+        1344,
+        1345,
+        1346,
+        1347,
+        1349,
+        1353,
+        1354,
+        1355,
+        1356,
+        1357,
+        1358,
+        1361,
+        1364,
+        1365,
+        1367,
+        1368
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 326,
+    "fields": {
+      "store": null,
+      "category": 189,
+      "name": "Placa de sunet AXAGON ADA-10, Interfata USB, Stereo output",
+      "price": "38.55",
+      "image": "",
+      "specifications": [
+        1161,
+        1169,
+        1369,
+        1370,
+        1371,
+        1372,
+        1373,
+        1374,
+        1375
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 327,
+    "fields": {
+      "store": null,
+      "category": 189,
+      "name": "Placa de sunet LogiLink UA0078, 7.1, USB",
+      "price": "32.00",
+      "image": "",
+      "specifications": [
+        1161,
+        1371,
+        1373,
+        1374,
+        1376,
+        1377
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 328,
+    "fields": {
+      "store": null,
+      "category": 189,
+      "name": "Placa de Sunet Edifier GS01, extern, interfata USB 2.0, conectori 3.5 mm jack",
+      "price": "45.85",
+      "image": "",
+      "specifications": [
+        1161,
+        1169,
+        1194,
+        1373,
+        1374
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 329,
+    "fields": {
+      "store": null,
+      "category": 191,
+      "name": "Microsoft® M365 Personal, Engleza, subscriptie 1 an, 1 utilizator, retail",
+      "price": "217.77",
+      "image": "",
+      "specifications": [
+        1378,
+        1379,
+        1380,
+        1381,
+        1382,
+        1383,
+        1384,
+        1385,
+        1386,
+        1387,
+        1388,
+        1389,
+        1390,
+        1391
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 330,
+    "fields": {
+      "store": null,
+      "category": 191,
+      "name": "Microsoft Office 2021 pe stick usb",
+      "price": "189.00",
+      "image": "",
+      "specifications": [
+        1378,
+        1379,
+        1380,
+        1381,
+        1382,
+        1383,
+        1384,
+        1385,
+        1386,
+        1388
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 331,
+    "fields": {
+      "store": null,
+      "category": 191,
+      "name": "Licenta Microsoft Office 2021 Professional Plus, Windows 32/64 biti, stick USB Flash",
+      "price": "238.00",
+      "image": "",
+      "specifications": [
+        1378,
+        1379,
+        1380,
+        1381,
+        1382,
+        1383,
+        1384,
+        1385,
+        1386,
+        1387,
+        1388,
+        1389,
+        1390,
+        1391
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 332,
+    "fields": {
+      "store": null,
+      "category": 192,
+      "name": "Microsoft Windows 10 Pro Retail, USB 3.0, BOX, 32/64 bit, All Languages (FPP)",
+      "price": "179.00",
+      "image": "",
+      "specifications": [
+        1379,
+        1380,
+        1381,
+        1383,
+        1385,
+        1389,
+        1390,
+        1391,
+        1392,
+        1393,
+        1394
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 333,
+    "fields": {
+      "store": null,
+      "category": 192,
+      "name": "Microsoft® Windows 10 Home 10 32-bit/64-bit English USB Flash P2",
+      "price": "169.00",
+      "image": "",
+      "specifications": [
+        1379,
+        1380,
+        1381,
+        1383,
+        1385,
+        1392,
+        1393,
+        1394
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 334,
+    "fields": {
+      "store": null,
+      "category": 192,
+      "name": "Windows 11 Pro USB 3.0 Retail Box FPP 32-bit/64-bit English",
+      "price": "159.00",
+      "image": "",
+      "specifications": [
+        1379,
+        1380,
+        1381,
+        1383,
+        1385,
+        1389,
+        1390,
+        1391,
+        1392,
+        1393,
+        1394
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 335,
+    "fields": {
+      "store": null,
+      "category": 193,
+      "name": "Bitdefender Total Security - 1 an + 1 an gratuit, 3 dispozitive",
+      "price": "139.99",
+      "image": "",
+      "specifications": [
+        1146,
+        1162,
+        1193,
+        1379,
+        1380,
+        1381,
+        1384,
+        1385,
+        1386,
+        1392,
+        1395,
+        1396
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 336,
+    "fields": {
+      "store": null,
+      "category": 193,
+      "name": "Bitdefender Total Security - 1 an, 10 dispozitive",
+      "price": "172.98",
+      "image": "",
+      "specifications": [
+        1146,
+        1162,
+        1193,
+        1379,
+        1380,
+        1381,
+        1384,
+        1385,
+        1386,
+        1392,
+        1395,
+        1396
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 337,
+    "fields": {
+      "store": null,
+      "category": 193,
+      "name": "Bitdefender Antivirus Plus 1 an, 1 dispozitiv",
+      "price": "62.99",
+      "image": "",
+      "specifications": [
+        1146,
+        1162,
+        1193,
+        1379,
+        1380,
+        1381,
+        1384,
+        1385,
+        1386,
+        1392,
+        1395,
+        1396
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 338,
+    "fields": {
+      "store": null,
+      "category": 196,
+      "name": "Televizor LED Star-Light, 80 cm, 32DM3500, HD, Clasa F",
+      "price": "499.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1397,
+        1398,
+        1399,
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1405,
+        1406,
+        1407,
+        1408,
+        1409,
+        1410,
+        1411,
+        1412,
+        1413,
+        1414,
+        1415,
+        1416,
+        1417,
+        1418,
+        1419
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 339,
+    "fields": {
+      "store": null,
+      "category": 196,
+      "name": "Televizor Allview 32\", 32ATC6000-H, 81 cm, HD, Clasa E, Negru",
+      "price": "519.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1397,
+        1398,
+        1399,
+        1400,
+        1401,
+        1402,
+        1403,
+        1404,
+        1405,
+        1406,
+        1408,
+        1409,
+        1410,
+        1411,
+        1412,
+        1413,
+        1414,
+        1418,
+        1419,
+        1420,
+        1421,
+        1422
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 340,
+    "fields": {
+      "store": null,
+      "category": 196,
+      "name": "Televizor Samsung 32T4302, 80 cm, Smart, HD LED, Clasa F",
+      "price": "999.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1196,
+        1397,
+        1398,
+        1399,
+        1400,
+        1401,
+        1402,
+        1404,
+        1405,
+        1406,
+        1407,
+        1408,
+        1409,
+        1410,
+        1411,
+        1412,
+        1413,
+        1414,
+        1415,
+        1416,
+        1417,
+        1418,
+        1419,
+        1420,
+        1421,
+        1423,
+        1424,
+        1425,
+        1426,
+        1427,
+        1428,
+        1429,
+        1430,
+        1431
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 341,
+    "fields": {
+      "store": null,
+      "category": 197,
+      "name": "Cablu A+ HDMI, CV-HDMI2, tata-tata, 4K, Ethernet, aurit, 2 m, negru",
+      "price": "15.99",
+      "image": "",
+      "specifications": [
+        1299,
+        1300,
+        1301,
+        1432,
+        1433,
+        1434
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 342,
+    "fields": {
+      "store": null,
+      "category": 197,
+      "name": "Cablu HDMI 1.8 M de Mare Viteza HDTV, RANKIE, R-1108K-CB2, Ethernetm, 3D, 4K, Audio Return, Negru",
+      "price": "29.99",
+      "image": "",
+      "specifications": [
+        1150,
+        1299,
+        1300,
+        1301,
+        1432,
+        1433,
+        1434,
+        1435
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 343,
+    "fields": {
+      "store": null,
+      "category": 197,
+      "name": "Cablu A+ HDMI 2.1 V, UHSP2.1-3, tata-tata, 8K, Ethernet, aurit, 3 m",
+      "price": "27.59",
+      "image": "",
+      "specifications": [
+        1299,
+        1300,
+        1301,
+        1432,
+        1433,
+        1434
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 344,
+    "fields": {
+      "store": null,
+      "category": 198,
+      "name": "Suport TV de perete A+ SP22T, reglabil, 23\"-43\"",
+      "price": "47.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1149,
+        1205,
+        1436,
+        1437,
+        1438,
+        1439,
+        1440,
+        1441,
+        1442,
+        1443,
+        1444
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 345,
+    "fields": {
+      "store": null,
+      "category": 198,
+      "name": "Suport TV de perete T50S, Otel, Reglabil, 26-60'', 35kg, Negru",
+      "price": "118.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1149,
+        1437,
+        1439,
+        1440,
+        1441,
+        1442,
+        1443
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 346,
+    "fields": {
+      "store": null,
+      "category": 198,
+      "name": "Suport TV de perete A+ SPB221, reglabil, 13\"-43\", Negru",
+      "price": "90.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1149,
+        1436,
+        1437,
+        1438,
+        1439,
+        1440,
+        1441,
+        1442,
+        1443,
+        1444,
+        1445,
+        1446
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 347,
+    "fields": {
+      "store": null,
+      "category": 200,
+      "name": "Set boxe active JRH 2321A Microphone wireless 800w",
+      "price": "879.99",
+      "image": "",
+      "specifications": [
+        1132,
+        1138,
+        1143,
+        1146,
+        1150,
+        1172,
+        1371,
+        1380,
+        1437,
+        1447,
+        1448,
+        1449,
+        1450,
+        1451,
+        1452
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 348,
+    "fields": {
+      "store": null,
+      "category": 200,
+      "name": "Boxa portabila Lenovo K3, Bluetooth, Music Surround Bass, USB, Waterproof, USB",
+      "price": "155.00",
+      "image": "",
+      "specifications": [
+        1132,
+        1138,
+        1143,
+        1146,
+        1150,
+        1172,
+        1371,
+        1380,
+        1437,
+        1447,
+        1448,
+        1449,
+        1450,
+        1452,
+        1453,
+        1454
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 349,
+    "fields": {
+      "store": null,
+      "category": 200,
+      "name": "Boxe Bluetooth 2.1 Akyta AB-3760 40W, cu telecomanda",
+      "price": "249.98",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1146,
+        1150,
+        1172,
+        1371,
+        1380,
+        1437,
+        1447,
+        1448,
+        1449,
+        1450,
+        1451,
+        1452,
+        1453,
+        1454,
+        1455,
+        1456,
+        1457,
+        1458,
+        1459,
+        1460
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 350,
+    "fields": {
+      "store": null,
+      "category": 201,
+      "name": "Set amplificator audio incastrabil perete cu 4 difuzoare tavan, 80W RMS, 6.5\", Bluetooth/USB/SD, Fenton POWERLINE A100BSET",
+      "price": "1360.54",
+      "image": "",
+      "specifications": [
+        1138,
+        1150,
+        1371,
+        1380,
+        1450,
+        1461,
+        1462,
+        1463,
+        1464,
+        1465,
+        1466,
+        1467,
+        1468
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 351,
+    "fields": {
+      "store": null,
+      "category": 201,
+      "name": "Sistem audio Camry CR1173, Mini Hi-Fi sistem, Bluetooth, CD-ROM, USB, Stereo, 28W, FM/AM radio, X-Bass",
+      "price": "336.73",
+      "image": "",
+      "specifications": [
+        1146,
+        1371,
+        1450,
+        1461,
+        1462,
+        1464,
+        1465,
+        1469
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 352,
+    "fields": {
+      "store": null,
+      "category": 201,
+      "name": "Set amplificator audio incastrabil perete cu 2 difuzoare tavan, 40W RMS, 6.5\", Bluetooth/USB/SD, Fenton POWERLINE A50BSET",
+      "price": "895.63",
+      "image": "",
+      "specifications": [
+        1138,
+        1150,
+        1371,
+        1380,
+        1450,
+        1461,
+        1462,
+        1463,
+        1464,
+        1465,
+        1466,
+        1467,
+        1468
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 353,
+    "fields": {
+      "store": null,
+      "category": 202,
+      "name": "Microfon Kararoke Wireless Auriu WS-858 cu Bluetooth Card SD",
+      "price": "55.50",
+      "image": "",
+      "specifications": []
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 354,
+    "fields": {
+      "store": null,
+      "category": 202,
+      "name": "Boxa inteligenta Apple Homepod Alb",
+      "price": "1699.00",
+      "image": "",
+      "specifications": []
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 355,
+    "fields": {
+      "store": null,
+      "category": 202,
+      "name": "Adaptor audio wireless, BlitzWolf®, BW-BR1 Pro, Bluetooth V5.0 USB / AUX",
+      "price": "74.80",
+      "image": "",
+      "specifications": []
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 356,
+    "fields": {
+      "store": null,
+      "category": 204,
+      "name": "Sistem audio Akai SS032A-3515, 2.1, bluetooth, negru",
+      "price": "265.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1172,
+        1299,
+        1371,
+        1380,
+        1452,
+        1462,
+        1470,
+        1471,
+        1472,
+        1473
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 357,
+    "fields": {
+      "store": null,
+      "category": 204,
+      "name": "Sistem audio portabil JBL Partybox 110, 160W, Original Pro Sound, Dynamic light, Bluetooth, USB, Baterie 12H, IPX4, Negru",
+      "price": "1799.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1150,
+        1172,
+        1299,
+        1380,
+        1452,
+        1462,
+        1463,
+        1471,
+        1472,
+        1474
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 358,
+    "fields": {
+      "store": null,
+      "category": 204,
+      "name": "Sistem audio portabil SONY SRS-XP500, MEGA BASS, Bluetooth, LDAC, Wireless, IPX4, Party Connect, Autonomie de 20 ore, Negru",
+      "price": "1239.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1143,
+        1150,
+        1152,
+        1153,
+        1155,
+        1172,
+        1299,
+        1371,
+        1380,
+        1452,
+        1462,
+        1470,
+        1475,
+        1476
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 359,
+    "fields": {
+      "store": null,
+      "category": 205,
+      "name": "Sistem Profesilnal de Boxe 5.1 AKAI , Subwoofer Activ , Putere de 105 W RMS + DVD player Alien USB , Culoare Negru/Rosu",
+      "price": "945.00",
+      "image": "",
+      "specifications": [
+        1138,
+        1371,
+        1450,
+        1452,
+        1462,
+        1474,
+        1477,
+        1478,
+        1479,
+        1480
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 360,
+    "fields": {
+      "store": null,
+      "category": 205,
+      "name": "Sistem Audio Surround Yamaha YHT-4960, 5.1, Negru",
+      "price": "4499.00",
+      "image": "",
+      "specifications": [
+        1371,
+        1452,
+        1462,
+        1477,
+        1480
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 361,
+    "fields": {
+      "store": null,
+      "category": 205,
+      "name": "Home Cinema 5.1 Canton Movie 135, Negru",
+      "price": "4284.00",
+      "image": "",
+      "specifications": [
+        1138,
+        1371,
+        1462,
+        1474,
+        1479,
+        1481,
+        1482,
+        1483,
+        1484,
+        1485,
+        1486
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 362,
+    "fields": {
+      "store": null,
+      "category": 206,
+      "name": "Soundbar Sony HT-S400, 2.1ch, 330 W, Bluetooth, Subwoofer wireless, Dolby Digital, Negru",
+      "price": "899.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1195,
+        1356,
+        1371,
+        1418,
+        1487,
+        1488,
+        1489,
+        1490,
+        1491,
+        1492,
+        1493,
+        1494,
+        1495,
+        1496,
+        1497,
+        1498,
+        1499
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 363,
+    "fields": {
+      "store": null,
+      "category": 206,
+      "name": "Soundbar Sony HT-SF150, 2 canale, Boxa Bass Reflex, 120W, Bluetooth, Negru",
+      "price": "429.90",
+      "image": "",
+      "specifications": [
+        1138,
+        1195,
+        1356,
+        1371,
+        1418,
+        1487,
+        1489,
+        1490,
+        1491,
+        1492,
+        1495,
+        1496,
+        1498,
+        1500,
+        1501,
+        1502
+      ]
+    }
+  },
+  {
+    "model": "products.product",
+    "pk": 364,
+    "fields": {
+      "store": null,
+      "category": 206,
+      "name": "Soundbar Samsung HW-B450/EN, 2.1, 300W, Dolby, Subwoofer Wireless, negru",
+      "price": "699.99",
+      "image": "",
+      "specifications": [
+        1138,
+        1356,
+        1371,
+        1418,
+        1487,
+        1488,
+        1489,
+        1490,
+        1492,
+        1493,
+        1494,
+        1495,
+        1496,
+        1497,
+        1498,
+        1499,
+        1502
+      ]
+    }
+  }
+]

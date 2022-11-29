@@ -1,6 +1,8 @@
 from django import forms
 from django.contrib.auth import get_user_model
 from django.contrib.auth.password_validation import password_validators_help_text_html, validate_password
+from django.contrib.auth.forms import UserCreationForm
+from users.models import Profile
 
 AuthUser = get_user_model()
 
@@ -94,7 +96,7 @@ class UserForm(forms.ModelForm):
     class Meta:
         model = AuthUser
         # exclude = []
-        fields = ('first_name', 'last_name', 'username', 'email')
+        fields = ('first_name', 'last_name', 'email')
 
     password = forms.CharField(
         required=True,
@@ -106,17 +108,12 @@ class UserForm(forms.ModelForm):
     def clean_password(self):
         first_name = self.cleaned_data['first_name']
         last_name = self.cleaned_data['last_name']
-        username = self.cleaned_data.get('username')  # in case username is not valid
         email = self.cleaned_data['email']
         password = self.cleaned_data['password']
-
-        if username is None:
-            return password
 
         user = AuthUser(
             first_name=first_name,
             last_name=last_name,
-            username=username,
             email=email
         )
 
@@ -142,3 +139,15 @@ class UserForm(forms.ModelForm):
             user.save()
 
         return user
+
+
+class ProfileAvatarForm(forms.ModelForm):
+    class Meta:
+        model = Profile
+        fields = ('avatar',)
+
+
+class CustomUserCreationForm(UserCreationForm):
+    class Meta:
+        model = AuthUser
+        fields = ('first_name', 'last_name', 'email')
