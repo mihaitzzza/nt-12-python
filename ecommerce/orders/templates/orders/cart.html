@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+
+{% block content %}
+    <table style="width: 100%;">
+        <thead>
+            <th>Product name</th>
+            <th>Quantity</th>
+            <th>Price per item</th>
+            <th>Total price</th>
+        </thead>
+        <tbody>
+            {% for product, quantity, total_price in cart_products %}
+                <tr>
+                    <td>{{ product.name | truncatechars:50 }}</td>
+                    <td>
+                        <input type="number" value="{{ quantity }}" />
+                    </td>
+                    <td>{{ product.price }}</td>
+                    <td>{{ total_price }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <p style="font-weight: bold">
+        Total price: {{ total_order }}
+    </p>
+    <div>
+        <button>Update cart</button>
+        <button>Go to checkout</button>
+    </div>
+{% endblock %}

@@ -11,13 +11,16 @@
         {% for product in paginated_products %}
             <li>
                 <img src="{{ product.image_url }}" width="100%" />
-                {% comment %}<a href="/products/{{ product.id }}">{% endcomment %}
                 <a href="{% url 'products:product_details' product.id %}">
                     <p>{{ product.name | truncatechars:200 }}</p>
                 </a>
                 <div class="product-data">
                     <p class="price">{{ product.price }} RON</p>
-                    <button>Add to cart</button>
+                    <form method="post" action="{% url 'orders:add_to_cart' product.id %}">
+                        {% csrf_token %}
+                        <input type="hidden" name="next" value="{% url 'products:all_products' %}" />
+                        <input type="submit" value="Add to cart" />
+                    </form>
                 </div>
             </li>
         {% empty %}
