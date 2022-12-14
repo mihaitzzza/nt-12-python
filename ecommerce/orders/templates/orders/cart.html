@@ -1,31 +1,32 @@
 {% extends 'base.html' %}
+{% load orders %}
 
 {% block content %}
-    <table style="width: 100%;">
-        <thead>
-            <th>Product name</th>
-            <th>Quantity</th>
-            <th>Price per item</th>
-            <th>Total price</th>
-        </thead>
-        <tbody>
-            {% for product, quantity, total_price in cart_products %}
-                <tr>
-                    <td>{{ product.name | truncatechars:50 }}</td>
-                    <td>
-                        <input type="number" value="{{ quantity }}" />
-                    </td>
-                    <td>{{ product.price }}</td>
-                    <td>{{ total_price }}</td>
-                </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+    <form method="post" action="{% url 'orders:update_cart' %}">
+        {% csrf_token %}
+        <table style="width: 100%;">
+            <thead>
+                <th>Product name</th>
+                <th>Quantity</th>
+                <th>Price per item</th>
+                <th>Total price</th>
+            </thead>
+            <tbody>
+                {% for field in form %}
+                    {% cart_form_data form forloop.counter0 as product_details %}
+                    <tr>
+                        <td>{{ field.label | truncatechars:50 }}</td>
+                        <td>{{ field }}</td>
+                        <td>{{ product_details.price_per_item }} RON</td>
+                        <td>{{ product_details.total_price }} RON</td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+        <input type="submit" value="Update cart" />
+    </form>
     <p style="font-weight: bold">
-        Total price: {{ total_order }}
+        Total price: {% total_price form %} RON
     </p>
-    <div>
-        <button>Update cart</button>
-        <button>Go to checkout</button>
-    </div>
+    <a href="{% url 'orders:checkout' %}">Go to checkout</a>
 {% endblock %}

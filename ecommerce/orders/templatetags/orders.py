@@ -24,3 +24,28 @@ def get_cart_data(context):
         'total_amount': f'{amount:.2f} RON',
         'total_products': count
     }
+
+
+@register.simple_tag(name='cart_form_data', takes_context=True)
+def get_cart_form_data(context, form, product_index):
+    cart = context.request.session.get('cart', {})
+    product = form.products[product_index]
+
+    return {
+        'price_per_item': product.price,
+        'total_price': product.price * cart[str(product.id)]
+    }
+
+
+@register.simple_tag(name='total_price', takes_context=True)
+def get_total_price(context, form):
+    cart = context.request.session.get('cart', {})
+
+    print('\n' * 2)
+    print('context', context)
+    print('\n' * 2)
+
+    return sum([
+        product.price * cart[str(product.id)]
+        for product in form.products
+    ])

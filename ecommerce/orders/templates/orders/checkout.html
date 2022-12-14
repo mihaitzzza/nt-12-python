@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    <title>Checkout page</title>
+{% endblock %}
+
+{% block content %}
+    <form method="post" action="{% url 'orders:checkout' %}">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <p style="font-weight: bold;">Total price: {{ total_price }} RON</p>
+        <input type="submit" value="Order" />
+    </form>
+{% endblock %}
