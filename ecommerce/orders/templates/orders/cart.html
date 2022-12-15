@@ -20,13 +20,21 @@
                         <td>{{ product_details.price_per_item }} RON</td>
                         <td>{{ product_details.total_price }} RON</td>
                     </tr>
+                {% empty %}
+                    <tr>
+                        <td colspan="4" style="text-align: center">No products in cart.</td>
+                    </tr>
                 {% endfor %}
             </tbody>
         </table>
-        <input type="submit" value="Update cart" />
+        {% if form.fields|length > 0 %}
+            <input type="submit" value="Update cart" />
+        {% endif %}
     </form>
     <p style="font-weight: bold">
         Total price: {% total_price form %} RON
     </p>
-    <a href="{% url 'orders:checkout' %}">Go to checkout</a>
+    {% if form.fields|length > 0 %}
+        <a href="{% url 'orders:checkout' %}">Go to checkout</a>
+    {% endif %}
 {% endblock %}

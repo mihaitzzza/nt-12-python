@@ -1,0 +1,79 @@
+{% extends 'base.html' %}
+
+{% block title %}
+    <title>Pay order #{{ order.id }}</title>
+{% endblock %}
+
+{% block javascript %}
+    <script src="https://js.stripe.com/v3/"></script>
+    <script>
+        window.onload = function () {
+            var stripe = Stripe('{{ stripe_public_key }}');
+            // Set up Stripe.js and Elements to use in checkout form
+            var elements = stripe.elements();
+            var style = {
+                base: {
+                    color: "#3  2325d",
+                }
+            };
+
+            var card = elements.create("card", {hidePostalCode: true, style: style});
+            card.mount("#card-element");
+
+            card.on('change', ({error}) => {
+                let displayError = document.getElementById('card-errors');
+                if (error) {
+                    displayError.textContent = error.message;
+                } else {
+                    displayError.textContent = '';
+                }
+            });
+
+            var form = document.getElementById('payment-form');
+            form.addEventListener('submit', function (ev) {
+                ev.preventDefault();
+                // If the client secret was rendered server-side as a data-secret attribute
+                // on the <form> element, you can retrieve it here by calling `form.dataset.secret`
+                stripe.confirmCardPayment("{{ client_secret }}", {
+                    payment_method: {
+                        card: card,
+                        billing_details: {
+                            name: 'Jenny Rosen'
+                        }
+                    }
+                }).then(function (result) {
+                    console.log('result', result);
+
+                    var statusElement = document.querySelector('#payment-status')
+                    if (result.error) {
+                        statusElement.value = 'error'
+                    } else {
+                        // The payment has been processed!
+                        if (result.paymentIntent.status === 'succeeded') {
+                            statusElement.value = 'succeeded'
+                        }
+                    }
+
+                    document.querySelector('#payment-form').submit()
+                });
+            });
+        };
+    </script>
+{% endblock %}
+
+{% block content %}
+    <p>We're requesting a payment of {{ order.total_price }} RON through our Stripe partner.</p>
+    <form id="payment-form" method="post" action="{% url 'orders:pay' order.id %}">
+        {% csrf_token %}
+        <input id="payment-status" type="hidden" name="status" />
+
+        <div id="card-element">
+            <!-- Elements will create input elements here -->
+        </div>
+
+        <!-- We'll put the error messages in this element -->
+        <div id="card-errors" role="alert"></div>
+
+        <button type="submit">Submit Payment</button>
+    </form>
+{% endblock %}

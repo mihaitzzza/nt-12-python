@@ -43,11 +43,12 @@ class CartForm(forms.Form):
         return self.cleaned_data
 
     def save(self):
-        return {
+        self._session['cart'] = {
             product_key: quantity
             for product_key, quantity in self.cleaned_data.items()
             if quantity >= 1
         }
+        # self._session.modified = True
 
 
 class OrderForm(forms.ModelForm):
